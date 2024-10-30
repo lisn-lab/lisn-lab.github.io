@@ -12,5 +12,13 @@
       <link>http://localhost:1313/contact/</link>
     </image>
     
+    <item>
+      <title>S.T.A.R.S. HQ</title>
+      <link>http://localhost:1313/contact/thanks/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/thanks/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
