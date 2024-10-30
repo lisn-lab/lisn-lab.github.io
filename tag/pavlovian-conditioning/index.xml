@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pavlovian Conditioning | LISN Lab</title>
+    <link>http://localhost:1313/tag/pavlovian-conditioning/</link>
+      <atom:link href="http://localhost:1313/tag/pavlovian-conditioning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pavlovian Conditioning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Pavlovian Conditioning</title>
+      <link>http://localhost:1313/tag/pavlovian-conditioning/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the lateralisation of experimentally induced auditory verbal hallucinations</title>
+      <link>http://localhost:1313/publication/2023-mcpky-fin/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-mcpky-fin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milica Vasiljevic | LISN Lab</title>
+    <link>http://localhost:1313/author/milica-vasiljevic/</link>
+      <atom:link href="http://localhost:1313/author/milica-vasiljevic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Milica Vasiljevic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Milica Vasiljevic</title>
+      <link>http://localhost:1313/author/milica-vasiljevic/</link>
+    </image>
+    
+    <item>
+      <title>Walking blindfolded unveils unique contributions of behavioural approach and inhibition to lateral spatial bias</title>
+      <link>http://localhost:1313/publication/2016-wavy-cognition/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-wavy-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic size of abstract concepts: It gets emotional when you can’t see it</title>
+      <link>http://localhost:1313/publication/2013-yvwsos-plosone/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2013-yvwsos-plosone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

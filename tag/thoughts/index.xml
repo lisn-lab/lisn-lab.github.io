@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts | LISN Lab</title>
+    <link>http://localhost:1313/tag/thoughts/</link>
+      <atom:link href="http://localhost:1313/tag/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thoughts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tag/thoughts/</link>
+    </image>
+    
+    <item>
+      <title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title>
+      <link>http://localhost:1313/publication/2020-ambmyf-jocn/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-ambmyf-jocn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

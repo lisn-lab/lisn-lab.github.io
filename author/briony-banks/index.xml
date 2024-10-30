@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Briony Banks | LISN Lab</title>
+    <link>http://localhost:1313/author/briony-banks/</link>
+      <atom:link href="http://localhost:1313/author/briony-banks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Briony Banks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/briony-banks/avatar_hu15017636125992860869.jpg</url>
+      <title>Briony Banks</title>
+      <link>http://localhost:1313/author/briony-banks/</link>
+    </image>
+    
+    <item>
+      <title>Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?</title>
+      <link>http://localhost:1313/publication/2021-ytbk-neuroimage/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-ytbk-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

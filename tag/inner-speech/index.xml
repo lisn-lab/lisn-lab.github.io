@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inner Speech | LISN Lab</title>
+    <link>http://localhost:1313/tag/inner-speech/</link>
+      <atom:link href="http://localhost:1313/tag/inner-speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inner Speech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Inner Speech</title>
+      <link>http://localhost:1313/tag/inner-speech/</link>
+    </image>
+    
+    <item>
+      <title>Bridging phenomenology and neural mechanisms of inner speech: ALE meta-analysis on egocentricity and spontaneity in a dual-mechanistic framework</title>
+      <link>http://localhost:1313/publication/2023-ppy-neuroimage/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-ppy-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?</title>
+      <link>http://localhost:1313/publication/2021-ytbk-neuroimage/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-ytbk-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title>
+      <link>http://localhost:1313/publication/2021-y-jocognition/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-y-jocognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title>
+      <link>http://localhost:1313/publication/2020-ambmyf-jocn/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-ambmyf-jocn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title>
+      <link>http://localhost:1313/publication/2018-ys-cognition/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner voice experiences during processing of direct and indirect speech</title>
+      <link>http://localhost:1313/publication/2015-ys-eaipisp/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2015-ys-eaipisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual modulation of reading rate for direct versus indirect speech quotations</title>
+      <link>http://localhost:1313/publication/2011-ys-cognition/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2011-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex</title>
+      <link>http://localhost:1313/publication/2011-ybs-jocn/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2011-ybs-jocn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

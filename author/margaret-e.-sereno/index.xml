@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margaret E. Sereno | LISN Lab</title>
+    <link>http://localhost:1313/author/margaret-e.-sereno/</link>
+      <atom:link href="http://localhost:1313/author/margaret-e.-sereno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Margaret E. Sereno</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Margaret E. Sereno</title>
+      <link>http://localhost:1313/author/margaret-e.-sereno/</link>
+    </image>
+    
+    <item>
+      <title>Semantic size of abstract concepts: It gets emotional when you can’t see it</title>
+      <link>http://localhost:1313/publication/2013-yvwsos-plosone/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2013-yvwsos-plosone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

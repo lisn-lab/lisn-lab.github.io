@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embodied Cognition | LISN Lab</title>
+    <link>http://localhost:1313/tag/embodied-cognition/</link>
+      <atom:link href="http://localhost:1313/tag/embodied-cognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embodied Cognition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Embodied Cognition</title>
+      <link>http://localhost:1313/tag/embodied-cognition/</link>
+    </image>
+    
+    <item>
+      <title>What can size tell us about abstract conceptual processing?</title>
+      <link>http://localhost:1313/publication/2022-yts-jml/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-yts-jml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title>
+      <link>http://localhost:1313/publication/2021-y-jocognition/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-y-jocognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential emotional processing in concrete and abstract words</title>
+      <link>http://localhost:1313/publication/2018-ykbsos-jeplmc/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-ykbsos-jeplmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic size of abstract concepts: It gets emotional when you can’t see it</title>
+      <link>http://localhost:1313/publication/2013-yvwsos-plosone/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2013-yvwsos-plosone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain ‘talks over’ boring quotes: Top-down activation of voice-selective areas while listening to monotonous direct speech quotations</title>
+      <link>http://localhost:1313/publication/2012-ybs-neuroimage/</link>
+      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2012-ybs-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual modulation of reading rate for direct versus indirect speech quotations</title>
+      <link>http://localhost:1313/publication/2011-ys-cognition/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2011-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex</title>
+      <link>http://localhost:1313/publication/2011-ybs-jocn/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2011-ybs-jocn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

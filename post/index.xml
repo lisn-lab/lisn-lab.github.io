@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | LISN Lab</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Latest News</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>STARS Squad Kicks Off Journal Club with a Bang!</title>
+      <link>http://localhost:1313/post/20241030-stars-journalclub/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20241030-stars-journalclub/</guid>
+      <description>&lt;p&gt;Our new STARS squad launched their first journal club this week, and it was a hit! Maisie led an engaging discussion on the Variety of Inner Speech Questionnaire-Revised, sparking interesting conversations about inner speech, cultural norms, and individual experiences.&lt;/p&gt;
+&lt;p&gt;We explored how questionnaires like the VISQ can be improved and validated, and potentially be adapted for clinical contexts. We also dipped our toes into the fascinating world of schizophrenia and predictive brain models.&lt;/p&gt;
+&lt;p&gt;It wasn&amp;rsquo;t all work, though - Summer&amp;rsquo;s Halloween-themed biscuits added a festive touch to the proceedings. The enthusiasm in the room was palpable, with every member eager to contribute.&lt;/p&gt;
+&lt;p&gt;This successful start sets the stage for an exciting term ahead. Each STAR will have the chance to shine, engaging with a diverse range of topics and lively debates. Stay tuned for more updates!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exciting Funding News!</title>
+      <link>http://localhost:1313/post/20241001-apex-award/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20241001-apex-award/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that our lab has been awarded &lt;a href=&#34;https://royalsociety.org/news/2024/09/apex-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;an APEX Award by the Royal Society&lt;/a&gt; for an exciting project towards EEG Classification of Auditory Verbal Hallucinations.&lt;/p&gt;
+&lt;p&gt;Our research aims to advance the understanding and detection of internal speech experiences akin to auditory verbal hallucinations (AVHs) by combining electroencephalography (EEG) with explainable machine learning. This cross-disciplinary approach brings together experts from neuroscience, psychology, and computer science to develop a potentially game-changing method for monitoring and treating AVHs.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re excited about the possibilities this project opens up and the potential to improve the lives of those affected by AVHs. Stay tuned for updates as we embark on this exciting new chapter in our research!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

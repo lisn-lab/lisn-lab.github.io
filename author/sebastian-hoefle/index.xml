@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Hoefle | LISN Lab</title>
+    <link>http://localhost:1313/author/sebastian-hoefle/</link>
+      <atom:link href="http://localhost:1313/author/sebastian-hoefle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Hoefle</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Sebastian Hoefle</title>
+      <link>http://localhost:1313/author/sebastian-hoefle/</link>
+    </image>
+    
+    <item>
+      <title>Transcranial electrical stimulation modulates emotional experience and metabolites in the prefrontal cortex in a donation task</title>
+      <link>http://localhost:1313/publication/2024-mbmcabmhmmp-scirep/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-mbmcabmhmmp-scirep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

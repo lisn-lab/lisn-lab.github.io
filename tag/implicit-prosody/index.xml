@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Implicit Prosody | LISN Lab</title>
+    <link>http://localhost:1313/tag/implicit-prosody/</link>
+      <atom:link href="http://localhost:1313/tag/implicit-prosody/index.xml" rel="self" type="application/rss+xml" />
+    <description>Implicit Prosody</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <title>Implicit Prosody</title>
+      <link>http://localhost:1313/tag/implicit-prosody/</link>
+    </image>
+    
+    <item>
+      <title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title>
+      <link>http://localhost:1313/publication/2018-ys-cognition/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner voice experiences during processing of direct and indirect speech</title>
+      <link>http://localhost:1313/publication/2015-ys-eaipisp/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2015-ys-eaipisp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
