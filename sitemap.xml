@@ -638,7 +638,13 @@
     <lastmod>2011-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/amelia-simmonds/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/daisy-watson/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/el-smith/</loc>
@@ -666,6 +672,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/ryan-horsfall/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/sa-lun-yuen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/summer-rickard/</loc>
