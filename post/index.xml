@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | LISN Lab</title>
+    <title>Recent Updates | LISN Lab</title>
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <description>Recent Updates</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
-      <title>Latest News</title>
+      <title>Recent Updates</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Lack of mental imagery? You may be special!</title>
+      <link>http://localhost:1313/post/20250121-aphantasia/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20250121-aphantasia/</guid>
+      <description>&lt;p&gt;Think of an apple in your mind. Can you see a red fruit with a glossy sheen, or… nothing at all? If it is the latter, then &lt;strong&gt;you may be part of 2-4% of the world’s population that are aphantasic!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t worry - aphantasia isn&amp;rsquo;t a disability or medical condition. It&amp;rsquo;s simply a different way that the mind processes information and thinks.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-aphantasia&#34;&gt;What is Aphantasia?&lt;/h1&gt;
+&lt;p&gt;Aphantasia is when your brain doesn’t form or use mental images as part of your thinking or imagination. If your mind is like a TV, for someone with Aphantasia, it is as if the screen is blank, with no shapes or colours or… anything at all.&lt;/p&gt;
+&lt;p&gt;This affects even the most familiar objects. For instance, someone I interviewed said they can’t even imagine objects they use every day, such as their phone. They can think about their phone as a concept but literally cannot picture it in their head!
+Aphantasia can be congenital (from birth) or acquired (developed in later life, often due to illness / injury / mental health condition) and doesn’t need diagnosing. In fact, people often don’t even realise that they are aphantasic, even though they may notice from a young age they lack the ability to form mental images.&lt;/p&gt;
+&lt;p&gt;For example, in a BBC news article Niel Kenmuir said that as a child, he couldn’t fall asleep counting sheep – not because he didn’t want to, but because he simply couldn’t see the sheep in his mind! He didn’t realise this was unusual until adulthood. Indeed, many people didn’t realise until later in life that they were aphantasic, but did notice from a young age that they could not picture things in their mind like others.&lt;/p&gt;
+&lt;h1 id=&#34;does-aphantasia-affect-everyday-life&#34;&gt;Does Aphantasia Affect Everyday Life?&lt;/h1&gt;
+&lt;p&gt;Aphantasia rarely affects everyday life, as it doesn’t stop them from doing things.
+However, Aphantasia does impact certain abilities, such as not being able to picture what book characters look like when reading, or finding arts and geometry hard because they can’t manipulate images or shapes in their mind.&lt;/p&gt;
+&lt;p&gt;Some Aphantasics experience very poor visual memory – it’d be a struggle for them to recall images from significant events like wedding or their first day at school, and sometimes even to recognise faces.&lt;/p&gt;
+&lt;h1 id=&#34;the-surprising-benefits-of-aphantasia&#34;&gt;The Surprising Benefits of Aphantasia&lt;/h1&gt;
+&lt;p&gt;While having Aphantasia isn’t a limitation – it’s just a different way of thinking. Research suggests it may actually enhance certain cognitive abilities. People with aphantasia often excel in analytical thinking and abstract reasoning, demonstrating superior factual memory and logical problem-solving skills. Additionally, some aphantasic individuals report practical advantages, such as being less affected by traumatic visual memories or disturbing descriptions in books or movies, as they process information conceptually rather than visually.&lt;/p&gt;
+&lt;h1 id=&#34;what-about-you&#34;&gt;What About You?&lt;/h1&gt;
+&lt;p&gt;Are you curious about how your own mind works? Can you picture an apple? Do you have mental imagery? Have you ever wondered if you might be aphantasic? Understanding your cognitive style can provide valuable insights into how you learn, process information, and interact with the world.&lt;/p&gt;
+&lt;h1 id=&#34;contributing-to-research&#34;&gt;Contributing to Research&lt;/h1&gt;
+&lt;p&gt;Your experience matters to the scientific community. As part of our ongoing research into neurodiversity, we&amp;rsquo;re conducting a comprehensive study on different cognitive styles, including aphantasia. If you&amp;rsquo;d like to contribute to our understanding of this fascinating variation in human cognition, we invite you to participate in our study. Learn more and join our research initiative by clicking the link below.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>STARS Squad Kicks Off Journal Club with a Bang!</title>

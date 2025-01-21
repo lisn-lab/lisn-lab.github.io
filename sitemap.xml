@@ -14,11 +14,39 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tag/aphantasia/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/blog/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/20250121-aphantasia/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/madison-hartley/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/mhih/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/tag/news/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,15 +58,11 @@
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/20241001-apex-award/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/funding-news/</loc>
+    <loc>http://localhost:1313/tag/funding/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -47,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/ana-carolina-andorinho-de-freitas-ferreira/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -664,9 +684,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/laura-johnson/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/madison-hartley/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/maisie-dransfield/</loc>

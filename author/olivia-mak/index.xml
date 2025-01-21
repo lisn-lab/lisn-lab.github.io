@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/olivia-mak/</link>
       <atom:link href="http://localhost:1313/author/olivia-mak/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivia Mak</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/olivia-mak/avatar_hu13398619962483434990.jpeg</url>
+      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
       <title>Olivia Mak</title>
       <link>http://localhost:1313/author/olivia-mak/</link>
     </image>
+    
+    <item>
+      <title>Investigating the lateralisation of experimentally induced auditory verbal hallucinations</title>
+      <link>http://localhost:1313/publication/2023-mcpky-fin/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-mcpky-fin/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
