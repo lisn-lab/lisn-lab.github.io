@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 24, 2025 --><html lang="en-us" >
+<!-- Last Published: January 25, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,7 +65,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -209,7 +209,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.72cb3dffa3a68df12bc77fbbd74cc0b7.css" />
 
   
   
@@ -236,9 +236,64 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
 
 
 
@@ -278,8 +333,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/20250121-aphantasia/" />
-<link rel="canonical" href="http://localhost:1313/post/20250121-aphantasia/" />
+<link rel="alternate" hreflang="en-us" href="https://lisn-lab.org/post/20250121-aphantasia/" />
+<link rel="canonical" href="https://lisn-lab.org/post/20250121-aphantasia/" />
 
 
 
@@ -287,8 +342,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu1981544878984423024.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu6781474754544777080.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
 
 <meta name="theme-color" content="#bbdefb" />
 
@@ -309,7 +364,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/post/20250121-aphantasia/aphantasia.jpg" />
+<meta property="twitter:image" content="https://lisn-lab.org/post/20250121-aphantasia/aphantasia.jpg" />
 
 
 
@@ -317,9 +372,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="LISN Lab" />
-<meta property="og:url" content="http://localhost:1313/post/20250121-aphantasia/" />
+<meta property="og:url" content="https://lisn-lab.org/post/20250121-aphantasia/" />
 <meta property="og:title" content="Lack of mental imagery? You may be special! | LISN Lab" />
-<meta property="og:description" content="Are you curious about how your own mind works? Can you picture an apple? Do you have mental imagery?" /><meta property="og:image" content="http://localhost:1313/post/20250121-aphantasia/aphantasia.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Are you curious about how your own mind works? Can you picture an apple? Do you have mental imagery?" /><meta property="og:image" content="https://lisn-lab.org/post/20250121-aphantasia/aphantasia.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -354,12 +409,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/20250121-aphantasia/"
+    "@id": "https://lisn-lab.org/post/20250121-aphantasia/"
   },
   "headline": "Lack of mental imagery? You may be special!",
   
   "image": [
-    "http://localhost:1313/post/20250121-aphantasia/aphantasia.jpg"
+    "https://lisn-lab.org/post/20250121-aphantasia/aphantasia.jpg"
   ],
   
   "datePublished": "2025-01-21T00:00:00Z",
@@ -375,7 +430,7 @@
     "name": "Language, Inner Speech, and Neuroscience Lab",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu17462833245089514034.png"
+      "url": "https://lisn-lab.org/media/icon_hu_7b2fe40026ff54f8.png"
     }
   },
   "description": "Are you curious about how your own mind works? Can you picture an apple? Do you have mental imagery?"
@@ -431,7 +486,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
 
   
 
@@ -854,6 +909,9 @@
   
   
   
+    <span class="middot-divider"></span>
+    <a href="/post/20250121-aphantasia/#disqus_thread"></a>
+  
 
   
   
@@ -871,7 +929,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 522px; max-height: 519px;">
   <div style="position: relative">
-    <img src="/post/20250121-aphantasia/aphantasia_hu10704980794168770277.webp" width="522" height="519" alt="" class="featured-image">
+    <img src="/post/20250121-aphantasia/aphantasia_hu_94af6ebc8a506a24.webp" width="522" height="519" alt="" class="featured-image">
     
   </div>
 </div>
@@ -914,11 +972,17 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
 <h2 id="contributing-to-research">Contributing to Research</h2>
 <p>Your experience matters to the scientific community. As part of our ongoing research into neurodiversity, we&rsquo;re conducting a study on how aphantasia affects cognition.</p>
 <p>If you think you are Aphantasic and would like to contribute to our understanding of this fascinating variation in human cognition, please join our research by signing up through the link below.</p>
+
+
 <ul class="cta-group">
+  
   <li>
     <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHqXnE6poLxzQJAWSrFgdYO91ptHjgdJqGlvLhxUNUQ4RDZONVdCNjlGVUJHSU1HVVZXT1E5OC4u"  class="btn btn-primary px-3 py-3">Yay! Sign Me Up!</a>
   </li>
+  
+  
 </ul>
+
 
     </div>
 
@@ -953,7 +1017,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20250121-aphantasia%2F&amp;text=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250121-aphantasia%2F&amp;text=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -970,7 +1034,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20250121-aphantasia%2F&amp;t=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250121-aphantasia%2F&amp;t=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -989,7 +1053,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
         
       
       <li>
-        <a href="mailto:?subject=Lack%20of%20mental%20imagery%3F%20You%20may%20be%20special%21&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20250121-aphantasia%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Lack%20of%20mental%20imagery%3F%20You%20may%20be%20special%21&amp;body=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250121-aphantasia%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1006,7 +1070,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20250121-aphantasia%2F&amp;title=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250121-aphantasia%2F&amp;title=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1023,7 +1087,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
       
       
       <li>
-        <a href="whatsapp://send?text=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20250121-aphantasia%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21%20https%3A%2F%2Flisn-lab.org%2Fpost%2F20250121-aphantasia%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1040,7 +1104,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20250121-aphantasia%2F&amp;title=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250121-aphantasia%2F&amp;title=Lack&#43;of&#43;mental&#43;imagery%3F&#43;You&#43;may&#43;be&#43;special%21" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1072,7 +1136,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/madison-hartley/"><img class="avatar mr-3 avatar-circle" src="/author/madison-hartley/avatar_hu7829753506852227328.jpeg" alt="Madison Hartley"></a>
+      <a href="/author/madison-hartley/"><img class="avatar mr-3 avatar-circle" src="/author/madison-hartley/avatar_hu_33c970673b9774ff.jpeg" alt="Madison Hartley"></a>
     
 
     <div class="media-body">
@@ -1094,6 +1158,40 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
 
 
 
+
+  
+  
+  
+
+  
+
+  
+  <section id="comments">
+    
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "lisn-lab" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  </section>
+  
 
 
 
@@ -1129,7 +1227,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1180,6 +1278,8 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
 
 
 
+  <script id="dsq-count-scr" src="https://lisn-lab.disqus.com/count.js" async></script>
+
 
 
 
@@ -1210,7 +1310,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1224,11 +1324,11 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.abfe36939207af9cb82df4fe2604ba17.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1261,7 +1361,7 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

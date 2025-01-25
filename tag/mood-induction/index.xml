@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mood Induction | LISN Lab</title>
-    <link>http://localhost:1313/tag/mood-induction/</link>
-      <atom:link href="http://localhost:1313/tag/mood-induction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/mood-induction/</link>
+      <atom:link href="https://lisn-lab.org/tag/mood-induction/index.xml" rel="self" type="application/rss+xml" />
     <description>Mood Induction</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Mood Induction</title>
-      <link>http://localhost:1313/tag/mood-induction/</link>
+      <link>https://lisn-lab.org/tag/mood-induction/</link>
     </image>
     
     <item>
       <title>Emotion word processing: Does mood make a difference?</title>
-      <link>http://localhost:1313/publication/2015-ssyto-frontierpsych/</link>
+      <link>https://lisn-lab.org/publication/2015-ssyto-frontierpsych/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2015-ssyto-frontierpsych/</guid>
+      <guid>https://lisn-lab.org/publication/2015-ssyto-frontierpsych/</guid>
       <description></description>
     </item>
     

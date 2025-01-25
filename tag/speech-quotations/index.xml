@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speech Quotations | LISN Lab</title>
-    <link>http://localhost:1313/tag/speech-quotations/</link>
-      <atom:link href="http://localhost:1313/tag/speech-quotations/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/speech-quotations/</link>
+      <atom:link href="https://lisn-lab.org/tag/speech-quotations/index.xml" rel="self" type="application/rss+xml" />
     <description>Speech Quotations</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Speech Quotations</title>
-      <link>http://localhost:1313/tag/speech-quotations/</link>
+      <link>https://lisn-lab.org/tag/speech-quotations/</link>
     </image>
     
     <item>
       <title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title>
-      <link>http://localhost:1313/publication/2021-y-jocognition/</link>
+      <link>https://lisn-lab.org/publication/2021-y-jocognition/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-y-jocognition/</guid>
+      <guid>https://lisn-lab.org/publication/2021-y-jocognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title>
-      <link>http://localhost:1313/publication/2020-ambmyf-jocn/</link>
+      <link>https://lisn-lab.org/publication/2020-ambmyf-jocn/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020-ambmyf-jocn/</guid>
+      <guid>https://lisn-lab.org/publication/2020-ambmyf-jocn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title>
-      <link>http://localhost:1313/publication/2018-ys-cognition/</link>
+      <link>https://lisn-lab.org/publication/2018-ys-cognition/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-ys-cognition/</guid>
+      <guid>https://lisn-lab.org/publication/2018-ys-cognition/</guid>
       <description></description>
     </item>
     

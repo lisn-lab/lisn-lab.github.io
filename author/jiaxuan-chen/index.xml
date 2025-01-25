@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaxuan Chen | LISN Lab</title>
-    <link>http://localhost:1313/author/jiaxuan-chen/</link>
-      <atom:link href="http://localhost:1313/author/jiaxuan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/jiaxuan-chen/</link>
+      <atom:link href="https://lisn-lab.org/author/jiaxuan-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaxuan Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/jiaxuan-chen/avatar_hu9912590292417507283.jpg</url>
+      <url>https://lisn-lab.org/author/jiaxuan-chen/avatar_hu_ce118506d6dd7a57.jpg</url>
       <title>Jiaxuan Chen</title>
-      <link>http://localhost:1313/author/jiaxuan-chen/</link>
+      <link>https://lisn-lab.org/author/jiaxuan-chen/</link>
     </image>
     
   </channel>

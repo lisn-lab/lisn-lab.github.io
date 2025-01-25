@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Mikkelsen | LISN Lab</title>
-    <link>http://localhost:1313/author/mark-mikkelsen/</link>
-      <atom:link href="http://localhost:1313/author/mark-mikkelsen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/mark-mikkelsen/</link>
+      <atom:link href="https://lisn-lab.org/author/mark-mikkelsen/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Mikkelsen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Mark Mikkelsen</title>
-      <link>http://localhost:1313/author/mark-mikkelsen/</link>
+      <link>https://lisn-lab.org/author/mark-mikkelsen/</link>
     </image>
     
     <item>
       <title>Transcranial electrical stimulation modulates emotional experience and metabolites in the prefrontal cortex in a donation task</title>
-      <link>http://localhost:1313/publication/2024-mbmcabmhmmp-scirep/</link>
+      <link>https://lisn-lab.org/publication/2024-mbmcabmhmmp-scirep/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-mbmcabmhmmp-scirep/</guid>
+      <guid>https://lisn-lab.org/publication/2024-mbmcabmhmmp-scirep/</guid>
       <description></description>
     </item>
     

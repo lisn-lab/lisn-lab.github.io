@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maisie Dransfield | LISN Lab</title>
-    <link>http://localhost:1313/author/maisie-dransfield/</link>
-      <atom:link href="http://localhost:1313/author/maisie-dransfield/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/maisie-dransfield/</link>
+      <atom:link href="https://lisn-lab.org/author/maisie-dransfield/index.xml" rel="self" type="application/rss+xml" />
     <description>Maisie Dransfield</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/maisie-dransfield/avatar_hu10654916985341609655.jpeg</url>
+      <url>https://lisn-lab.org/author/maisie-dransfield/avatar_hu_183fa35394fbb155.jpeg</url>
       <title>Maisie Dransfield</title>
-      <link>http://localhost:1313/author/maisie-dransfield/</link>
+      <link>https://lisn-lab.org/author/maisie-dransfield/</link>
     </image>
     
   </channel>

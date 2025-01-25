@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaqi Wang | LISN Lab</title>
-    <link>http://localhost:1313/author/jiaqi-wang/</link>
-      <atom:link href="http://localhost:1313/author/jiaqi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/jiaqi-wang/</link>
+      <atom:link href="https://lisn-lab.org/author/jiaqi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaqi Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/jiaqi-wang/avatar_hu10154437172189486698.jpeg</url>
+      <url>https://lisn-lab.org/author/jiaqi-wang/avatar_hu_76d3afdffe6fcff8.jpeg</url>
       <title>Jiaqi Wang</title>
-      <link>http://localhost:1313/author/jiaqi-wang/</link>
+      <link>https://lisn-lab.org/author/jiaqi-wang/</link>
     </image>
     
   </channel>

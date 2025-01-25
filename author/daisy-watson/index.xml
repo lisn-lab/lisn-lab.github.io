@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daisy Watson | LISN Lab</title>
-    <link>http://localhost:1313/author/daisy-watson/</link>
-      <atom:link href="http://localhost:1313/author/daisy-watson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/daisy-watson/</link>
+      <atom:link href="https://lisn-lab.org/author/daisy-watson/index.xml" rel="self" type="application/rss+xml" />
     <description>Daisy Watson</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/daisy-watson/avatar_hu2977891369457315317.jpg</url>
+      <url>https://lisn-lab.org/author/daisy-watson/avatar_hu_2d6e3c550e083dc2.jpg</url>
       <title>Daisy Watson</title>
-      <link>http://localhost:1313/author/daisy-watson/</link>
+      <link>https://lisn-lab.org/author/daisy-watson/</link>
     </image>
     
   </channel>

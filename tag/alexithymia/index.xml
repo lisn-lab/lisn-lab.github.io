@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexithymia | LISN Lab</title>
-    <link>http://localhost:1313/tag/alexithymia/</link>
-      <atom:link href="http://localhost:1313/tag/alexithymia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/alexithymia/</link>
+      <atom:link href="https://lisn-lab.org/tag/alexithymia/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexithymia</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Alexithymia</title>
-      <link>http://localhost:1313/tag/alexithymia/</link>
+      <link>https://lisn-lab.org/tag/alexithymia/</link>
     </image>
     
     <item>
       <title>Differential emotional processing in concrete and abstract words</title>
-      <link>http://localhost:1313/publication/2018-ykbsos-jeplmc/</link>
+      <link>https://lisn-lab.org/publication/2018-ykbsos-jeplmc/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-ykbsos-jeplmc/</guid>
+      <guid>https://lisn-lab.org/publication/2018-ykbsos-jeplmc/</guid>
       <description></description>
     </item>
     

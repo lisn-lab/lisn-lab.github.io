@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 24, 2025 --><html lang="en-us" >
+<!-- Last Published: January 25, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,7 +65,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -209,7 +209,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.72cb3dffa3a68df12bc77fbbd74cc0b7.css" />
 
   
   
@@ -236,9 +236,64 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
 
 
 
@@ -278,8 +333,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/tag/inner-speech-subtypes/" />
-<link rel="canonical" href="http://localhost:1313/tag/inner-speech-subtypes/" />
+<link rel="alternate" hreflang="en-us" href="https://lisn-lab.org/tag/inner-speech-subtypes/" />
+<link rel="canonical" href="https://lisn-lab.org/tag/inner-speech-subtypes/" />
 
 
 
@@ -287,8 +342,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu1981544878984423024.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu6781474754544777080.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
 
 <meta name="theme-color" content="#bbdefb" />
 
@@ -310,7 +365,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu12750140480456391776.png" />
+<meta property="twitter:image" content="https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png" />
 
 
 
@@ -318,9 +373,9 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="LISN Lab" />
-<meta property="og:url" content="http://localhost:1313/tag/inner-speech-subtypes/" />
+<meta property="og:url" content="https://lisn-lab.org/tag/inner-speech-subtypes/" />
 <meta property="og:title" content="Inner Speech Subtypes | LISN Lab" />
-<meta property="og:description" content="Language, Inner Speech, and Neuroscience Lab" /><meta property="og:image" content="http://localhost:1313/media/icon_hu12750140480456391776.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Language, Inner Speech, and Neuroscience Lab" /><meta property="og:image" content="https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;00:00" />
@@ -379,7 +434,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
 
   
 
@@ -838,7 +893,7 @@
       
       
       <a href="/research/innerspeech/" >
-        <img src="/research/innerspeech/featured_hu9456251760558592195.webp" height="150" width="150"
+        <img src="/research/innerspeech/featured_hu_fb4b32248ffeddbc.webp" height="150" width="150"
             alt="Inner Speech" loading="lazy">
       </a>
     
@@ -872,7 +927,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -923,6 +978,8 @@
 
 
 
+  <script id="dsq-count-scr" src="https://lisn-lab.disqus.com/count.js" async></script>
+
 
 
 
@@ -953,7 +1010,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -967,11 +1024,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.abfe36939207af9cb82df4fe2604ba17.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1004,7 +1061,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

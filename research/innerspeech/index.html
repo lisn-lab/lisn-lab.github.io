@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 24, 2025 --><html lang="en-us" >
+<!-- Last Published: January 25, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,7 +65,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -209,7 +209,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.72cb3dffa3a68df12bc77fbbd74cc0b7.css" />
 
   
   
@@ -236,9 +236,64 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
 
 
 
@@ -278,8 +333,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/research/innerspeech/" />
-<link rel="canonical" href="http://localhost:1313/research/innerspeech/" />
+<link rel="alternate" hreflang="en-us" href="https://lisn-lab.org/research/innerspeech/" />
+<link rel="canonical" href="https://lisn-lab.org/research/innerspeech/" />
 
 
 
@@ -287,8 +342,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu1981544878984423024.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu6781474754544777080.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
 
 <meta name="theme-color" content="#bbdefb" />
 
@@ -309,7 +364,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/research/innerspeech/featured.jpg" />
+<meta property="twitter:image" content="https://lisn-lab.org/research/innerspeech/featured.jpg" />
 
 
 
@@ -317,9 +372,9 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="LISN Lab" />
-<meta property="og:url" content="http://localhost:1313/research/innerspeech/" />
+<meta property="og:url" content="https://lisn-lab.org/research/innerspeech/" />
 <meta property="og:title" content="Inner Speech | LISN Lab" />
-<meta property="og:description" content="Inner speech, the silent voice in our minds, is an enigmatic conscious experience where the brain engages in a dialogue with itself. Why and how does the brain reflect on itself and interact with the world through language, and why is this ability not experienced universally by all individuals?" /><meta property="og:image" content="http://localhost:1313/research/innerspeech/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Inner speech, the silent voice in our minds, is an enigmatic conscious experience where the brain engages in a dialogue with itself. Why and how does the brain reflect on itself and interact with the world through language, and why is this ability not experienced universally by all individuals?" /><meta property="og:image" content="https://lisn-lab.org/research/innerspeech/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -384,7 +439,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
 
   
 
@@ -843,7 +898,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 400px; max-height: 400px;">
   <div style="position: relative">
-    <img src="/research/innerspeech/featured_hu13475299131647573890.webp" width="400" height="400" alt="" class="featured-image">
+    <img src="/research/innerspeech/featured_hu_8f9abf44720d4af0.webp" width="400" height="400" alt="" class="featured-image">
     
   </div>
 </div>
@@ -859,32 +914,35 @@
   <summary class="font-weight-bold">Table of Contents</summary>
   <nav id="TableOfContents">
   <ul>
-    <li><a href="#hearing-words-off-the-page">Hearing Words off the Page</a></li>
     <li><a href="#varieties-of-inner-speech">Varieties of Inner Speech</a></li>
+    <li><a href="#hearing-words-off-the-page">Hearing Words off the Page</a></li>
     <li><a href="#neural-mechanisms-of-inner-speech">Neural Mechanisms of Inner Speech</a></li>
     <li><a href="#inner-speech-in-self-consciousness">Inner Speech in Self-Consciousness</a></li>
   </ul>
 </nav>
 </details>
 
-<h2 id="hearing-words-off-the-page">Hearing Words off the Page</h2>
-<p>Hearing inner voices while reading speech quotes is a phenomenon closely tied to inner speech, the internal dialogues that engages various cognitive and neural mechanisms. This experience can vary in tone, pitch, or accent based on the reader&rsquo;s familiarity with characters or context, and it provides valuable insights into the interplay between language and perception. Inner speech during reading can affect comprehension, emotional engagement, and memory retention, and its experience can differ among individuals due to factors like reading proficiency, cognitive style, and mood. For example, some people report a more vivid inner voice when emotionally engaged with the text.</p>
-<p>At LISN, our research focuses on the experience of hearing inner voices during silent reading of speech quotes. Empirical evidence from our lab indicates increased neural activity in the auditory cortex <a href="/publication/2011-YBS-JoCN">(Yao, Belin, &amp; Scheepers, 2011)</a>, more synchronous auditory cortical oscillations <a href="/publication/2021-YTBK-NeuroImage">(Yao et al., 2021)</a>, and eye movements that align with the speed of the inner voice <a href="/publication/2011-YS-Cognition">(Yao &amp; Scheepers, 2011)</a>. We explore underlying mechanisms and contributing factors, such as the hypothesis that learning to speak and read aloud may establish an automatic link between text and auditory experiences. Another line of inquiry considers that this inner voice simulates social interactions <a href="/publication/2020-AMBMYF-JoCN">(Alderson-Day et al., 2020)</a>, potentially reinforced by the brain&rsquo;s reward system as a prosocial mechanism. Through these research avenues, LISN aims to deepen our understanding of this complex aspect of language processing and cognition.
+<p>Inner speech represents a fundamental aspect of human cognition and consciousness, manifesting in various forms and serving multiple functions in mental life. At LISN, we investigate this phenomenon through multiple complementary approaches: examining its varieties and manifestations, studying its role in reading comprehension, mapping its neural underpinnings, and exploring its contribution to consciousness and self-awareness. This comprehensive approach allows us to build a deeper understanding of how inner speech shapes human thought and experience.
 <br>
 <br></p>
 <h2 id="varieties-of-inner-speech">Varieties of Inner Speech</h2>
-<p>Inner speech manifests in various subtypes, each with distinct characteristics. Dialogic inner speech involves an internal dialogue where different perspectives are represented. Condensed inner speech is more abbreviated and lacks the full syntactic structure of external speech. Evaluative inner speech involves self-assessment or self-criticism, and motivational inner speech serves to encourage or motivate the individual. These subtypes offer valuable insights into the complexities of human cognition. To study them empirically, researchers use a range of methods. Self-report questionnaires capture individual experiences but can be subject to self-report biases. Experience sampling involves prompting participants at random times to report their inner speech, aiming to capture real-time data. Neuroimaging techniques like fMRI and EEG identify the brain regions activated during different types of inner speech. Think-aloud protocols involve participants verbalising their thought processes during tasks, capturing the structure and content of inner speech.</p>
-<p>At LISN, our research employs multiple methods to delve into inner speech subtypes. We use experience sampling in a range of cognitive tasks to understand the prevalence of inner speech subtypes in different situations. Think-aloud protocols help us explore the phenomenology of inner speech across various task conditions. Additionally, we use machine learning and EEG to identify the neural underpinnings of different inner speech subtypes. Through these research avenues, LISN aims to offer a comprehensive understanding of this complex aspect of language processing and cognition.
+<p>Inner speech encompasses distinct varieties, each serving unique cognitive functions. Dialogic inner speech enables internal conversations where multiple perspectives are mentally represented, while condensed inner speech operates in abbreviated thought patterns without full syntactic structure. Evaluative inner speech facilitates self-reflection and assessment, and motivational inner speech serves to regulate behavior and emotional states. These varieties differ not only in their form but also in their cognitive and behavioral impacts. Understanding these distinctions is crucial for comprehending how inner speech supports various mental processes, from problem-solving to emotional regulation.</p>
+<p>At LISN, we employ multiple complementary methods to investigate these inner speech varieties. Through experience sampling, we capture real-time manifestations of different inner speech types across various cognitive tasks. Our innovative combination of think-aloud protocols with advanced EEG analysis helps identify distinct neural signatures for different inner speech subtypes. By applying machine learning techniques to these neural patterns, we&rsquo;re developing new frameworks for understanding how different forms of inner speech contribute to cognitive processing. Through these research avenues, LISN aims to establish a comprehensive taxonomy of inner speech varieties and their roles in human cognition.
+<br>
+<br></p>
+<h2 id="hearing-words-off-the-page">Hearing Words off the Page</h2>
+<p>When reading direct speech, many people report experiencing vivid inner voices, complete with distinctive tones, accents, and emotional qualities. This phenomenon represents a specialized manifestation of inner speech that bridges written language and auditory experience. The vividness of these inner voices can vary based on factors such as emotional engagement with the text, reading proficiency, and individual differences in cognitive style. This experience often enhances text comprehension and memory retention, particularly for dialogue-rich narratives.</p>
+<p>At LISN, our research has revealed the sophisticated neural and cognitive mechanisms underlying this phenomenon. Our groundbreaking studies have demonstrated increased neural activity in the auditory cortex during silent reading of direct speech <a href="/publication/2011-YBS-JoCN">(Yao, Belin, &amp; Scheepers, 2011)</a>, accompanied by synchronous auditory cortical oscillations <a href="/publication/2021-YTBK-NeuroImage">(Yao et al., 2021)</a>. We&rsquo;ve also found that eye movements during reading align with the natural rhythm of the imagined inner voice <a href="/publication/2011-YS-Cognition">(Yao &amp; Scheepers, 2011)</a>. Our current research explores how early experiences of learning to read aloud might establish automatic links between text and auditory experiences, and how inner voice simulation might serve as a prosocial mechanism reinforced by the brain&rsquo;s reward system <a href="/publication/2020-AMBMYF-JoCN">(Alderson-Day et al., 2020)</a>.
 <br>
 <br></p>
 <h2 id="neural-mechanisms-of-inner-speech">Neural Mechanisms of Inner Speech</h2>
-<p>Inner speech, the internal dialogue or monologue that individuals engage in, is a complex neural activity with various subtypes and functions. The neural mechanisms behind inner speech involve multiple brain regions, including the left inferior frontal gyrus (IFG) for speech production and the superior temporal gyri/sulci (STG/STS) for speech comprehension. These regions often interact with other areas responsible for memory, attention, and emotional processing, such as the prefrontal cortex and the amygdala. Neuroimaging techniques like functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) have been instrumental in shedding light on these neural correlates. For example, fMRI studies have shown increased activity in the left IFG and STG during tasks requiring inner speech, while EEG studies have captured the real-time neural activity associated with different types of inner dialogue.</p>
-<p>At LISN, our research focuses on understanding these neural mechanisms and how they support inner speech’s diverse phenomenology <a href="/publication/2023-PPY-NeuroImage">(Pratts, Pobric, &amp; Yao, 2023)</a>. We&rsquo;ve found increased neural activity in auditory regions through fMRI <a href="/publication/2011-YBS-JoCN">(Yao, Belin, &amp; Scheepers, 2011)</a> and more synchronous auditory cortical oscillations in EEG <a href="/publication/2021-YTBK-NeuroImage">(Yao et al., 2021)</a> associated with inner speech during quote reading. Our meta-analysis suggests that inner speech may be supported by both a motor-driven pathway, involving the left IFG, and an auditory pathway, involving auditory perceptual areas. These pathways could potentially underpin different inner speech subtypes <a href="/publication/2023-PPY-NeuroImage">(Pratts, Pobric, &amp; Yao, 2023)</a>. We are also employing machine learning to identify the neural features that characterise these subtypes, aiming for a more nuanced understanding of inner speech and its role in cognition. Through these research avenues, LISN seeks to deepen our understanding of the neural mechanisms of inner speech and its various subtypes.
+<p>The neural architecture supporting inner speech involves a sophisticated network of brain regions working in concert. This network encompasses multiple circuits, including speech production mechanisms (involving motor planning, coordination, and execution areas) and speech perception mechanisms (involving various temporal and parietal regions that support phonological and semantic processing). These core circuits interact dynamically with areas responsible for memory, attention, and emotional processing, creating a complex neural symphony that enables various forms of inner speech.</p>
+<p>At LISN, our research focuses on understanding these neural mechanisms and how they support inner speech&rsquo;s diverse phenomenology. We&rsquo;ve highlighted the rhythmic nature of inner speech <a href="/publication/2025-Y-PhysLife">(Yao, 2025)</a> by observing increased neural activity in auditory regions associated with speech prosody <a href="/publication/2011-YBS-JoCN">(Yao, Belin, &amp; Scheepers, 2011)</a> and more synchronous auditory cortical oscillations <a href="/publication/2021-YTBK-NeuroImage">(Yao et al., 2021)</a>. Our recent meta-analysis <a href="/publication/2023-PPY-NeuroImage">(Pratts, Pobric, &amp; Yao, 2023)</a> suggests that inner speech may be supported by both a motor-driven pathway involving speech production circuits and an auditory pathway engaging perceptual mechanisms, potentially underpinning different inner speech subtypes. We are also employing machine learning to identify the neural features that characterise these subtypes, aiming for a more nuanced understanding of inner speech and its role in cognition. Through these research avenues, LISN seeks to deepen our understanding of the neural mechanisms of inner speech and its various subtypes.
 <br>
 <br></p>
 <h2 id="inner-speech-in-self-consciousness">Inner Speech in Self-Consciousness</h2>
-<p>Inner speech serves as a critical interface between thought and consciousness, mediating self-awareness, intentionality, and subjective experience. While it has been a subject of philosophical inquiry for centuries, empirical research is relatively new. Studies have explored how inner speech contributes to different states and levels of consciousness, such as focused attention and mind-wandering. Understanding its role in consciousness can offer insights into self-awareness, intentional action, and even the boundaries of conscious experience. It also has implications for mental health, as disruptions in inner speech often occur in conditions like schizophrenia and certain types of depression.</p>
-<p>At LISN, we aim to empirically test the causal role of inner speech in self-awareness, capitalising on methodological advances and the discovery of aphantasia, a condition characterised by an inability to create visual imagery. We plan to objectively measure inner speech abilities in a range of tasks and use EEG to monitor inner speech in self-processing. Our research will pioneer data-driven classification of brain states related to inner speech and self-awareness. This approach could offer new prospects for understanding normal and altered states of consciousness, as well as related mental disorders like rumination, depression, and auditory verbal hallucinations. Through these research avenues, LISN seeks to deepen our understanding of the complex relationship between inner speech and consciousness.</p>
+<p>Inner speech plays a fundamental role in human consciousness, serving as a critical bridge between thought and self-awareness. This internal dialogue shapes our sense of self, influences decision-making, and mediates between different levels of consciousness, from focused attention to mind-wandering states. The relationship between inner speech and consciousness has profound implications for understanding both normal cognitive function and various psychological conditions, where alterations in inner speech often correspond to changes in self-awareness and conscious experience.</p>
+<p>At LISN, we&rsquo;re pioneering new approaches to understanding this relationship through innovative research designs. Our studies capitalise on recent discoveries about aphantasia and other individual differences in mental experience to examine how variations in inner speech abilities affect self-awareness and consciousness. Using advanced EEG techniques, we&rsquo;re developing objective measures of inner speech during self-referential processing, while our machine learning algorithms are creating new frameworks for classifying brain states related to different forms of inner dialogue. This research not only advances our theoretical understanding but also has practical implications for addressing conditions like rumination, depression, and auditory verbal hallucinations, where the relationship between inner speech and consciousness becomes disturbed.</p>
 
     </div>
 
@@ -925,7 +983,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fresearch%2Finnerspeech%2F&amp;text=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisn-lab.org%2Fresearch%2Finnerspeech%2F&amp;text=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -942,7 +1000,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fresearch%2Finnerspeech%2F&amp;t=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flisn-lab.org%2Fresearch%2Finnerspeech%2F&amp;t=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -961,7 +1019,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Inner%20Speech&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fresearch%2Finnerspeech%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Inner%20Speech&amp;body=https%3A%2F%2Flisn-lab.org%2Fresearch%2Finnerspeech%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -978,7 +1036,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fresearch%2Finnerspeech%2F&amp;title=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flisn-lab.org%2Fresearch%2Finnerspeech%2F&amp;title=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -995,7 +1053,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Inner&#43;Speech%20http%3A%2F%2Flocalhost%3A1313%2Fresearch%2Finnerspeech%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Inner&#43;Speech%20https%3A%2F%2Flisn-lab.org%2Fresearch%2Finnerspeech%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1012,7 +1070,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fresearch%2Finnerspeech%2F&amp;title=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flisn-lab.org%2Fresearch%2Finnerspeech%2F&amp;title=Inner&#43;Speech" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1043,7 +1101,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/bo-yao/"><img class="avatar mr-3 avatar-circle" src="/author/bo-yao/avatar_hu9312515993182644937.jpg" alt="Bo Yao"></a>
+      <a href="/author/bo-yao/"><img class="avatar mr-3 avatar-circle" src="/author/bo-yao/avatar_hu_d6438ad4329ad00b.jpg" alt="Bo Yao"></a>
     
 
     <div class="media-body">
@@ -1129,6 +1187,14 @@
 
 
 
+  
+  
+  
+
+  
+
+  
+
 
 
 
@@ -1182,7 +1248,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1233,6 +1299,8 @@
 
 
 
+  <script id="dsq-count-scr" src="https://lisn-lab.disqus.com/count.js" async></script>
+
 
 
 
@@ -1263,7 +1331,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1277,11 +1345,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.abfe36939207af9cb82df4fe2604ba17.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1314,7 +1382,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

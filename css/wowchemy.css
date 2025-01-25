@@ -9755,3 +9755,8 @@ div.chart {
   background-position: center;
   filter: blur(5px);
   z-index: -1; }
+
+.article-container {
+  max-width: 800px;
+  /* Adjust this value as needed */
+  margin: 0 auto; }

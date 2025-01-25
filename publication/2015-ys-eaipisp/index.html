@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 24, 2025 --><html lang="en-us" >
+<!-- Last Published: January 25, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,7 +65,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -209,7 +209,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.72cb3dffa3a68df12bc77fbbd74cc0b7.css" />
 
   
   
@@ -236,9 +236,64 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
 
 
 
@@ -278,8 +333,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/2015-ys-eaipisp/" />
-<link rel="canonical" href="http://localhost:1313/publication/2015-ys-eaipisp/" />
+<link rel="alternate" hreflang="en-us" href="https://lisn-lab.org/publication/2015-ys-eaipisp/" />
+<link rel="canonical" href="https://lisn-lab.org/publication/2015-ys-eaipisp/" />
 
 
 
@@ -287,8 +342,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu1981544878984423024.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu6781474754544777080.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
 
 <meta name="theme-color" content="#bbdefb" />
 
@@ -310,7 +365,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu12750140480456391776.png" />
+<meta property="twitter:image" content="https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png" />
 
 
 
@@ -318,9 +373,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="LISN Lab" />
-<meta property="og:url" content="http://localhost:1313/publication/2015-ys-eaipisp/" />
+<meta property="og:url" content="https://lisn-lab.org/publication/2015-ys-eaipisp/" />
 <meta property="og:title" content="Inner voice experiences during processing of direct and indirect speech | LISN Lab" />
-<meta property="og:description" content="In this chapter, we review recent research concerned with “inner voice” experiences during silent reading of direct speech (e.g., _Mary said, “This dress is beautiful!”_) and indirect speech (e.g., _Mary said that the dress was beautiful_). Converging findings from speech analysis, brain imaging, and eye tracking indicate that readers spontaneously engage in mental simulations of audible-speech like representations during silent reading of direct speech, and to a much lesser extent during silent reading of indirect speech. This “simulated” implicit prosody is highly correlated with the overt prosody generated during actual speaking. We then compare this “simulated” implicit prosody with the sort of “default” implicit prosody that is commonly discussed in relation to syntactic ambiguity resolution. We hope our discussion will motivate new interdisciplinary research into prosodic processing during reading which could potentially unify the two phenomena within a single theoretical framework." /><meta property="og:image" content="http://localhost:1313/media/icon_hu12750140480456391776.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="In this chapter, we review recent research concerned with “inner voice” experiences during silent reading of direct speech (e.g., _Mary said, “This dress is beautiful!”_) and indirect speech (e.g., _Mary said that the dress was beautiful_). Converging findings from speech analysis, brain imaging, and eye tracking indicate that readers spontaneously engage in mental simulations of audible-speech like representations during silent reading of direct speech, and to a much lesser extent during silent reading of indirect speech. This “simulated” implicit prosody is highly correlated with the overt prosody generated during actual speaking. We then compare this “simulated” implicit prosody with the sort of “default” implicit prosody that is commonly discussed in relation to syntactic ambiguity resolution. We hope our discussion will motivate new interdisciplinary research into prosodic processing during reading which could potentially unify the two phenomena within a single theoretical framework." /><meta property="og:image" content="https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -353,7 +408,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/2015-ys-eaipisp/"
+    "@id": "https://lisn-lab.org/publication/2015-ys-eaipisp/"
   },
   "headline": "Inner voice experiences during processing of direct and indirect speech",
   
@@ -370,7 +425,7 @@
     "name": "Language, Inner Speech, and Neuroscience Lab",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu17462833245089514034.png"
+      "url": "https://lisn-lab.org/media/icon_hu_7b2fe40026ff54f8.png"
     }
   },
   "description": "In this chapter, we review recent research concerned with “inner voice” experiences during silent reading of direct speech (e.g., _Mary said, “This dress is beautiful!”_) and indirect speech (e.g., _Mary said that the dress was beautiful_). Converging findings from speech analysis, brain imaging, and eye tracking indicate that readers spontaneously engage in mental simulations of audible-speech like representations during silent reading of direct speech, and to a much lesser extent during silent reading of indirect speech. This “simulated” implicit prosody is highly correlated with the overt prosody generated during actual speaking. We then compare this “simulated” implicit prosody with the sort of “default” implicit prosody that is commonly discussed in relation to syntactic ambiguity resolution. We hope our discussion will motivate new interdisciplinary research into prosodic processing during reading which could potentially unify the two phenomena within a single theoretical framework."
@@ -426,7 +481,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
 
   
 
@@ -985,7 +1040,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F2015-ys-eaipisp%2F&amp;text=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisn-lab.org%2Fpublication%2F2015-ys-eaipisp%2F&amp;text=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1002,7 +1057,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F2015-ys-eaipisp%2F&amp;t=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flisn-lab.org%2Fpublication%2F2015-ys-eaipisp%2F&amp;t=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1021,7 +1076,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Inner%20voice%20experiences%20during%20processing%20of%20direct%20and%20indirect%20speech&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F2015-ys-eaipisp%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Inner%20voice%20experiences%20during%20processing%20of%20direct%20and%20indirect%20speech&amp;body=https%3A%2F%2Flisn-lab.org%2Fpublication%2F2015-ys-eaipisp%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1038,7 +1093,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F2015-ys-eaipisp%2F&amp;title=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flisn-lab.org%2Fpublication%2F2015-ys-eaipisp%2F&amp;title=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1055,7 +1110,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F2015-ys-eaipisp%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech%20https%3A%2F%2Flisn-lab.org%2Fpublication%2F2015-ys-eaipisp%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1072,7 +1127,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F2015-ys-eaipisp%2F&amp;title=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flisn-lab.org%2Fpublication%2F2015-ys-eaipisp%2F&amp;title=Inner&#43;voice&#43;experiences&#43;during&#43;processing&#43;of&#43;direct&#43;and&#43;indirect&#43;speech" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1104,7 +1159,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/bo-yao/"><img class="avatar mr-3 avatar-circle" src="/author/bo-yao/avatar_hu9312515993182644937.jpg" alt="Bo Yao"></a>
+      <a href="/author/bo-yao/"><img class="avatar mr-3 avatar-circle" src="/author/bo-yao/avatar_hu_d6438ad4329ad00b.jpg" alt="Bo Yao"></a>
     
 
     <div class="media-body">
@@ -1197,6 +1252,14 @@
 
 
 
+  
+  
+  
+
+  
+
+  
+
 
 
 
@@ -1228,7 +1291,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1279,6 +1342,8 @@
 
 
 
+  <script id="dsq-count-scr" src="https://lisn-lab.disqus.com/count.js" async></script>
+
 
 
 
@@ -1309,7 +1374,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1323,11 +1388,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.abfe36939207af9cb82df4fe2604ba17.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1360,7 +1425,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

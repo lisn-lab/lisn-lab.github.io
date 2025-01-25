@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc Becirspahic | LISN Lab</title>
-    <link>http://localhost:1313/author/marc-becirspahic/</link>
-      <atom:link href="http://localhost:1313/author/marc-becirspahic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/marc-becirspahic/</link>
+      <atom:link href="https://lisn-lab.org/author/marc-becirspahic/index.xml" rel="self" type="application/rss+xml" />
     <description>Marc Becirspahic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Marc Becirspahic</title>
-      <link>http://localhost:1313/author/marc-becirspahic/</link>
+      <link>https://lisn-lab.org/author/marc-becirspahic/</link>
     </image>
     
     <item>
       <title>The Glasgow Norms: Ratings of 5,500 words on nine scales</title>
-      <link>http://localhost:1313/publication/2019-skbys-brm/</link>
+      <link>https://lisn-lab.org/publication/2019-skbys-brm/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-skbys-brm/</guid>
+      <guid>https://lisn-lab.org/publication/2019-skbys-brm/</guid>
       <description></description>
     </item>
     

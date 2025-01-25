@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GingerALE | LISN Lab</title>
-    <link>http://localhost:1313/tag/gingerale/</link>
-      <atom:link href="http://localhost:1313/tag/gingerale/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/gingerale/</link>
+      <atom:link href="https://lisn-lab.org/tag/gingerale/index.xml" rel="self" type="application/rss+xml" />
     <description>GingerALE</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>GingerALE</title>
-      <link>http://localhost:1313/tag/gingerale/</link>
+      <link>https://lisn-lab.org/tag/gingerale/</link>
     </image>
     
     <item>
       <title>Bridging phenomenology and neural mechanisms of inner speech: ALE meta-analysis on egocentricity and spontaneity in a dual-mechanistic framework</title>
-      <link>http://localhost:1313/publication/2023-ppy-neuroimage/</link>
+      <link>https://lisn-lab.org/publication/2023-ppy-neuroimage/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-ppy-neuroimage/</guid>
+      <guid>https://lisn-lab.org/publication/2023-ppy-neuroimage/</guid>
       <description></description>
     </item>
     

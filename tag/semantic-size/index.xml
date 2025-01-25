@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semantic Size | LISN Lab</title>
-    <link>http://localhost:1313/tag/semantic-size/</link>
-      <atom:link href="http://localhost:1313/tag/semantic-size/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/semantic-size/</link>
+      <atom:link href="https://lisn-lab.org/tag/semantic-size/index.xml" rel="self" type="application/rss+xml" />
     <description>Semantic Size</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Semantic Size</title>
-      <link>http://localhost:1313/tag/semantic-size/</link>
+      <link>https://lisn-lab.org/tag/semantic-size/</link>
     </image>
     
     <item>
       <title>What can size tell us about abstract conceptual processing?</title>
-      <link>http://localhost:1313/publication/2022-yts-jml/</link>
+      <link>https://lisn-lab.org/publication/2022-yts-jml/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022-yts-jml/</guid>
+      <guid>https://lisn-lab.org/publication/2022-yts-jml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Glasgow Norms: Ratings of 5,500 words on nine scales</title>
-      <link>http://localhost:1313/publication/2019-skbys-brm/</link>
+      <link>https://lisn-lab.org/publication/2019-skbys-brm/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-skbys-brm/</guid>
+      <guid>https://lisn-lab.org/publication/2019-skbys-brm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic size of abstract concepts: It gets emotional when you can’t see it</title>
-      <link>http://localhost:1313/publication/2013-yvwsos-plosone/</link>
+      <link>https://lisn-lab.org/publication/2013-yvwsos-plosone/</link>
       <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2013-yvwsos-plosone/</guid>
+      <guid>https://lisn-lab.org/publication/2013-yvwsos-plosone/</guid>
       <description></description>
     </item>
     

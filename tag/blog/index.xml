@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | LISN Lab</title>
-    <link>http://localhost:1313/tag/blog/</link>
-      <atom:link href="http://localhost:1313/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/blog/</link>
+      <atom:link href="https://lisn-lab.org/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Blog</title>
-      <link>http://localhost:1313/tag/blog/</link>
+      <link>https://lisn-lab.org/tag/blog/</link>
     </image>
     
     <item>
       <title>Lack of mental imagery? You may be special!</title>
-      <link>http://localhost:1313/post/20250121-aphantasia/</link>
+      <link>https://lisn-lab.org/post/20250121-aphantasia/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20250121-aphantasia/</guid>
+      <guid>https://lisn-lab.org/post/20250121-aphantasia/</guid>
       <description>
 
 &lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
@@ -50,11 +50,17 @@ However, Aphantasia does impact certain abilities, such as not being able to pic
 &lt;h2 id=&#34;contributing-to-research&#34;&gt;Contributing to Research&lt;/h2&gt;
 &lt;p&gt;Your experience matters to the scientific community. As part of our ongoing research into neurodiversity, we&amp;rsquo;re conducting a study on how aphantasia affects cognition.&lt;/p&gt;
 &lt;p&gt;If you think you are Aphantasic and would like to contribute to our understanding of this fascinating variation in human cognition, please join our research by signing up through the link below.&lt;/p&gt;
+
+
 &lt;ul class=&#34;cta-group&#34;&gt;
+  
   &lt;li&gt;
     &lt;a href=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHqXnE6poLxzQJAWSrFgdYO91ptHjgdJqGlvLhxUNUQ4RDZONVdCNjlGVUJHSU1HVVZXT1E5OC4u&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Yay! Sign Me Up!&lt;/a&gt;
   &lt;/li&gt;
+  
+  
 &lt;/ul&gt;
+
 </description>
     </item>
     

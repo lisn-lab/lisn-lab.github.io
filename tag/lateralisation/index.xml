@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lateralisation | LISN Lab</title>
-    <link>http://localhost:1313/tag/lateralisation/</link>
-      <atom:link href="http://localhost:1313/tag/lateralisation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/tag/lateralisation/</link>
+      <atom:link href="https://lisn-lab.org/tag/lateralisation/index.xml" rel="self" type="application/rss+xml" />
     <description>Lateralisation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Lateralisation</title>
-      <link>http://localhost:1313/tag/lateralisation/</link>
+      <link>https://lisn-lab.org/tag/lateralisation/</link>
     </image>
     
     <item>
       <title>Investigating the lateralisation of experimentally induced auditory verbal hallucinations</title>
-      <link>http://localhost:1313/publication/2023-mcpky-fin/</link>
+      <link>https://lisn-lab.org/publication/2023-mcpky-fin/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-mcpky-fin/</guid>
+      <guid>https://lisn-lab.org/publication/2023-mcpky-fin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Walking blindfolded unveils unique contributions of behavioural approach and inhibition to lateral spatial bias</title>
-      <link>http://localhost:1313/publication/2016-wavy-cognition/</link>
+      <link>https://lisn-lab.org/publication/2016-wavy-cognition/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016-wavy-cognition/</guid>
+      <guid>https://lisn-lab.org/publication/2016-wavy-cognition/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graham G. Scott | LISN Lab</title>
-    <link>http://localhost:1313/author/graham-g.-scott/</link>
-      <atom:link href="http://localhost:1313/author/graham-g.-scott/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/graham-g.-scott/</link>
+      <atom:link href="https://lisn-lab.org/author/graham-g.-scott/index.xml" rel="self" type="application/rss+xml" />
     <description>Graham G. Scott</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Graham G. Scott</title>
-      <link>http://localhost:1313/author/graham-g.-scott/</link>
+      <link>https://lisn-lab.org/author/graham-g.-scott/</link>
     </image>
     
     <item>
       <title>Emotion processing in concrete and abstract words: Evidence from eye fixations during reading</title>
-      <link>http://localhost:1313/publication/2024-ysbms-cognemo/</link>
+      <link>https://lisn-lab.org/publication/2024-ysbms-cognemo/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-ysbms-cognemo/</guid>
+      <guid>https://lisn-lab.org/publication/2024-ysbms-cognemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Glasgow Norms: Ratings of 5,500 words on nine scales</title>
-      <link>http://localhost:1313/publication/2019-skbys-brm/</link>
+      <link>https://lisn-lab.org/publication/2019-skbys-brm/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-skbys-brm/</guid>
+      <guid>https://lisn-lab.org/publication/2019-skbys-brm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential emotional processing in concrete and abstract words</title>
-      <link>http://localhost:1313/publication/2018-ykbsos-jeplmc/</link>
+      <link>https://lisn-lab.org/publication/2018-ykbsos-jeplmc/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-ykbsos-jeplmc/</guid>
+      <guid>https://lisn-lab.org/publication/2018-ykbsos-jeplmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion word processing: Does mood make a difference?</title>
-      <link>http://localhost:1313/publication/2015-ssyto-frontierpsych/</link>
+      <link>https://lisn-lab.org/publication/2015-ssyto-frontierpsych/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2015-ssyto-frontierpsych/</guid>
+      <guid>https://lisn-lab.org/publication/2015-ssyto-frontierpsych/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familiarity with interest breeds gossip: Contributions of emotion, expectation, and reputation</title>
-      <link>http://localhost:1313/publication/2014-ysmos-plosone/</link>
+      <link>https://lisn-lab.org/publication/2014-ysmos-plosone/</link>
       <pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2014-ysmos-plosone/</guid>
+      <guid>https://lisn-lab.org/publication/2014-ysmos-plosone/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher J. Hand | LISN Lab</title>
-    <link>http://localhost:1313/author/christopher-j.-hand/</link>
-      <atom:link href="http://localhost:1313/author/christopher-j.-hand/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/christopher-j.-hand/</link>
+      <atom:link href="https://lisn-lab.org/author/christopher-j.-hand/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher J. Hand</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu12750140480456391776.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Christopher J. Hand</title>
-      <link>http://localhost:1313/author/christopher-j.-hand/</link>
+      <link>https://lisn-lab.org/author/christopher-j.-hand/</link>
     </image>
     
     <item>
       <title>Testing the limits of contextual constraint: Interactions with word frequency and parafoveal preview during fluent reading</title>
-      <link>http://localhost:1313/publication/2018-shsyo-qjep/</link>
+      <link>https://lisn-lab.org/publication/2018-shsyo-qjep/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-shsyo-qjep/</guid>
+      <guid>https://lisn-lab.org/publication/2018-shsyo-qjep/</guid>
       <description></description>
     </item>
     

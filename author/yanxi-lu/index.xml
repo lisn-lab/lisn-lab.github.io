@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanxi Lu | LISN Lab</title>
-    <link>http://localhost:1313/author/yanxi-lu/</link>
-      <atom:link href="http://localhost:1313/author/yanxi-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisn-lab.org/author/yanxi-lu/</link>
+      <atom:link href="https://lisn-lab.org/author/yanxi-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanxi Lu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/yanxi-lu/avatar_hu3911756458831267404.jpeg</url>
+      <url>https://lisn-lab.org/author/yanxi-lu/avatar_hu_52918a174227ede0.jpeg</url>
       <title>Yanxi Lu</title>
-      <link>http://localhost:1313/author/yanxi-lu/</link>
+      <link>https://lisn-lab.org/author/yanxi-lu/</link>
     </image>
     
   </channel>
