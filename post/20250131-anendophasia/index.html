@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: January 31, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.72cb3dffa3a68df12bc77fbbd74cc0b7.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" >
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Bo Yao" />
+
+
+
+
+
+  
+
+<meta name="description" content="Is it possible to have no inner speech?" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://lisn-lab.org/post/20250131-anendophasia/" />
+<link rel="canonical" href="https://lisn-lab.org/post/20250131-anendophasia/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
+
+<meta name="theme-color" content="#bbdefb" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://lisn-lab.org/post/20250131-anendophasia/anendophasia.jpeg" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="LISN Lab" />
+<meta property="og:url" content="https://lisn-lab.org/post/20250131-anendophasia/" />
+<meta property="og:title" content="Inner speechless: Is it possible to have no inner speech? | LISN Lab" />
+<meta property="og:description" content="Is it possible to have no inner speech?" /><meta property="og:image" content="https://lisn-lab.org/post/20250131-anendophasia/anendophasia.jpeg" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2025-01-31T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-01-31T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lisn-lab.org/post/20250131-anendophasia/"
+  },
+  "headline": "Inner speechless: Is it possible to have no inner speech?",
+  
+  "image": [
+    "https://lisn-lab.org/post/20250131-anendophasia/anendophasia.jpeg"
+  ],
+  
+  "datePublished": "2025-01-31T00:00:00Z",
+  "dateModified": "2025-01-31T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Daisy Watson"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Language, Inner Speech, and Neuroscience Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lisn-lab.org/media/icon_hu_7b2fe40026ff54f8.png"
+    }
+  },
+  "description": "Is it possible to have no inner speech?"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Inner speechless: Is it possible to have no inner speech? | LISN Lab</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="acb6de964770b1ffa6b754036ca0792d" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">LISN Lab</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">LISN Lab</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tag/news/"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tag/blog/"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/joinus/"><span>Join the Lab</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/mhih/"><span>Mental Health Innovation</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHqXnE6poLxzQJAWSjSx8jlfMktDmFtIoYWPibtUNTQ3UVVNUzhSMVJPNFhYM1JISVI1MkRQTS4u" target="_blank" rel="noopener"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>Inner speechless: Is it possible to have no inner speech?</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/daisy-watson/">Daisy Watson</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2025-01-31
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+    <span class="middot-divider"></span>
+    <a href="/post/20250131-anendophasia/#disqus_thread"></a>
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 500px; max-height: 500px;">
+  <div style="position: relative">
+    <img src="/post/20250131-anendophasia/anendophasia_hu_24aace0a20b747be.webp" width="500" height="500" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Close your eyes for a moment and listen. What do you hear? For most of us, beyond any external sounds, there&rsquo;s that familiar voice inside our head - our inner speech.  But have you ever wondered, what if that voice weren’t there at all? Is it possible to have no inner speech?</p>
+<p>Most of us can’t imagine going about our daily lives without ‘the voice inside our head’;</p>
+<p>This inner voice mediates many of the mechanisms that allow us to perceive the world around us, such as reading and memory. It also encourages us when we need it, keeps our focus when our minds drift and helps us problem-solve and reason. Sometimes, it can even be exploited by our doubts and anxieties to talk us down. The 20th-century, Russian psychologist Lev Vygotsky, in his theory of cognitive development, proposed that we are born social beings. Over time, the conversations we have with those in our surroundings eventually become <em>‘internalised’</em>, and we discuss our behaviour with ourselves.</p>
+<p>Through conversations with my peers, I learned just how varied this cognitive tool can be.</p>
+<hr>
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Wm33v9spP9Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+<hr>
+<p>I found that some individuals described their inner speech as largely grammatical, resembling full, structured sentences. Others reported that their inner voices focus exclusively on the semantic meaning, rather than the grammatical features. This type of inner speech is akin to jotting down brief notes that capture only the essential points, also known as <em>condensed inner speech</em>.</p>
+<p>Most people said they use their inner voices to evaluate their own behavior and actions—to criticize or encourage themselves, with varying degrees of each, and one individual even said their mind is focused on this ‘24/7’. This <em>‘evaluative inner speech’</em> has been shown to affect our mental states and moods, with some people noting that it helps them feel calmer, while others said it makes them feel more anxious.</p>
+<p>The complexity of inner speech becomes even more apparent when we consider multilingual individuals. When discussing this topic with a bilingual friend, she shared that, although Hebrew was her first language and the primary language spoken at home, her inner speech has consistently been in English for as long as she can remember. She explained, ‘Even though I didn’t learn it first, it’s the language I’ve grown up around, went to school speaking and it&rsquo;s the language I’m most comfortable using.’</p>
+<p>The fascination doesn’t stop there. There’s also a difference in how people experience their inner voices: some say it feels like they’re speaking to themselves, while others feel more like they’re listening to somebody else. Some also report more vivid inner speech when reading, a context in which many describe inner speech that varies in tone, pitch or even accent.</p>
+<p>Evidently, there are a diverse range of uses and forms of inner voice experience. Varying in terms of our perspectives and environments and producing further differences in our moods and mental states.</p>
+<p>This raises an intriguing question: Is it possible for someone to have no inner speech at all?</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Anendophasia" srcset="
+               /post/20250131-anendophasia/anendophasia2_hu_69235bdee1a5b10a.webp 400w,
+               /post/20250131-anendophasia/anendophasia2_hu_f0f0ffa295334bd5.webp 760w,
+               /post/20250131-anendophasia/anendophasia2_hu_cee99471ba334f33.webp 1200w"
+               src="/post/20250131-anendophasia/anendophasia2_hu_69235bdee1a5b10a.webp"
+               width="600"
+               height="600"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>This area is receiving growing attention, and the answer appears to be yes.</p>
+<p>For most of us, there is still a line between our inner version of speech, and what researchers call ‘unsymbolised’ concepts – abstract thoughts that aren’t expressed in words. While some report calling upon images instead of words when thinking, others describe experiencing only these unsymbolized thoughts.</p>
+<p>Even when reading, some people who lack inner speech describe comprehension of sentences in ‘concepts’, purely abstract and remote from the written text in front of them. They report understanding meaning directly, without consciously processing the words themselves.  Some even describe struggling to think of sentences without saying them verbally.</p>
+<p>The existence of individuals who lack inner speech has been documented not only with subjective reports but also with objective, behavioural tasks. Researchers coined the term ‘anendophasia’ to describe a lack of inner speech.</p>
+<p>In a recent study, Nedergaard &amp; Lupyan (2024) examined the differences in cognition between those with inner speech and anendophasics. They gave both groups tasks that typically rely upon inner speech and compared their performance. Their findings were intriguing, recall for verbal working memory, which is closely related to inner speech, was higher for those with inner speech than those without.</p>
+<p>Given that many individuals consistently report not using, or even not having, inner speech, we can conclude with confidence that the phenomenon of anendophasia is, in fact, a real experience for some people. When results appear to be the same in populations with and without inner speech, this may be because anendophasics have developed alternative cognitive mechanisms to handle behavioral tests.</p>
+<p>This fascinating dimension of human inner experience creates further interesting questions about the possible consequences of anendophasia on cognition, attention, perception, and mental wellbeing. The implications are far-reaching – from how we approach teaching children who might process words differently, to how we conduct talking therapy when some individuals might not experience thoughts in verbal form.</p>
+<p>What about you? Do you have inner speech? What is it like for you?  We&rsquo;re particularly interested in hearing from people who don&rsquo;t experience inner speech or who think differently without using words.</p>
+<p>In fact, we&rsquo;re currently conducting an exciting study using EEG to understand how different people process memories, especially those who might not use inner speech. If you&rsquo;d like to contribute to our understanding of this fascinating phenomenon, we&rsquo;d love to hear from you and potentially have you participate in our research.</p>
+
+
+<ul class="cta-group">
+  
+  <li>
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHqXnE6poLxzQJAWSkfutwuiw5VOt6BaX9Yki5pUNVI2QlFaNUlVVVpSU0ExMUhUN0hVODNWWS4u"  class="btn btn-primary px-3 py-3">I don&rsquo;t have an inner speech! Sign Me Up!</a>
+  </li>
+  
+  
+</ul>
+
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/blog/">Blog</a>
+  
+  <a class="badge badge-light" href="/tag/anendophasia/">Anendophasia</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250131-anendophasia%2F&amp;text=Inner&#43;speechless%3A&#43;Is&#43;it&#43;possible&#43;to&#43;have&#43;no&#43;inner&#43;speech%3F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250131-anendophasia%2F&amp;t=Inner&#43;speechless%3A&#43;Is&#43;it&#43;possible&#43;to&#43;have&#43;no&#43;inner&#43;speech%3F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Inner%20speechless%3A%20Is%20it%20possible%20to%20have%20no%20inner%20speech%3F&amp;body=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250131-anendophasia%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250131-anendophasia%2F&amp;title=Inner&#43;speechless%3A&#43;Is&#43;it&#43;possible&#43;to&#43;have&#43;no&#43;inner&#43;speech%3F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Inner&#43;speechless%3A&#43;Is&#43;it&#43;possible&#43;to&#43;have&#43;no&#43;inner&#43;speech%3F%20https%3A%2F%2Flisn-lab.org%2Fpost%2F20250131-anendophasia%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250131-anendophasia%2F&amp;title=Inner&#43;speechless%3A&#43;Is&#43;it&#43;possible&#43;to&#43;have&#43;no&#43;inner&#43;speech%3F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/daisy-watson/"><img class="avatar mr-3 avatar-circle" src="/author/daisy-watson/avatar_hu_2d6e3c550e083dc2.jpg" alt="Daisy Watson"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/daisy-watson/">Daisy Watson</a></h5>
+      <h6 class="card-subtitle">S.T.A.R.S.</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+  <section id="comments">
+    
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "lisn-lab" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  </section>
+  
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/20250121-aphantasia/">Lack of mental imagery? You may be special!</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <p style="text-align: center; font-size: 14px; padding: 20px 0; margin: 0;">
+	&copy; LISN Lab 
+  
+    2022 - 
+  
+  2025
+</p>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+  <script id="dsq-count-scr" src="https://lisn-lab.disqus.com/count.js" async></script>
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.abfe36939207af9cb82df4fe2604ba17.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
