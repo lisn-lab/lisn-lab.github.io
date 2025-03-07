@@ -14,6 +14,10 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lisn-lab.org/facilities/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lisn-lab.org/tag/anendophasia/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -696,7 +700,13 @@
     <loc>https://lisn-lab.org/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lisn-lab.org/author/chloe-taylor/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lisn-lab.org/author/el-smith/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/author/findlay-copeland/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/author/guyu-shen/</loc>

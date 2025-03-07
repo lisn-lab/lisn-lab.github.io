@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LISN Lab Facilities | LISN Lab</title>
+    <link>https://lisn-lab.org/facilities/</link>
+      <atom:link href="https://lisn-lab.org/facilities/index.xml" rel="self" type="application/rss+xml" />
+    <description>LISN Lab Facilities</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>LISN Lab Facilities</title>
+      <link>https://lisn-lab.org/facilities/</link>
+    </image>
+    
+  </channel>
+</rss>

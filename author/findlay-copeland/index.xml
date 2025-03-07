@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Findlay Copeland | LISN Lab</title>
+    <link>https://lisn-lab.org/author/findlay-copeland/</link>
+      <atom:link href="https://lisn-lab.org/author/findlay-copeland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Findlay Copeland</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lisn-lab.org/author/findlay-copeland/avatar_hu_66a7a2e11e443d1c.jpg</url>
+      <title>Findlay Copeland</title>
+      <link>https://lisn-lab.org/author/findlay-copeland/</link>
+    </image>
+    
+  </channel>
+</rss>
