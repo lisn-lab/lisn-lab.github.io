@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mental Health Innovation Hub (MHIH) | LISN Lab</title>
-    <link>https://lisn-lab.org/mhih/</link>
-      <atom:link href="https://lisn-lab.org/mhih/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/mhih/</link>
+      <atom:link href="http://localhost:1313/mhih/index.xml" rel="self" type="application/rss+xml" />
     <description>Mental Health Innovation Hub (MHIH)</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <url>http://localhost:1313/media/icon_hu_efe3ed8cd119c4a9.png</url>
       <title>Mental Health Innovation Hub (MHIH)</title>
-      <link>https://lisn-lab.org/mhih/</link>
+      <link>http://localhost:1313/mhih/</link>
     </image>
     
   </channel>

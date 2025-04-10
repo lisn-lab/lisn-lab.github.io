@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | LISN Lab</title>
+    <link>https://lisn-lab.org/projects/</link>
+      <atom:link href="https://lisn-lab.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>Projects</title>
+      <link>https://lisn-lab.org/projects/</link>
+    </image>
+    
+    <item>
+      <title>Voices of the Mind</title>
+      <link>https://lisn-lab.org/projects/voicesofthemind/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/projects/voicesofthemind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test | LISN Lab</title>
+    <link>http://localhost:1313/tag/test/</link>
+      <atom:link href="http://localhost:1313/tag/test/index.xml" rel="self" type="application/rss+xml" />
+    <description>Test</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>Test</title>
+      <link>http://localhost:1313/tag/test/</link>
+    </image>
+    
+    <item>
+      <title>Voices of the Mind</title>
+      <link>http://localhost:1313/projects/voicesofthemind/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/voicesofthemind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

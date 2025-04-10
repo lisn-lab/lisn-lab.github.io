@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Foci | LISN Lab</title>
+    <title>Research | LISN Lab</title>
     <link>https://lisn-lab.org/research/</link>
       <atom:link href="https://lisn-lab.org/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research Foci</description>
+    <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
-      <title>Research Foci</title>
+      <title>Research</title>
       <link>https://lisn-lab.org/research/</link>
     </image>
     
@@ -60,21 +60,7 @@
       <link>https://lisn-lab.org/research/innerspeech/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lisn-lab.org/research/innerspeech/</guid>
-      <description>
-
-&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#varieties-of-inner-speech&#34;&gt;Varieties of Inner Speech&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#hearing-words-off-the-page&#34;&gt;Hearing Words off the Page&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#neural-mechanisms-of-inner-speech&#34;&gt;Neural Mechanisms of Inner Speech&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inner-speech-in-self-consciousness&#34;&gt;Inner Speech in Self-Consciousness&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-
-&lt;p&gt;Inner speech represents a fundamental aspect of human cognition and consciousness, manifesting in various forms and serving multiple functions in mental life. At LISN, we investigate this phenomenon through multiple complementary approaches: examining its varieties and manifestations, studying its role in reading comprehension, mapping its neural underpinnings, and exploring its contribution to consciousness and self-awareness. This comprehensive approach allows us to build a deeper understanding of how inner speech shapes human thought and experience.
+      <description>&lt;p&gt;Inner speech represents a fundamental aspect of human cognition and consciousness, manifesting in various forms and serving multiple functions in mental life. At LISN, we investigate this phenomenon through multiple complementary approaches: examining its varieties and manifestations, studying its role in reading comprehension, mapping its neural underpinnings, and exploring its contribution to consciousness and self-awareness. This comprehensive approach allows us to build a deeper understanding of how inner speech shapes human thought and experience.
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;varieties-of-inner-speech&#34;&gt;Varieties of Inner Speech&lt;/h2&gt;
