@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parafoveal Magnification | LISN Lab</title>
+    <link>https://lisn-lab.org/tag/parafoveal-magnification/</link>
+      <atom:link href="https://lisn-lab.org/tag/parafoveal-magnification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parafoveal Magnification</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu97d1e4cfeca1899ab2d337d9f34dabe3_3591_512x512_fill_lanczos_center_3.png</url>
+      <title>Parafoveal Magnification</title>
+      <link>https://lisn-lab.org/tag/parafoveal-magnification/</link>
+    </image>
+    
+    <item>
+      <title>Parafoveal preview benefits magnified</title>
+      <link>https://lisn-lab.org/publication/2025-yhms-cognition/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2025-yhms-cognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
