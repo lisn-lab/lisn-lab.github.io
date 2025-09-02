@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleanor Little | LISN Lab</title>
+    <link>https://lisn-lab.org/author/eleanor-little/</link>
+      <atom:link href="https://lisn-lab.org/author/eleanor-little/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eleanor Little</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
+    <image>
+      <url>https://lisn-lab.org/author/eleanor-little/avatar_hu_ce118506d6dd7a57.jpg</url>
+      <title>Eleanor Little</title>
+      <link>https://lisn-lab.org/author/eleanor-little/</link>
+    </image>
+    
+  </channel>
+</rss>

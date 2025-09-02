@@ -1,0 +1,1531 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: September 2, 2025 --><html lang="en-gb" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.e4b9d3e8ce28da563d74b4089f677743.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.0ccf667c1832c4c570b9bfa00362de70.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" >
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Bo Yao" />
+
+
+
+
+
+  
+
+<meta name="description" content="The most beautiful experience we can have is the mysterious. It is the source of all true art and science." />
+
+
+
+<link rel="alternate" hreflang="en-gb" href="https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/" />
+<link rel="canonical" href="https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
+
+<meta name="theme-color" content="#bbdefb" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/banner.jpg" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="LISN Lab" />
+<meta property="og:url" content="https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/" />
+<meta property="og:title" content="When inner voices become art | LISN Lab" />
+<meta property="og:description" content="The most beautiful experience we can have is the mysterious. It is the source of all true art and science." /><meta property="og:image" content="https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/banner.jpg" /><meta property="og:locale" content="en-gb" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2025-09-01T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-09-01T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/"
+  },
+  "headline": "When inner voices become art",
+  
+  "image": [
+    "https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/banner.jpg"
+  ],
+  
+  "datePublished": "2025-09-01T00:00:00Z",
+  "dateModified": "2025-09-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Bo Yao"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Language, Inner Speech, and Neuroscience Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lisn-lab.org/media/icon_hu_7b2fe40026ff54f8.png"
+    }
+  },
+  "description": "The most beautiful experience we can have is the mysterious. It is the source of all true art and science."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>When inner voices become art | LISN Lab</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="0c087f2758123db9c71ff9610d336586" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">LISN Lab</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">LISN Lab</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/joinus/"><span>Join the Lab</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <div class="container-fluid">
+  <div class="row flex-xl-nowrap">
+    
+    <div class="d-none d-xl-block col-xl-1"></div>
+
+    <main class="col-12 col-md-9 col-xl-7 py-md-1 docs-content" role="main">
+      <article class="article">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>When inner voices become art</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/bo-yao/">Bo Yao</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2025-09-01
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 500px;">
+  <div style="position: relative">
+    <img src="/post/20250901-voicesofthemind-workshop1/banner_hu_23864bc8893dd5e9.webp" width="720" height="500" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+        <div class="article-container">
+          <div class="article-style">
+            <blockquote>
+<p>&ldquo;The most beautiful experience we can have is the mysterious. It is the source of all true art and science.&rdquo; <br> &ndash; Albert Einstein</p></blockquote>
+<p>The little voice in my head is one such mystery.</p>
+<p>We all have different relationships with the voice in our head. Mine chatters as I read, write, and think. But here&rsquo;s the fascinating part - your inner experience might be completely different from mine.</p>
+<p>While science explains this phenomenon as our brain&rsquo;s silent language production, the reality is far more diverse and intriguing. Some people experience abstract, non-verbal thoughts, others engage in rich inner monologues, and some hear multiple voices in conversation. This remarkable variety of inner experiences has long puzzled psychologists and fascinated artists alike.</p>
+<p>This July, we bridged the gap between science and art by hosting a workshop that invited young people to externalise their thought processes through creative expression. Armed with iPads, paper, keyboards, and microphones, participants transformed their inner worlds into tangible art pieces. We complemented their creative exploration with scientific context, demonstrating EEG recordings of brain activity to show how our thoughts manifest physically.</p>
+<p>The results were extraordinary. Some participants visualised their thoughts as rainbow patterns of emotions, others depicted their inner voice as radio waves, and some translated their mental experience into rhythmic compositions. Each piece offered a unique window into how differently we all experience our inner worlds.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery-grid">
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-vimw1" href="/media/albums/vimw1/a1.png" >
+      <img src="/media/albums/vimw1/a1_hu_23bf1c7493b84b.webp" loading="lazy" alt="a1.png" width="250" height="188">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-vimw1" href="/media/albums/vimw1/a2.png" >
+      <img src="/media/albums/vimw1/a2_hu_27191147d5ebcbaf.webp" loading="lazy" alt="a2.png" width="250" height="188">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-vimw1" href="/media/albums/vimw1/a3.png" >
+      <img src="/media/albums/vimw1/a3_hu_31a8426a53fbca1b.webp" loading="lazy" alt="a3.png" width="250" height="188">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-vimw1" href="/media/albums/vimw1/fightingthought.png" >
+      <img src="/media/albums/vimw1/fightingthought_hu_15565aebf0596bc4.webp" loading="lazy" alt="fightingthought.png" width="250" height="175">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-vimw1" href="/media/albums/vimw1/IMG_3737.jpg" >
+      <img src="/media/albums/vimw1/IMG_3737_hu_11757b4bf6dbd05e.webp" loading="lazy" alt="IMG_3737.jpg" width="188" height="250">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-vimw1" href="/media/albums/vimw1/thebox.png" >
+      <img src="/media/albums/vimw1/thebox_hu_b52713d79cf2bcdd.webp" loading="lazy" alt="thebox.png" width="250" height="174">
+    </a>
+  </div>
+  
+
+</div>
+
+<p>This workshop is part of a larger collaborative project with artists to develop an interactive instrument that allows people to &lsquo;jam out&rsquo; their thoughts and feelings in audiovisual patterns. The prototype will debut at our follow-up workshop on 16th September, and we&rsquo;re excited to see how people will use it to express their own inner experiences.</p>
+<p>Why does this matter? Because understanding the diversity of human consciousness isn&rsquo;t just an academic pursuit - it&rsquo;s a gateway to greater empathy and self-awareness. When we realise that everyone&rsquo;s inner experience is unique, we become more accepting of our own mental processes and more understanding of others&rsquo;.</p>
+<p>So, are you curious about how your inner voice compares to others? Would you like to learn more about language, gender, and design in human-computer interactions? Join us on <strong>16th September 2025 @4-6pm at the <a href="https://gregson.co.uk/" target="_blank" rel="noopener">Gregson Centre</a></strong>, to explore your own mental landscape through our new interactive art installation.</p>
+<p>The session will be joined by Dr Bo Yao (Neuroscientist), Charlie Brown (Artist), Steven Hodges (Artist), and Dr Alice Ashcroft (Computer Scientist).</p>
+<p>
+  <i class="fas fa-exclamation-triangle  pr-1 fa-fw"></i>Please contact our lead artist Charlie Brown at <a href="mailto:charlie_m_brown@icloud.com">charlie_m_brown@icloud.com</a> for more information and to sign up for this event.</p>
+<br>
+More Info:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+    
+    
+    <a href="/projects/voicesofthemind/" >
+      <div class="img-hover-zoom">
+        <img src="/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp" height="455" width="808"
+            class="article-banner" alt="Voices of the Mind" loading="lazy">
+      </div>
+    </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/projects/voicesofthemind/" >Voices of the Mind</a>
+  </div>
+
+  
+
+  
+
+</div>
+
+
+
+
+          </div>
+          
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/blog/">Blog</a>
+  
+  <a class="badge badge-light" href="/tag/public-engagement/">Public Engagement</a>
+  
+  <a class="badge badge-light" href="/tag/voices-of-the-mind-project/">Voices of the Mind Project</a>
+  
+  <a class="badge badge-light" href="/tag/young-people/">Young People</a>
+  
+  <a class="badge badge-light" href="/tag/inner-voices/">Inner Voices</a>
+  
+  <a class="badge badge-light" href="/tag/inner-speech/">Inner Speech</a>
+  
+  <a class="badge badge-light" href="/tag/consciousness/">Consciousness</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250901-voicesofthemind-workshop1%2F&amp;text=When&#43;inner&#43;voices&#43;become&#43;art" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250901-voicesofthemind-workshop1%2F&amp;t=When&#43;inner&#43;voices&#43;become&#43;art" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=When%20inner%20voices%20become%20art&amp;body=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250901-voicesofthemind-workshop1%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250901-voicesofthemind-workshop1%2F&amp;title=When&#43;inner&#43;voices&#43;become&#43;art" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=When&#43;inner&#43;voices&#43;become&#43;art%20https%3A%2F%2Flisn-lab.org%2Fpost%2F20250901-voicesofthemind-workshop1%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20250901-voicesofthemind-workshop1%2F&amp;title=When&#43;inner&#43;voices&#43;become&#43;art" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/bo-yao/"><img class="avatar mr-3 avatar-circle" src="/author/bo-yao/avatar_hu_d6438ad4329ad00b.jpg" alt="Bo Yao"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/bo-yao/">Bo Yao</a></h5>
+      <h6 class="card-subtitle">Lab Director</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:b.yao1@lancaster.ac.uk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=WejYCqQAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://bsky.app/profile/bo-yao.bsky.social" target="_blank" rel="noopener">
+        <i class="fab fa-bluesky"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/bo-yao-b29823310/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.instagram.com/lisnlab/" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/20250409-voicesofthemind-artist/">Calling for Artists to Create Artworks of Inner Speech for Young People</a></li>
+      
+      <li><a href="/projects/voicesofthemind/">Voices of the Mind</a></li>
+      
+      <li><a href="/post/20250407-epslancaster/">LISN Lab Celebrates a Memorable EPS Lancaster Experience</a></li>
+      
+      <li><a href="/post/20250131-anendophasia/">Inner speechless: Is it possible to have no inner speech?</a></li>
+      
+      <li><a href="/post/20250121-aphantasia/">Lack of mental imagery? You may be special!</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+        </div>
+      </article>
+    </main>
+
+    
+    
+    <div class="d-none d-xl-block col-xl-3 docs-toc">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents"></nav>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <p style="text-align: center; font-size: 14px; padding: 20px 0; margin: 0;">
+	&copy; LISN Lab 
+  
+    2022 - 
+  
+  2025
+</p>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.4088568392ae7ce05ca1e7ace2b565f7.js"></script>
+
+
+
+
+  
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
