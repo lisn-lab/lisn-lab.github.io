@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funding | LISN Lab</title>
+    <link>http://localhost:1313/funding/</link>
+      <atom:link href="http://localhost:1313/funding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Funding</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>Funding</title>
+      <link>http://localhost:1313/funding/</link>
+    </image>
+    
+    <item>
+      <title>Decoding inner speech with neurophysiological insights and explainable AI</title>
+      <link>http://localhost:1313/funding/2527-yy-bfg/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/funding/2527-yy-bfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laying the Groundwork for EEG Classification of Auditory Verbal Hallucinations: Multi-Objective Feature Attribution in Explainable Machine Learning for Inner Speech</title>
+      <link>http://localhost:1313/funding/2426-y-apex/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/funding/2426-y-apex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can a silent mind know thyself? The role of inner speech in self-awareness</title>
+      <link>http://localhost:1313/funding/2325-y-bfg/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/funding/2325-y-bfg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
