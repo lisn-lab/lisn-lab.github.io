@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zara Rowe | LISN Lab</title>
+    <link>https://lisn-lab.org/author/zara-rowe/</link>
+      <atom:link href="https://lisn-lab.org/author/zara-rowe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zara Rowe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
+    <image>
+      <url>https://lisn-lab.org/author/zara-rowe/avatar_hu_ce118506d6dd7a57.jpg</url>
+      <title>Zara Rowe</title>
+      <link>https://lisn-lab.org/author/zara-rowe/</link>
+    </image>
+    
+  </channel>
+</rss>
