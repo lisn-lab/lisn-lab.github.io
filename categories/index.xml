@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories | LISN Lab</title>
-    <link>https://lisn-lab.org/categories/</link>
-      <atom:link href="https://lisn-lab.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
-    <image>
-      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
-      <title>Categories</title>
-      <link>https://lisn-lab.org/categories/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories | LISN Lab</title><link>https://lisn-lab.org/categories/</link><atom:link href="https://lisn-lab.org/categories/index.xml" rel="self" type="application/rss+xml"/><description>Categories</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><image><url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url><title>Categories</title><link>https://lisn-lab.org/categories/</link></image></channel></rss>
