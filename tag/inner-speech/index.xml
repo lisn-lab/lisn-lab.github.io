@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Inner Speech | LISN Lab</title><link>https://lisn-lab.org/tag/inner-speech/</link><atom:link href="https://lisn-lab.org/tag/inner-speech/index.xml" rel="self" type="application/rss+xml"/><description>Inner Speech</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url><title>Inner Speech</title><link>https://lisn-lab.org/tag/inner-speech/</link></image><item><title>Recruiting: a fully funded PhD studentship in the LISN Lab</title><link>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</guid><description>&lt;p&gt;I am recruiting a fully funded PhD student to work on detecting ruminative inner speech from EEG, starting October 2026 at Lancaster University. The studentship is funded by an EPSRC Doctoral Landscape Award via the Data Science and AI Institute (DSAIL).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inner Speech | LISN Lab</title>
+    <link>https://lisn-lab.org/tag/inner-speech/</link>
+      <atom:link href="https://lisn-lab.org/tag/inner-speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inner Speech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>Inner Speech</title>
+      <link>https://lisn-lab.org/tag/inner-speech/</link>
+    </image>
+    
+    <item>
+      <title>Recruiting: a fully funded PhD studentship in the LISN Lab</title>
+      <link>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</guid>
+      <description>&lt;p&gt;I am recruiting a fully funded PhD student to work on detecting ruminative inner speech from EEG, starting October 2026 at Lancaster University. The studentship is funded by an EPSRC Doctoral Landscape Award via the Data Science and AI Institute (DSAIL).&lt;/p&gt;
 &lt;p&gt;Existing silent-speech brain-computer interfaces overwhelmingly cue speech production on demand, leaving spontaneous inner speech – the kind that characterises ruminative and intrusive thought – methodologically unaddressed. This project closes that gap by developing a wearable BCI that detects and emotionally classifies spontaneous inner speech in naturalistic conditions, combining EEG with ultrasound imaging of the tongue.&lt;/p&gt;
 &lt;p&gt;The project sits at the intersection of cognitive neuroscience, machine learning, and articulatory phonetics. The supervisory team spans three departments: myself in Psychology, Professor Hossein Rahmani in Computing and Communications, and Dr Sam Kirkham in Linguistics and English Language. You will be based in the LISN Lab and embedded in the Imaging and Computer Vision Lancaster (iCVL) group and the Phonetics Lab. You will also be part of the DSAIL doctoral cohort, with access to our EEG lab facilities, Lancaster&amp;rsquo;s High-End Computing GPU cluster, training across all three disciplines, and partnership work with OpenBCI on wearable hardware.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Eligibility.&lt;/strong&gt; UK home applicants with a strong undergraduate degree, and ideally a Masters, in computer science or a closely related quantitative discipline with substantial machine-learning training. Strong Python and demonstrable ML experience are essential. Prior exposure to signal processing, deep learning, or EEG/neuroimaging analysis is highly desirable.&lt;/p&gt;
@@ -9,181 +28,571 @@
 &lt;li&gt;Provisional interview date: 4 August 2026&lt;/li&gt;
 &lt;li&gt;Studentship start date: 1 October 2026&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;How to apply.&lt;/strong&gt; Through the Lancaster University Admissions Portal: &lt;a href="https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2" target="_blank" rel="noopener"&gt;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Informal enquiries&lt;/strong&gt; are warmly encouraged before applying. Please email me at &lt;a href="mailto:b.yao1@lancaster.ac.uk"&gt;b.yao1@lancaster.ac.uk&lt;/a&gt; with any questions about the project, the supervisory team, or the application process.&lt;/p&gt;</description></item><item><title>Rethinking inner speech through linguistic active inference</title><link>https://lisn-lab.org/post/20251212-linguisticactiveinference/</link><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20251212-linguisticactiveinference/</guid><description>&lt;p&gt;Why do we talk to ourselves in the head? I&amp;rsquo;ve spent years puzzling over this seemingly simple question.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to apply.&lt;/strong&gt; Through the Lancaster University Admissions Portal: &lt;a href=&#34;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Informal enquiries&lt;/strong&gt; are warmly encouraged before applying. Please email me at &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;b.yao1@lancaster.ac.uk&lt;/a&gt; with any questions about the project, the supervisory team, or the application process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rethinking inner speech through linguistic active inference</title>
+      <link>https://lisn-lab.org/post/20251212-linguisticactiveinference/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20251212-linguisticactiveinference/</guid>
+      <description>&lt;p&gt;Why do we talk to ourselves in the head? I&amp;rsquo;ve spent years puzzling over this seemingly simple question.&lt;/p&gt;
 &lt;p&gt;Most of us talk to ourselves – that voice in your head narrating your thoughts, rehearsing conversations, working through problems. Vygotsky gave us a compelling story: social speech turns inward and becomes a tool for self-regulation and planning. But that tells us &lt;em&gt;where&lt;/em&gt; inner speech comes from and &lt;em&gt;what&lt;/em&gt; it does. It doesn&amp;rsquo;t quite answer &lt;em&gt;why language&lt;/em&gt; is the format the brain reaches for. What makes words so effective for thinking?&lt;/p&gt;
 &lt;p&gt;I kept running into contradictions: inner speech helps us with some tasks but not others. It feels effortless sometimes, deliberate other times. Some people report almost constant inner dialogue, others barely any. What&amp;rsquo;s really going on?&lt;/p&gt;
 &lt;p&gt;My new paper in &lt;em&gt;Psychological Review&lt;/em&gt; offers a potential answer – one that I&amp;rsquo;m rather excited about: inner speech helps our brains navigate uncertainty.&lt;/p&gt;
 &lt;p&gt;This is a hypothesis, a framework for thinking about the phenomenon, but it&amp;rsquo;s one that pulls together many disparate observations in a way that finally feels satisfying to me.&lt;/p&gt;
-&lt;img src="fig1.jpg" style="width: 100%; display: inline-block;"&gt;
+&lt;img src=&#34;fig1.jpg&#34; style=&#34;width: 100%; display: inline-block;&#34;&gt;
 &lt;p&gt;Here&amp;rsquo;s the idea: your brain is constantly trying to predict what&amp;rsquo;s happening and what to do next. But the world is complex and ambiguous. Inner speech acts like a translator – it converts messy, overwhelming sensory experiences into compact linguistic forms (e.g., &amp;ldquo;Mona Lisa&amp;rdquo;) that your brain can work with. And it works in reverse too: it unpacks your abstract goals (e.g., staying healthy) into concrete, actionable steps (e.g., &amp;ldquo;salad, not chips&amp;rdquo;).&lt;/p&gt;
 &lt;p&gt;Think of it like this: when you&amp;rsquo;re anxious about an upcoming presentation, talking yourself through it – &amp;ldquo;Okay, who am I speaking to? First I&amp;rsquo;ll introduce the problem like this, maybe through a metaphor, then show the data like this&amp;hellip; if they ask about X, I&amp;rsquo;ll show them Y&amp;hellip;&amp;rdquo; – this isn&amp;rsquo;t just rehearsal. You&amp;rsquo;re literally reducing uncertainty by transforming a fuzzy, anxiety-inducing future into a structured linguistic sequence your brain can predict and control.&lt;/p&gt;
 &lt;p&gt;This explains why inner speech is so dynamic – it adapts its form based on how uncertain you are and what kind of problem you&amp;rsquo;re trying to solve. When you&amp;rsquo;re confused, it becomes more explicit, deliberate, and likely dialogic. When things are clear, it shortens and fades into the background.&lt;/p&gt;
 &lt;p&gt;The framework generates concrete predictions about when inner speech should emerge, what forms it takes, and how it connects to everything from working memory to mental health challenges.&lt;/p&gt;
-&lt;img src="fig2.jpg" style="width: 100%; display: inline-block;"&gt;
-&lt;p&gt;Read the full paper here: &lt;a href="https://doi.org/10.1037/rev0000607" target="_blank" rel="noopener"&gt;https://doi.org/10.1037/rev0000607&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d love to hear your experiences – do you notice your inner voice changing depending on how uncertain or confused you feel?&lt;/p&gt;</description></item><item><title>Rethinking inner speech through linguistic active inference</title><link>https://lisn-lab.org/publication/2025-y-psychrev/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2025-y-psychrev/</guid><description/></item><item><title>Wait... you can actually *hear* your thoughts as words?</title><link>https://lisn-lab.org/post/20251121-voicesofthemind-launch/</link><pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20251121-voicesofthemind-launch/</guid><description>&lt;blockquote&gt;
+&lt;img src=&#34;fig2.jpg&#34; style=&#34;width: 100%; display: inline-block;&#34;&gt;
+&lt;p&gt;Read the full paper here: &lt;a href=&#34;https://doi.org/10.1037/rev0000607&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/rev0000607&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d love to hear your experiences – do you notice your inner voice changing depending on how uncertain or confused you feel?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rethinking inner speech through linguistic active inference</title>
+      <link>https://lisn-lab.org/publication/2025-y-psychrev/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2025-y-psychrev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wait... you can actually *hear* your thoughts as words?</title>
+      <link>https://lisn-lab.org/post/20251121-voicesofthemind-launch/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20251121-voicesofthemind-launch/</guid>
+      <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;ldquo;Wait&amp;hellip; you can actually &lt;em&gt;hear&lt;/em&gt; your thoughts as words?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;A visitor stared at our thought diversity map in disbelief, their finger hovering over the &amp;lsquo;abstract/non-verbal&amp;rsquo; quadrant where they&amp;rsquo;d just placed their marker. Across the room, someone else had confidently positioned themselves in &amp;lsquo;vivid/verbal&amp;rsquo; territory. Same human brain. Completely different inner worlds.&lt;/p&gt;
 &lt;p&gt;This moment of mutual discovery – repeated dozens of times throughout the day – is exactly why we built what we&amp;rsquo;re calling the &amp;ldquo;Voicescape Installation.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id="from-prototype-to-performance-the-voicescape"&gt;From Prototype to Performance: The Voicescape&lt;/h2&gt;
+&lt;h2 id=&#34;from-prototype-to-performance-the-voicescape&#34;&gt;From Prototype to Performance: The Voicescape&lt;/h2&gt;
 &lt;p&gt;After two workshops of testing, tweaking, and learning from feedback, we&amp;rsquo;ve created something rather special: an interactive installation where you don&amp;rsquo;t just &lt;em&gt;describe&lt;/em&gt; your inner experience – you &lt;em&gt;perform&lt;/em&gt; it.&lt;/p&gt;
 &lt;p&gt;The centrepiece is our refined launchpad player. Press the illuminated keys and you&amp;rsquo;ll trigger real voices – actual recordings from young people who shared their inner thoughts in our previous workshops. Layer them over ambient soundscapes. Create patterns. Build your personal voicescape from the mental experiences of others.&lt;/p&gt;
 &lt;p&gt;Here is a track made by our artist:&lt;/p&gt;
-&lt;audio controls style="width: 100%;"&gt;
-&lt;source src="Voices of the mind final.mp3" type="audio/mpeg"&gt;
+&lt;audio controls style=&#34;width: 100%;&#34;&gt;
+  &lt;source src=&#34;Voices of the mind final.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 &lt;p&gt;It&amp;rsquo;s curious and oddly intimate. You&amp;rsquo;re literally composing with someone else&amp;rsquo;s &amp;lsquo;inner&amp;rsquo; voice, while simultaneously externalising your own thought patterns through the combinations you choose. Some visitors created chaotic symphonies of overlapping thoughts. Others carefully selected single voices, letting them breathe in the space. Each performance was a window into how that person experiences their own mind.&lt;/p&gt;
-&lt;img src="launchpad.jpeg" style="width: 100%;"&gt;
-&lt;h2 id="the-we-need-to-talk-experiment"&gt;The &amp;ldquo;We Need to Talk&amp;rdquo; Experiment&lt;/h2&gt;
+&lt;img src=&#34;launchpad.jpeg&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;h2 id=&#34;the-we-need-to-talk-experiment&#34;&gt;The &amp;ldquo;We Need to Talk&amp;rdquo; Experiment&lt;/h2&gt;
 &lt;p&gt;But the real revelation came from our simplest activity.&lt;/p&gt;
 &lt;p&gt;We asked visitors to write down/draw their chain of thoughts upon receiving a text message: &amp;ldquo;We need to talk.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The reactions were instant, that shared recognition of dread. But what came next was the interesting part. The drawings looked completely different from one another. Some people sketched spiralling loops, others branching trees of possibility, others wrote out full internal conversations. No two thought chains were alike, yet they all started from the same five words.&lt;/p&gt;
-&lt;h2 id="mapping-the-invisible-where-do-you-think"&gt;Mapping the Invisible: Where Do &lt;em&gt;You&lt;/em&gt; Think?&lt;/h2&gt;
+&lt;h2 id=&#34;mapping-the-invisible-where-do-you-think&#34;&gt;Mapping the Invisible: Where Do &lt;em&gt;You&lt;/em&gt; Think?&lt;/h2&gt;
 &lt;p&gt;We also set up a thought diversity map, two axes (abstract to vivid, verbal to visual) creating four quadrants of mental experience. Visitors placed coloured markers where they felt their thinking style belonged. What struck us was the scatter: no single cluster, no dominant pattern.&lt;/p&gt;
 &lt;p&gt;Several visitors moved their marker after seeing where others placed theirs. &amp;ldquo;I genuinely thought the way I think was just&amp;hellip; thinking,&amp;rdquo; one explained. &amp;ldquo;I didn&amp;rsquo;t know it was a &lt;em&gt;type&lt;/em&gt; of thinking.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id="what-your-brain-looks-like-when-it-talks-to-itself"&gt;What Your Brain Looks Like When It Talks to Itself&lt;/h2&gt;
+&lt;h2 id=&#34;what-your-brain-looks-like-when-it-talks-to-itself&#34;&gt;What Your Brain Looks Like When It Talks to Itself&lt;/h2&gt;
 &lt;p&gt;Between voicescape performances, we demonstrated our EEG technology – the science beneath the art.&lt;/p&gt;
 &lt;p&gt;Electrodes. Brain waves. Real-time visualisations of neural activity during inner speech.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;So you can &lt;em&gt;see&lt;/em&gt; when someone&amp;rsquo;s thinking in words?&amp;rdquo; a visitor asked, watching the screen as we demonstrated.&lt;/p&gt;
 &lt;p&gt;Not exactly – but we can detect patterns associated with language production, even when nothing is spoken aloud. That little voice in your head? It creates measurable electrical activity. Your silent reading of this sentence? Your brain is lighting up language centres right now.&lt;/p&gt;
 &lt;p&gt;For many visitors, this was the bridge between subjective experience and objective science. Your inner world isn&amp;rsquo;t just psychological – it&amp;rsquo;s neurological, electrical, physical. It&amp;rsquo;s &lt;em&gt;real&lt;/em&gt; in ways that can be measured, studied, understood.&lt;/p&gt;
-&lt;img src="eeg_demo.jpeg" style="width: 100%;"&gt;
-&lt;h2 id="the-great-kahoot-showdown"&gt;The Great Kahoot Showdown&lt;/h2&gt;
+&lt;img src=&#34;eeg_demo.jpeg&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;h2 id=&#34;the-great-kahoot-showdown&#34;&gt;The Great Kahoot Showdown&lt;/h2&gt;
 &lt;p&gt;We closed with what can only be described as delightfully nerdy chaos: a Kahoot quiz on inner speech, consciousness, and mental health.&lt;/p&gt;
 &lt;p&gt;Questions ranged from &amp;ldquo;What percentage of people experience no inner voice at all?&amp;rdquo; (around 5–10%) to &amp;ldquo;Can your inner speech affect your confidence?&amp;rdquo; (yes, and here&amp;rsquo;s the research to prove it).&lt;/p&gt;
 &lt;p&gt;The competition was fierce. The learning was real. And most importantly, people were &lt;em&gt;excited&lt;/em&gt; about neuroscience and psychology – not because we lectured, but because we&amp;rsquo;d just given them tools to explore their own minds.&lt;/p&gt;
 &lt;p&gt;The winner received bragging rights and a small prize. Everyone left with something more valuable: language to describe their inner experience, and the awareness that their way of thinking is both unique and valid.&lt;/p&gt;
-&lt;h2 id="what-weve-learned-and-what-happens-next"&gt;What We&amp;rsquo;ve Learned (And What Happens Next)&lt;/h2&gt;
+&lt;h2 id=&#34;what-weve-learned-and-what-happens-next&#34;&gt;What We&amp;rsquo;ve Learned (And What Happens Next)&lt;/h2&gt;
 &lt;p&gt;Three workshops in, here&amp;rsquo;s what&amp;rsquo;s become clear:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;People are hungry to understand their own minds.&lt;/strong&gt; Not in abstract, academic terms – but through direct exploration and comparison with others.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Art makes science accessible.&lt;/strong&gt; The voicescape installation communicated more about inner experience in five minutes than any lecture could in an hour.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Diversity is the norm.&lt;/strong&gt; There is no &amp;ldquo;standard&amp;rdquo; way to think. There&amp;rsquo;s only a spectrum of experiences, all equally real, all equally valid.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Community amplifies discovery.&lt;/strong&gt; Every workshop participant teaches us something new – about methodology, about communication, about the sheer variety of consciousness itself.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="join-the-conversation"&gt;Join the Conversation&lt;/h2&gt;
+&lt;h2 id=&#34;join-the-conversation&#34;&gt;Join the Conversation&lt;/h2&gt;
 &lt;p&gt;The Voices of the Mind project continues to evolve, and we want you to be part of it. We&amp;rsquo;re planning:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Touring the installation&lt;/strong&gt; to more venues across the UK&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Expanding our thought diversity research&lt;/strong&gt; with new activities and measures&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Building an online community&lt;/strong&gt; for ongoing conversations about inner experience&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Want to stay connected?&lt;/strong&gt;
-&lt;i class="fas fa-envelope pr-1 fa-fw"&gt;&lt;/i&gt;&lt;a href="https://lisn-lab.sender.site/" target="_blank" rel="noopener"&gt;&amp;raquo;Join our mailing list&amp;laquo;&lt;/a&gt; for behind-the-scenes updates, upcoming events, and fascinating science about the mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to stay connected?&lt;/strong&gt; 
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://lisn-lab.sender.site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;raquo;Join our mailing list&amp;laquo;&lt;/a&gt; for behind-the-scenes updates, upcoming events, and fascinating science about the mind.&lt;/p&gt;
 &lt;p&gt;Because the most interesting conversation you can have isn&amp;rsquo;t with someone who thinks like you – it&amp;rsquo;s with someone who thinks completely differently, and helps you understand your own mind in the process.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;What does your voicescape sound like?&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
 More Info:
-&lt;div class="card-simple view-card"&gt;
-&lt;div class="article-metadata"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;card-simple view-card&#34;&gt;
+
+  
+    
+
+
+&lt;div class=&#34;article-metadata&#34;&gt;
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
 &lt;/div&gt;
-&lt;a href="https://lisn-lab.org/projects/voicesofthemind/" &gt;
-&lt;div class="img-hover-zoom"&gt;
-&lt;img src="https://lisn-lab.org/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp" height="455" width="808"
-class="article-banner" alt="Voices of the Mind" loading="lazy"&gt;
+
+  
+
+  
+  
+  
+    
+    
+    &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34; &gt;
+      &lt;div class=&#34;img-hover-zoom&#34;&gt;
+        &lt;img src=&#34;https://lisn-lab.org/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp&#34; height=&#34;455&#34; width=&#34;808&#34;
+            class=&#34;article-banner&#34; alt=&#34;Voices of the Mind&#34; loading=&#34;lazy&#34;&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  
+
+  &lt;div class=&#34;section-subheading article-title mb-1 mt-3&#34;&gt;
+    &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34; &gt;Voices of the Mind&lt;/a&gt;
+  &lt;/div&gt;
+
+  
+
+  
+
 &lt;/div&gt;
-&lt;/a&gt;
-&lt;div class="section-subheading article-title mb-1 mt-3"&gt;
-&lt;a href="https://lisn-lab.org/projects/voicesofthemind/" &gt;Voices of the Mind&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>The Surprising Ways We All Think Differently: What We Learned from 'Jamming Out' Our Inner Voices</title><link>https://lisn-lab.org/post/20251012-voicesofthemind-workshop2/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20251012-voicesofthemind-workshop2/</guid><description>&lt;blockquote&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Surprising Ways We All Think Differently: What We Learned from &#39;Jamming Out&#39; Our Inner Voices</title>
+      <link>https://lisn-lab.org/post/20251012-voicesofthemind-workshop2/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20251012-voicesofthemind-workshop2/</guid>
+      <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;ldquo;I thought everyone thought like me – until I realised they don&amp;rsquo;t.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This simple revelation echoed around the room at our recent workshop on voices of the mind, as participants discovered something both obvious and profound: we all think differently. Not just in &lt;em&gt;what&lt;/em&gt; we think, but in the fundamental &lt;em&gt;how&lt;/em&gt; of our mental experience.&lt;/p&gt;
-&lt;h2 id="when-thoughts-become-melody"&gt;When Thoughts Become Melody&lt;/h2&gt;
+&lt;h2 id=&#34;when-thoughts-become-melody&#34;&gt;When Thoughts Become Melody&lt;/h2&gt;
 &lt;p&gt;Following our July workshop where participants visualised their inner experiences through art, this time we showcased an ambitious prototype: an interactive launchpad and drum pad that allows us to express thought patterns into sound. The idea was simple yet powerful – what if you could &amp;lsquo;perform&amp;rsquo; your inner thought, turning the cacophony or silence of your mind into something artistic others could hear?&lt;/p&gt;
 &lt;p&gt;The response? More than thirty young people eagerly queued to bash drums, trigger soundscapes, and layer voice recordings into compositions that reflected their mental worlds. The drum pads proved irresistibly popular (there&amp;rsquo;s something deeply satisfying about externalising your thoughts through rhythm), though we quickly learned that multiple overlapping voices can create the very mental clutter some participants were trying to escape – a feedback we&amp;rsquo;re now using to refine the prototype.&lt;/p&gt;
-&lt;img src="drumming.jpeg" style="width: 30.5%; display: inline-block;"&gt;
-&lt;img src="listening.jpeg" style="width: 68.5%; display: inline-block;"&gt;
-&lt;h2 id="the-real-discovery-we-dont-all-have-an-inner-voice"&gt;The Real Discovery: We Don&amp;rsquo;t All Have an &amp;lsquo;Inner Voice&amp;rsquo;&lt;/h2&gt;
+&lt;img src=&#34;drumming.jpeg&#34; style=&#34;width: 30.5%; display: inline-block;&#34;&gt;
+&lt;img src=&#34;listening.jpeg&#34; style=&#34;width: 68.5%; display: inline-block;&#34;&gt;
+&lt;h2 id=&#34;the-real-discovery-we-dont-all-have-an-inner-voice&#34;&gt;The Real Discovery: We Don&amp;rsquo;t All Have an &amp;lsquo;Inner Voice&amp;rsquo;&lt;/h2&gt;
 &lt;p&gt;But the technology was just the conversation starter. What emerged from the small group discussions that followed was far more fascinating.&lt;/p&gt;
 &lt;p&gt;One participant described their mind as the film &lt;em&gt;Inside Out&lt;/em&gt; – multiple voices constantly competing for attention, an exhausting internal committee meeting that never adjourns. For them, thinking isn&amp;rsquo;t a process; it&amp;rsquo;s managing chaos.&lt;/p&gt;
 &lt;p&gt;Others revealed they have no inner voice at all. Their thoughts arrive as abstract impulses, intuitions that resist translation into words. &amp;ldquo;How do I describe something that has no language?&amp;rdquo; one asked. It&amp;rsquo;s perhaps closest to a &amp;lsquo;higher-level knowing&amp;rsquo; – you simply understand without narrating it to yourself.&lt;/p&gt;
 &lt;p&gt;Then there were the visual thinkers – people whose thoughts manifest as schematic images, emotional shapes, and symbolic patterns rather than words or movies. &amp;ldquo;I see spiky patterns when I&amp;rsquo;m anxious&amp;rdquo; one participant explained, &amp;ldquo;and flowing curves when I&amp;rsquo;m calm.&amp;rdquo; Many of these visual thinkers gravitated toward visual arts, finding their medium matched their mental experience.&lt;/p&gt;
 &lt;p&gt;Participants on the ADHD spectrum described thoughts as &amp;ldquo;wild horses&amp;rdquo; – leaping between topics, resistant to corralling, exhausting to integrate into something coherent. This wasn&amp;rsquo;t just how they think during a workshop; it&amp;rsquo;s their daily reality.&lt;/p&gt;
-&lt;img src="groups2.jpeg" style="width: 68.5%; display: inline-block;"&gt;
-&lt;img src="groups1.jpeg" style="width: 30.5%; display: inline-block;"&gt;
-&lt;h2 id="why-this-matters-beyond-academic-curiosity"&gt;Why This Matters: Beyond Academic Curiosity&lt;/h2&gt;
+&lt;img src=&#34;groups2.jpeg&#34; style=&#34;width: 68.5%; display: inline-block;&#34;&gt;
+&lt;img src=&#34;groups1.jpeg&#34; style=&#34;width: 30.5%; display: inline-block;&#34;&gt;
+&lt;h2 id=&#34;why-this-matters-beyond-academic-curiosity&#34;&gt;Why This Matters: Beyond Academic Curiosity&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s what struck us most: almost everyone said they&amp;rsquo;d learned something new – despite having lived with their own thoughts their entire lives. Inner experience is perhaps our most intimate, constant companion, yet we rarely discuss it. We assume everyone&amp;rsquo;s mental landscape looks like ours.&lt;/p&gt;
 &lt;p&gt;They don&amp;rsquo;t.&lt;/p&gt;
 &lt;p&gt;This diversity isn&amp;rsquo;t just psychologically interesting; it has real implications. Dr Alice Ashcroft shared research on &amp;ldquo;hedging&amp;rdquo; – tentative language patterns (&amp;ldquo;maybe,&amp;rdquo; &amp;ldquo;perhaps,&amp;rdquo; &amp;ldquo;I think&amp;rdquo;) more commonly used by women. If our inner speech shapes how we speak outward, and social conditioning shapes our inner speech, we&amp;rsquo;re looking at a feedback loop that influences confidence, authority, and social dynamics.&lt;/p&gt;
 &lt;p&gt;Understanding how differently we think opens pathways to empathy. When someone takes longer to respond, are they dealing with competing inner voices? When someone makes quick decisions, are they following wordless intuition? When someone struggles to explain themselves, are they translating visual or abstract thoughts into a verbal world that doesn&amp;rsquo;t quite fit?&lt;/p&gt;
-&lt;h2 id="the-journey-continues"&gt;The Journey Continues&lt;/h2&gt;
+&lt;h2 id=&#34;the-journey-continues&#34;&gt;The Journey Continues&lt;/h2&gt;
 &lt;p&gt;This workshop is part of our larger &amp;ldquo;Voices of the Mind&amp;rdquo; project – an ongoing collaboration between scientists and artists to make the invisible visible, the private shareable, the assumed questionable. We&amp;rsquo;re refining our interactive instrument based on your feedback, with plans to showcase it more widely (watch this space).&lt;/p&gt;
 &lt;p&gt;But more importantly, we&amp;rsquo;re building a community of curious minds interested in the science of consciousness, inner experience, and how art can illuminate what brain scans alone cannot.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Want to join the conversation?&lt;/strong&gt; We&amp;rsquo;re building something new – a regular behind-the-scenes look at our research, upcoming workshops, and the fascinating science of how we think.
-&lt;i class="fas fa-envelope pr-1 fa-fw"&gt;&lt;/i&gt;&lt;a href="https://lisn-lab.sender.site/" target="_blank" rel="noopener"&gt;&amp;raquo;Sign up for our mailing list&amp;laquo;&lt;/a&gt; to explore the hidden diversity of human consciousness with us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to join the conversation?&lt;/strong&gt; We&amp;rsquo;re building something new – a regular behind-the-scenes look at our research, upcoming workshops, and the fascinating science of how we think. 
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://lisn-lab.sender.site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;raquo;Sign up for our mailing list&amp;laquo;&lt;/a&gt; to explore the hidden diversity of human consciousness with us.&lt;/p&gt;
 &lt;p&gt;Because once you realise everyone thinks differently, you can never quite see the world – or yourself – the same way again.&lt;/p&gt;
 &lt;br&gt;
 More Info:
-&lt;div class="card-simple view-card"&gt;
-&lt;div class="article-metadata"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;card-simple view-card&#34;&gt;
+
+  
+    
+
+
+&lt;div class=&#34;article-metadata&#34;&gt;
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
 &lt;/div&gt;
-&lt;a href="https://lisn-lab.org/projects/voicesofthemind/" &gt;
-&lt;div class="img-hover-zoom"&gt;
-&lt;img src="https://lisn-lab.org/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp" height="455" width="808"
-class="article-banner" alt="Voices of the Mind" loading="lazy"&gt;
+
+  
+
+  
+  
+  
+    
+    
+    &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34; &gt;
+      &lt;div class=&#34;img-hover-zoom&#34;&gt;
+        &lt;img src=&#34;https://lisn-lab.org/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp&#34; height=&#34;455&#34; width=&#34;808&#34;
+            class=&#34;article-banner&#34; alt=&#34;Voices of the Mind&#34; loading=&#34;lazy&#34;&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  
+
+  &lt;div class=&#34;section-subheading article-title mb-1 mt-3&#34;&gt;
+    &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34; &gt;Voices of the Mind&lt;/a&gt;
+  &lt;/div&gt;
+
+  
+
+  
+
 &lt;/div&gt;
-&lt;/a&gt;
-&lt;div class="section-subheading article-title mb-1 mt-3"&gt;
-&lt;a href="https://lisn-lab.org/projects/voicesofthemind/" &gt;Voices of the Mind&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>When inner voices become art</title><link>https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/</guid><description>&lt;blockquote&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>When inner voices become art</title>
+      <link>https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/</guid>
+      <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;The most beautiful experience we can have is the mysterious. It is the source of all true art and science.&amp;rdquo; &lt;br&gt; &amp;ndash; Albert Einstein&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The little voice in my head is one such mystery.&lt;/p&gt;
 &lt;p&gt;We all have different relationships with the voice in our head. Mine chatters as I read, write, and think. But here&amp;rsquo;s the fascinating part - your inner experience might be completely different from mine.&lt;/p&gt;
 &lt;p&gt;While science explains this phenomenon as our brain&amp;rsquo;s silent language production, the reality is far more diverse and intriguing. Some people experience abstract, non-verbal thoughts, others engage in rich inner monologues, and some hear multiple voices in conversation. This remarkable variety of inner experiences has long puzzled psychologists and fascinated artists alike.&lt;/p&gt;
 &lt;p&gt;This July, we bridged the gap between science and art by hosting a workshop that invited young people to externalise their thought processes through creative expression. Armed with iPads, paper, keyboards, and microphones, participants transformed their inner worlds into tangible art pieces. We complemented their creative exploration with scientific context, demonstrating EEG recordings of brain activity to show how our thoughts manifest physically.&lt;/p&gt;
 &lt;p&gt;The results were extraordinary. Some participants visualised their thoughts as rainbow patterns of emotions, others depicted their inner voice as radio waves, and some translated their mental experience into rhythmic compositions. Each piece offered a unique window into how differently we all experience our inner worlds.&lt;/p&gt;
-&lt;div class="gallery-grid"&gt;
-&lt;div class="gallery-item gallery-item--medium"&gt;
-&lt;a data-fancybox="gallery-vimw1" href="https://lisn-lab.org/media/albums/vimw1/a1.png" &gt;
-&lt;img src="https://lisn-lab.org/media/albums/vimw1/a1_hu_23bf1c7493b84b.webp" loading="lazy" alt="a1.png" width="250" height="188"&gt;
-&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-vimw1&#34; href=&#34;https://lisn-lab.org/media/albums/vimw1/a1.png&#34; &gt;
+      &lt;img src=&#34;https://lisn-lab.org/media/albums/vimw1/a1_hu_23bf1c7493b84b.webp&#34; loading=&#34;lazy&#34; alt=&#34;a1.png&#34; width=&#34;250&#34; height=&#34;188&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-vimw1&#34; href=&#34;https://lisn-lab.org/media/albums/vimw1/a2.png&#34; &gt;
+      &lt;img src=&#34;https://lisn-lab.org/media/albums/vimw1/a2_hu_27191147d5ebcbaf.webp&#34; loading=&#34;lazy&#34; alt=&#34;a2.png&#34; width=&#34;250&#34; height=&#34;188&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-vimw1&#34; href=&#34;https://lisn-lab.org/media/albums/vimw1/a3.png&#34; &gt;
+      &lt;img src=&#34;https://lisn-lab.org/media/albums/vimw1/a3_hu_31a8426a53fbca1b.webp&#34; loading=&#34;lazy&#34; alt=&#34;a3.png&#34; width=&#34;250&#34; height=&#34;188&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-vimw1&#34; href=&#34;https://lisn-lab.org/media/albums/vimw1/fightingthought.png&#34; &gt;
+      &lt;img src=&#34;https://lisn-lab.org/media/albums/vimw1/fightingthought_hu_15565aebf0596bc4.webp&#34; loading=&#34;lazy&#34; alt=&#34;fightingthought.png&#34; width=&#34;250&#34; height=&#34;175&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-vimw1&#34; href=&#34;https://lisn-lab.org/media/albums/vimw1/IMG_3737.jpg&#34; &gt;
+      &lt;img src=&#34;https://lisn-lab.org/media/albums/vimw1/IMG_3737_hu_11757b4bf6dbd05e.webp&#34; loading=&#34;lazy&#34; alt=&#34;IMG_3737.jpg&#34; width=&#34;188&#34; height=&#34;250&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-vimw1&#34; href=&#34;https://lisn-lab.org/media/albums/vimw1/thebox.png&#34; &gt;
+      &lt;img src=&#34;https://lisn-lab.org/media/albums/vimw1/thebox_hu_b52713d79cf2bcdd.webp&#34; loading=&#34;lazy&#34; alt=&#34;thebox.png&#34; width=&#34;250&#34; height=&#34;174&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
 &lt;/div&gt;
-&lt;div class="gallery-item gallery-item--medium"&gt;
-&lt;a data-fancybox="gallery-vimw1" href="https://lisn-lab.org/media/albums/vimw1/a2.png" &gt;
-&lt;img src="https://lisn-lab.org/media/albums/vimw1/a2_hu_27191147d5ebcbaf.webp" loading="lazy" alt="a2.png" width="250" height="188"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="gallery-item gallery-item--medium"&gt;
-&lt;a data-fancybox="gallery-vimw1" href="https://lisn-lab.org/media/albums/vimw1/a3.png" &gt;
-&lt;img src="https://lisn-lab.org/media/albums/vimw1/a3_hu_31a8426a53fbca1b.webp" loading="lazy" alt="a3.png" width="250" height="188"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="gallery-item gallery-item--medium"&gt;
-&lt;a data-fancybox="gallery-vimw1" href="https://lisn-lab.org/media/albums/vimw1/fightingthought.png" &gt;
-&lt;img src="https://lisn-lab.org/media/albums/vimw1/fightingthought_hu_15565aebf0596bc4.webp" loading="lazy" alt="fightingthought.png" width="250" height="175"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="gallery-item gallery-item--medium"&gt;
-&lt;a data-fancybox="gallery-vimw1" href="https://lisn-lab.org/media/albums/vimw1/IMG_3737.jpg" &gt;
-&lt;img src="https://lisn-lab.org/media/albums/vimw1/IMG_3737_hu_11757b4bf6dbd05e.webp" loading="lazy" alt="IMG_3737.jpg" width="188" height="250"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="gallery-item gallery-item--medium"&gt;
-&lt;a data-fancybox="gallery-vimw1" href="https://lisn-lab.org/media/albums/vimw1/thebox.png" &gt;
-&lt;img src="https://lisn-lab.org/media/albums/vimw1/thebox_hu_b52713d79cf2bcdd.webp" loading="lazy" alt="thebox.png" width="250" height="174"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+
 &lt;p&gt;This workshop is part of a larger collaborative project with artists to develop an interactive instrument that allows people to &amp;lsquo;jam out&amp;rsquo; their thoughts and feelings in audiovisual patterns. The prototype will debut at our follow-up workshop on 16th September, and we&amp;rsquo;re excited to see how people will use it to express their own inner experiences.&lt;/p&gt;
 &lt;p&gt;Why does this matter? Because understanding the diversity of human consciousness isn&amp;rsquo;t just an academic pursuit - it&amp;rsquo;s a gateway to greater empathy and self-awareness. When we realise that everyone&amp;rsquo;s inner experience is unique, we become more accepting of our own mental processes and more understanding of others&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;So, are you curious about how your inner voice compares to others? Would you like to learn more about language, gender, and design in human-computer interactions? Join us on &lt;strong&gt;16th September 2025 @4-6pm at the &lt;a href="https://gregson.co.uk/" target="_blank" rel="noopener"&gt;Gregson Centre&lt;/a&gt;&lt;/strong&gt;, to explore your own mental landscape through our new interactive art installation.&lt;/p&gt;
+&lt;p&gt;So, are you curious about how your inner voice compares to others? Would you like to learn more about language, gender, and design in human-computer interactions? Join us on &lt;strong&gt;16th September 2025 @4-6pm at the &lt;a href=&#34;https://gregson.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gregson Centre&lt;/a&gt;&lt;/strong&gt;, to explore your own mental landscape through our new interactive art installation.&lt;/p&gt;
 &lt;p&gt;The session will be joined by Dr Bo Yao (Neuroscientist), Charlie Brown (Artist), Steven Hodges (Artist), and Dr Alice Ashcroft (Computer Scientist).&lt;/p&gt;
 &lt;p&gt;
-&lt;i class="fas fa-exclamation-triangle pr-1 fa-fw"&gt;&lt;/i&gt;Please contact our lead artist Charlie Brown at &lt;a href="mailto:charlie_m_brown@icloud.com"&gt;charlie_m_brown@icloud.com&lt;/a&gt; for more information and to sign up for this event.&lt;/p&gt;
+  &lt;i class=&#34;fas fa-exclamation-triangle  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Please contact our lead artist Charlie Brown at &lt;a href=&#34;mailto:charlie_m_brown@icloud.com&#34;&gt;charlie_m_brown@icloud.com&lt;/a&gt; for more information and to sign up for this event.&lt;/p&gt;
 &lt;br&gt;
 More Info:
-&lt;div class="card-simple view-card"&gt;
-&lt;div class="article-metadata"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;card-simple view-card&#34;&gt;
+
+  
+    
+
+
+&lt;div class=&#34;article-metadata&#34;&gt;
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
 &lt;/div&gt;
-&lt;a href="https://lisn-lab.org/projects/voicesofthemind/" &gt;
-&lt;div class="img-hover-zoom"&gt;
-&lt;img src="https://lisn-lab.org/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp" height="455" width="808"
-class="article-banner" alt="Voices of the Mind" loading="lazy"&gt;
+
+  
+
+  
+  
+  
+    
+    
+    &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34; &gt;
+      &lt;div class=&#34;img-hover-zoom&#34;&gt;
+        &lt;img src=&#34;https://lisn-lab.org/media/voicesofthemind_royalsociety_hu_ca2299c553883805.webp&#34; height=&#34;455&#34; width=&#34;808&#34;
+            class=&#34;article-banner&#34; alt=&#34;Voices of the Mind&#34; loading=&#34;lazy&#34;&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  
+
+  &lt;div class=&#34;section-subheading article-title mb-1 mt-3&#34;&gt;
+    &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34; &gt;Voices of the Mind&lt;/a&gt;
+  &lt;/div&gt;
+
+  
+
+  
+
 &lt;/div&gt;
-&lt;/a&gt;
-&lt;div class="section-subheading article-title mb-1 mt-3"&gt;
-&lt;a href="https://lisn-lab.org/projects/voicesofthemind/" &gt;Voices of the Mind&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>It's about time: Rhythmic foundations of inner thought</title><link>https://lisn-lab.org/publication/2025-y-physlife/</link><pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2025-y-physlife/</guid><description/></item><item><title>Bridging phenomenology and neural mechanisms of inner speech: ALE meta-analysis on egocentricity and spontaneity in a dual-mechanistic framework</title><link>https://lisn-lab.org/publication/2023-ppy-neuroimage/</link><pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2023-ppy-neuroimage/</guid><description/></item><item><title>Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?</title><link>https://lisn-lab.org/publication/2021-ytbk-neuroimage/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2021-ytbk-neuroimage/</guid><description/></item><item><title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title><link>https://lisn-lab.org/publication/2021-y-jocognition/</link><pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2021-y-jocognition/</guid><description/></item><item><title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title><link>https://lisn-lab.org/publication/2020-ambmyf-jocn/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2020-ambmyf-jocn/</guid><description/></item><item><title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title><link>https://lisn-lab.org/publication/2018-ys-cognition/</link><pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2018-ys-cognition/</guid><description/></item><item><title>Inner voice experiences during processing of direct and indirect speech</title><link>https://lisn-lab.org/publication/2015-ys-eaipisp/</link><pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2015-ys-eaipisp/</guid><description/></item><item><title>Contextual modulation of reading rate for direct versus indirect speech quotations</title><link>https://lisn-lab.org/publication/2011-ys-cognition/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2011-ys-cognition/</guid><description/></item><item><title>Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex</title><link>https://lisn-lab.org/publication/2011-ybs-jocn/</link><pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2011-ybs-jocn/</guid><description/></item></channel></rss>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s about time: Rhythmic foundations of inner thought</title>
+      <link>https://lisn-lab.org/publication/2025-y-physlife/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2025-y-physlife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging phenomenology and neural mechanisms of inner speech: ALE meta-analysis on egocentricity and spontaneity in a dual-mechanistic framework</title>
+      <link>https://lisn-lab.org/publication/2023-ppy-neuroimage/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2023-ppy-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?</title>
+      <link>https://lisn-lab.org/publication/2021-ytbk-neuroimage/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2021-ytbk-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title>
+      <link>https://lisn-lab.org/publication/2021-y-jocognition/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2021-y-jocognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title>
+      <link>https://lisn-lab.org/publication/2020-ambmyf-jocn/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2020-ambmyf-jocn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title>
+      <link>https://lisn-lab.org/publication/2018-ys-cognition/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2018-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner voice experiences during processing of direct and indirect speech</title>
+      <link>https://lisn-lab.org/publication/2015-ys-eaipisp/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2015-ys-eaipisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual modulation of reading rate for direct versus indirect speech quotations</title>
+      <link>https://lisn-lab.org/publication/2011-ys-cognition/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2011-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex</title>
+      <link>https://lisn-lab.org/publication/2011-ybs-jocn/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2011-ybs-jocn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

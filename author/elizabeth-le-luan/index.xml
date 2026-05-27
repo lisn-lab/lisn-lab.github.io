@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elizabeth Le-Luan | LISN Lab</title><link>https://lisn-lab.org/author/elizabeth-le-luan/</link><atom:link href="https://lisn-lab.org/author/elizabeth-le-luan/index.xml" rel="self" type="application/rss+xml"/><description>Elizabeth Le-Luan</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate><image><url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url><title>Elizabeth Le-Luan</title><link>https://lisn-lab.org/author/elizabeth-le-luan/</link></image><item><title>‘It’s hard to write a good article’: The online comprehension of excuses as indirect replies</title><link>https://lisn-lab.org/publication/2018-swlyh-qjep/</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2018-swlyh-qjep/</guid><description/></item><item><title>Comprehension of indirect requests is influenced by their degree of imposition</title><link>https://lisn-lab.org/publication/2018-slwyh-discourseprocesses/</link><pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2018-slwyh-discourseprocesses/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elizabeth Le-Luan | LISN Lab</title>
+    <link>https://lisn-lab.org/author/elizabeth-le-luan/</link>
+      <atom:link href="https://lisn-lab.org/author/elizabeth-le-luan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elizabeth Le-Luan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>Elizabeth Le-Luan</title>
+      <link>https://lisn-lab.org/author/elizabeth-le-luan/</link>
+    </image>
+    
+    <item>
+      <title>‘It’s hard to write a good article’: The online comprehension of excuses as indirect replies</title>
+      <link>https://lisn-lab.org/publication/2018-swlyh-qjep/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2018-swlyh-qjep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehension of indirect requests is influenced by their degree of imposition</title>
+      <link>https://lisn-lab.org/publication/2018-slwyh-discourseprocesses/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2018-slwyh-discourseprocesses/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

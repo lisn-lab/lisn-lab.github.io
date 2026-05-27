@@ -1,15 +1,1712 @@
-<!doctype html><html lang=en-gb><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=generator content="Hugo Blox Builder 5.9.7"><script src=/js/mathjax-config.js></script><link rel=stylesheet href=/css/vendor-bundle.min.e4b9d3e8ce28da563d74b4089f677743.css media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin=anonymous media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css integrity crossorigin=anonymous media=print onload='this.media="all"'><script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script><link rel=stylesheet href=/css/wowchemy.0ccf667c1832c4c570b9bfa00362de70.css><link rel=stylesheet href=/css/libs/chroma/github-light.min.css title=hl-light media=print onload='this.media="all"' disabled><link rel=stylesheet href=/css/libs/chroma/dracula.min.css title=hl-dark media=print onload='this.media="all"'><script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}function trackOutboundLink(e,t){gtag("event","click",{event_category:"outbound",event_label:e,transport_type:"beacon",event_callback:function(){t!=="_blank"&&(document.location=e)}}),console.debug("Outbound link clicked: "+e)}function onClickCallback(e){if(e.target.tagName!=="A"||e.target.host===window.location.host)return;trackOutboundLink(e.target,e.target.getAttribute("target"))}gtag("js",new Date),gtag("config","G-H3MHW4QRFN",{}),gtag("set",{cookie_flags:"SameSite=None;Secure"}),document.addEventListener("click",onClickCallback,!1)</script><script>(function(e,t,n,s,o){e[s]=e[s]||[],e[s].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var a=t.getElementsByTagName(n)[0],i=t.createElement(n),r=s!="dataLayer"?"&l="+s:"";i.async=!0,i.src="https://www.googletagmanager.com/gtm.js?id="+o+r,a.parentNode.insertBefore(i,a)})(window,document,"script","dataLayer","G-H3MHW4QRFN")</script><script>(function(e,t,n,s,o,i,a){e[n]=e[n]||function(){(e[n].q=e[n].q||[]).push(arguments)},i=t.createElement(s),i.async=1,i.src="https://www.clarity.ms/tag/"+o,a=t.getElementsByTagName(s)[0],a.parentNode.insertBefore(i,a)})(window,document,"clarity","script","pyvldtfl14")</script><meta name=author content="Bo Yao"><meta name=description content><link rel=alternate hreflang=en-gb href=https://lisn-lab.org/projects/voicesofthemind/><link rel=canonical href=https://lisn-lab.org/projects/voicesofthemind/><link rel=manifest href=/manifest.webmanifest><link rel=icon type=image/png href=/media/icon_hu_559a245a3f935ef.png><link rel=apple-touch-icon type=image/png href=/media/icon_hu_ac2e66db4a470652.png><meta name=theme-color content="#bbdefb"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:image" content="https://lisn-lab.org/media/voicesofthemind_royalsociety.png"><meta property="og:type" content="website"><meta property="og:site_name" content="LISN Lab"><meta property="og:url" content="https://lisn-lab.org/projects/voicesofthemind/"><meta property="og:title" content="Voices of the Mind | LISN Lab"><meta property="og:description" content><meta property="og:image" content="https://lisn-lab.org/media/voicesofthemind_royalsociety.png"><meta property="og:locale" content="en-gb"><meta property="article:published_time" content="2025-03-14T00:00:00+00:00"><meta property="article:modified_time" content="2025-03-14T00:00:00+00:00"><title>Voices of the Mind | LISN Lab</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class="page-wrapper dark" data-wc-page-id=8d6fae63a0eaee1353ffc943318955c2><script src=/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js></script><aside class=search-modal id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><div class="page-header header--fixed"><header><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container-xl><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=/>LISN Lab</a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
-<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=/>LISN Lab</a></div><div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=/research><span>Research</span></a></li><li class=nav-item><a class=nav-link href=/people><span>Team</span></a></li><li class=nav-item><a class=nav-link href=/joinus/><span>Join the Lab</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a></li></ul></div></nav></header></div><div class=page-body><span class="js-widget-page d-none"></span><section id=section-markdown class="home-section wg-markdown"><div class=home-section-bg></div><div class=container><div class="row justify-content-center"><div class="section-heading col-12 mb-3 text-center"><h1 class=mb-0>Exploring Voices of the Mind</h1><p class=mt-1>Empowering Youth in the Northwest with Art, Science, and Technology</p></div><div class=col-12><figure class="text-center d-flex justify-content-center"><img src=voicesofthemind_royalsociety.png class=img-fluid></figure><h2 id=introduction>Introduction</h2><p>‘Voices of the Mind’ is a public engagement project exploring inner speech - the internal dialogue we have with our minds.</p><p>We aim to empower young people aged 14-18 from diverse backgrounds with knowledge about their inner experiences, create interdisciplinary dialogue between science and art, reduce stigma around different thought patterns, and make neuroscience accessible to those traditionally underrepresented in STEM fields.</p><p>Our project brings together scientists, artists, and young people to explore how our brains generate inner thoughts, how technology can help us understand these processes, and how creative expression can illuminate our internal experiences.</p><h2 id=objectives>Objectives</h2><ul><li><input checked disabled type=checkbox> Create and disseminate artworks of inner speech</li><li>[-] Engage 300 young people through pop-up events</li><li>[-] Increase learning and knowledge about inner experiences through interactive workshops</li><li><input disabled type=checkbox> Synthesise insights into inner speech experiences of young people</li></ul></div></div></div></section><section id=section-markdown class="home-section wg-markdown"><div class=home-section-bg></div><div class=container><div class="row justify-content-center"><div class="section-heading col-12 mb-3 text-center"><h1 class=mb-0>Project Timeline</h1></div><div class=col-12><div class=mermaid>gantt
-dateFormat YYYY-MM-DD
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: May 27, 2026 --><html lang="en-gb" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.e4b9d3e8ce28da563d74b4089f677743.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.0ccf667c1832c4c570b9bfa00362de70.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" >
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Bo Yao" />
+
+
+
+
+
+  
+
+<meta name="description" content="" />
+
+
+
+<link rel="alternate" hreflang="en-gb" href="https://lisn-lab.org/projects/voicesofthemind/" />
+<link rel="canonical" href="https://lisn-lab.org/projects/voicesofthemind/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_559a245a3f935ef.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_ac2e66db4a470652.png" />
+
+<meta name="theme-color" content="#bbdefb" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://lisn-lab.org/media/voicesofthemind_royalsociety.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="LISN Lab" />
+<meta property="og:url" content="https://lisn-lab.org/projects/voicesofthemind/" />
+<meta property="og:title" content="Voices of the Mind | LISN Lab" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://lisn-lab.org/media/voicesofthemind_royalsociety.png" /><meta property="og:locale" content="en-gb" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2025-03-14T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-03-14T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Voices of the Mind | LISN Lab</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="8d6fae63a0eaee1353ffc943318955c2" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">LISN Lab</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">LISN Lab</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/joinus/"><span>Join the Lab</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+<span class="js-widget-page d-none"></span>
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Exploring Voices of the Mind</h1>
+          <p class="mt-1">Empowering Youth in the Northwest with Art, Science, and Technology</p>
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <figure class="text-center d-flex justify-content-center">
+  <img src="voicesofthemind_royalsociety.png" class="img-fluid">
+</figure>
+<h2 id="introduction">Introduction</h2>
+<p>‘Voices of the Mind’ is a public engagement project exploring inner speech - the internal dialogue we have with our minds.</p>
+<p>We aim to empower young people aged 14-18 from diverse backgrounds with knowledge about their inner experiences, create interdisciplinary dialogue between science and art, reduce stigma around different thought patterns, and make neuroscience accessible to those traditionally underrepresented in STEM fields.</p>
+<p>Our project brings together scientists, artists, and young people to explore how our brains generate inner thoughts, how technology can help us understand these processes, and how creative expression can illuminate our internal experiences.</p>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Create and disseminate artworks of inner speech</li>
+<li>[-] Engage 300 young people through pop-up events</li>
+<li>[-] Increase learning and knowledge about inner experiences through interactive workshops</li>
+<li><input disabled="" type="checkbox"> Synthesise insights into inner speech experiences of young people</li>
+</ul>
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Project Timeline</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <div class="mermaid">gantt
+  dateFormat  YYYY-MM-DD
 section Art Commission
-Art proposals :2025-04-01, 60d
-Art creation :2025-06-01, 2025-09-30
+  Art proposals    :2025-04-01, 60d
+  Art creation     :2025-06-01, 2025-09-30
 section Pop-up events
-Campus in the City :2026-04-11, 2026-04-12
+  Campus in the City     :2026-04-11, 2026-04-12
 section Workshops
-Rolling interactive workshops :2025-10-01, 2026-09-30</div></div></div></div></section><section id=section-markdown class="home-section wg-markdown"><div class=home-section-bg></div><div class=container><div class="row justify-content-center"><div class="section-heading col-12 mb-3 text-center"><h1 class=mb-0>Voicescape</h1></div><div class=col-12><p>A track composed by our artist from voice recordings gathered in the workshops:</p><audio controls style=width:100%;margin-top:.5em><source src="Voices of the mind final.mp3" type=audio/mpeg></audio></div></div></div></section><section id=section-markdown class="home-section wg-markdown"><div class=home-section-bg></div><div class=container><div class="row justify-content-center"><div class="section-heading col-12 mb-3 text-center"><h1 class=mb-0>Our Reach</h1></div><div class=col-12><div id=engagement-map style="height:450px;width:100%;border-radius:8px;overflow:hidden;border:1px solid rgba(128,128,128,.2)"></div><p style=text-align:center;opacity:.6;font-size:.9em;margin-top:.5em>Where our participants come from</p><link rel=stylesheet href=https://unpkg.com/leaflet@1.9.4/dist/leaflet.css><script src=https://unpkg.com/leaflet@1.9.4/dist/leaflet.js></script><script>(function(){function e(){if(typeof L=="undefined"){setTimeout(e,100);return}var t,s,o=["LA1 4YW","LA1 4YW","LA1 4YD","M1 1AA","M4 1HQ","M13 9PL","L1 1AA","L3 5QA","PR1 1AA","PR1 1AA","BB1 1AA","CA1 1AA","FY1 1AA","WA1 1AA","OL1 1AA"],n=L.map("engagement-map").setView([53.8,-2.7],7);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"&copy; OpenStreetMap",maxZoom:18}).addTo(n),t={},o.forEach(function(e){t[e]=(t[e]||0)+1}),s=Object.keys(t),fetch("https://api.postcodes.io/postcodes",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({postcodes:s})}).then(function(e){return e.json()}).then(function(e){e.result.forEach(function(e){if(e.result){var s=t[e.query]||1;L.circleMarker([e.result.latitude,e.result.longitude],{radius:6+s*3,fillColor:"#2962ff",color:"#ffffff",weight:2,fillOpacity:.7}).bindPopup(e.result.admin_district+" ("+s+")").addTo(n)}})}).catch(function(){})}e()})()</script></div></div></div></section><section id=section-markdown class="home-section wg-markdown"><div class=home-section-bg></div><div class=container><div class="row justify-content-center"><div class="section-heading col-12 mb-3 text-center"><h1 class=mb-0>What Participants Said</h1></div><div class=col-12><div id=testimonial-roller style="position:relative;min-height:120px;text-align:center;padding:1em 2em"><div id=testimonial-content style="transition:opacity .8s ease;opacity:0"><p id=testimonial-text style="font-style:italic;font-size:1.15em;margin:0 0 .3em"></p><p id=testimonial-source style=font-size:.9em;opacity:.6;margin:0></p></div></div><script>(function(){var t,e=[{text:"I didn't know other people's minds worked so differently from mine.",source:"Workshop 1 participant"},{text:"It was really eye-opening to hear how other people experience their thoughts.",source:"Workshop 2 participant"},{text:"I never realised my inner voice was unusual until today.",source:"Launch event visitor"},{text:"The voicescape made me feel like I could actually hear what thinking sounds like.",source:"Launch event visitor"},{text:"I always thought everyone narrated their life in their head like I do.",source:"Workshop 1 participant"}],n=document.getElementById("testimonial-content"),o=document.getElementById("testimonial-text"),i=document.getElementById("testimonial-source");if(!n||e.length===0)return;t=0;function s(t){o.textContent="“"+e[t].text+"”",i.textContent="— "+e[t].source,n.style.opacity="1"}function a(){n.style.opacity="0",setTimeout(function(){t=(t+1)%e.length,s(t)},800)}s(0),setInterval(a,5e3)})()</script></div></div></div></section><section id=section-collection class="home-section wg-collection"><div class=home-section-bg></div><div class=container><div class=row><div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start"><h1 class=mb-0>Recent Updates</h1></div><div class="col-12 col-lg-8"><div class=card><a href=/post/20251121-voicesofthemind-launch/ class="card-image hover-overlay"><img src=/post/20251121-voicesofthemind-launch/banner_hu_74ef06ff82a6aae2.webp height=364 width=550 alt="Wait... you can actually *hear* your thoughts as words?" class=img-responsive loading=lazy></a><div class=card-text><h4><a href=/post/20251121-voicesofthemind-launch/>Wait&mldr; you can actually <em>hear</em> your thoughts as words?</a></h4><div class=article-style><p>Same human brain. Completely different inner worlds.</p></div></div></div><div class=card><a href=/post/20251012-voicesofthemind-workshop2/ class="card-image hover-overlay"><img src=/post/20251012-voicesofthemind-workshop2/banner_hu_6cbb6d3a2ecd1b72.webp height=309 width=550 alt="The Surprising Ways We All Think Differently: What We Learned from 'Jamming Out' Our Inner Voices" class=img-responsive loading=lazy></a><div class=card-text><h4><a href=/post/20251012-voicesofthemind-workshop2/>The Surprising Ways We All Think Differently: What We Learned from &lsquo;Jamming Out&rsquo; Our Inner Voices</a></h4><div class=article-style><p>I thought everyone thought like me – until I realised they don&rsquo;t.</p></div></div></div><div class=card><a href=/post/20250901-voicesofthemind-workshop1/ class="card-image hover-overlay"><img src=/post/20250901-voicesofthemind-workshop1/banner_hu_7458e5e95987f713.webp height=382 width=550 alt="When inner voices become art" class=img-responsive loading=lazy></a><div class=card-text><h4><a href=/post/20250901-voicesofthemind-workshop1/>When inner voices become art</a></h4><div class=article-style><p>The most beautiful experience we can have is the mysterious. It is the source of all true art and science.</p></div></div></div><div class=card><a href=/post/20250409-voicesofthemind-artist/ class="card-image hover-overlay"><img src=/post/20250409-voicesofthemind-artist/callingforartists_hu_87aa1f6b90b30e54.webp height=367 width=550 alt="Calling for Artists to Create Artworks of Inner Speech for Young People" class=img-responsive loading=lazy></a><div class=card-text><h4><a href=/post/20250409-voicesofthemind-artist/>Calling for Artists to Create Artworks of Inner Speech for Young People</a></h4><div class=article-style><p>Empowering young people to learn about their inner experiences through art and science.</p></div></div></div></div></div></div></section></div><div class=page-footer><div class=container><p style="text-align:center;font-size:14px;padding:20px 0;margin:0">&copy; LISN Lab
-2022 -
-2026</p></div></div><script src=/js/vendor-bundle.min.4088568392ae7ce05ca1e7ace2b565f7.js></script><script src=https://cdn.jsdelivr.net/npm/mermaid@9.1.3/dist/mermaid.min.js integrity="sha256-TIYL00Rhw/8WaoUhYTLX9SKIEFdXxg+yMWSLVUbhiLg=" crossorigin=anonymous title=mermaid></script><script src=https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js integrity crossorigin=anonymous></script><script id=search-hit-fuse-template type=text/x-template>
+  Rolling interactive workshops :2025-10-01, 2026-09-30
+</div>
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Voicescape</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <p>A track composed by our artist from voice recordings gathered in the workshops:</p>
+<audio controls style="width: 100%; margin-top: 0.5em;">
+  <source src="Voices of the mind final.mp3" type="audio/mpeg">
+</audio>
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Our Reach</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <div id="engagement-map" style="height: 450px; width: 100%; border-radius: 8px; overflow: hidden; border: 1px solid rgba(128,128,128,0.2);"></div>
+<p style="text-align: center; opacity: 0.6; font-size: 0.9em; margin-top: 0.5em;">Where our participants come from</p>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  function initMap() {
+    if (typeof L === 'undefined') { setTimeout(initMap, 100); return; }
+    // ==========================================
+    // EDIT HERE: Replace with your real postcodes
+    // Duplicates are fine - they increase pin size
+    // ==========================================
+    var postcodes = [
+      'LA1 4YW', 'LA1 4YW', 'LA1 4YD',
+      'M1 1AA', 'M4 1HQ', 'M13 9PL',
+      'L1 1AA', 'L3 5QA',
+      'PR1 1AA', 'PR1 1AA',
+      'BB1 1AA', 'CA1 1AA', 'FY1 1AA',
+      'WA1 1AA', 'OL1 1AA'
+    ];
+    var map = L.map('engagement-map').setView([53.8, -2.7], 7);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap',
+      maxZoom: 18
+    }).addTo(map);
+    var counts = {};
+    postcodes.forEach(function(pc) { counts[pc] = (counts[pc] || 0) + 1; });
+    var unique = Object.keys(counts);
+    fetch('https://api.postcodes.io/postcodes', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({postcodes: unique})
+    })
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      data.result.forEach(function(item) {
+        if (item.result) {
+          var n = counts[item.query] || 1;
+          L.circleMarker([item.result.latitude, item.result.longitude], {
+            radius: 6 + (n * 3),
+            fillColor: '#2962ff',
+            color: '#ffffff',
+            weight: 2,
+            fillOpacity: 0.7
+          })
+          .bindPopup(item.result.admin_district + ' (' + n + ')')
+          .addTo(map);
+        }
+      });
+    })
+    .catch(function() {});
+  }
+  initMap();
+})();
+</script>
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">What Participants Said</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <div id="testimonial-roller" style="position: relative; min-height: 120px; text-align: center; padding: 1em 2em;">
+  <div id="testimonial-content" style="transition: opacity 0.8s ease; opacity: 0;">
+    <p id="testimonial-text" style="font-style: italic; font-size: 1.15em; margin: 0 0 0.3em 0;"></p>
+    <p id="testimonial-source" style="font-size: 0.9em; opacity: 0.6; margin: 0;"></p>
+  </div>
+</div>
+<script>
+(function() {
+  // =============================================
+  // EDIT HERE: Add or remove participant quotes
+  // =============================================
+  var quotes = [
+    {text: "I didn't know other people's minds worked so differently from mine.", source: "Workshop 1 participant"},
+    {text: "It was really eye-opening to hear how other people experience their thoughts.", source: "Workshop 2 participant"},
+    {text: "I never realised my inner voice was unusual until today.", source: "Launch event visitor"},
+    {text: "The voicescape made me feel like I could actually hear what thinking sounds like.", source: "Launch event visitor"},
+    {text: "I always thought everyone narrated their life in their head like I do.", source: "Workshop 1 participant"}
+  ];
+  var content = document.getElementById('testimonial-content');
+  var textEl = document.getElementById('testimonial-text');
+  var sourceEl = document.getElementById('testimonial-source');
+  if (!content || quotes.length === 0) return;
+  var current = 0;
+  function show(i) {
+    textEl.textContent = '\u201C' + quotes[i].text + '\u201D';
+    sourceEl.textContent = '\u2014 ' + quotes[i].source;
+    content.style.opacity = '1';
+  }
+  function cycle() {
+    content.style.opacity = '0';
+    setTimeout(function() {
+      current = (current + 1) % quotes.length;
+      show(current);
+    }, 800);
+  }
+  show(0);
+  setInterval(cycle, 5000);
+})();
+</script>
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-collection" class="home-section wg-collection  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Recent Updates</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="card">
+  
+  
+  
+  <a href="/post/20251121-voicesofthemind-launch/"  class="card-image hover-overlay">
+    <img src="/post/20251121-voicesofthemind-launch/banner_hu_74ef06ff82a6aae2.webp" height="364" width="550"
+         alt="Wait... you can actually *hear* your thoughts as words?" class="img-responsive" loading="lazy">
+  </a>
+  
+  <div class="card-text">
+    <h4><a href="/post/20251121-voicesofthemind-launch/" >Wait&hellip; you can actually <em>hear</em> your thoughts as words?</a></h4>
+
+    
+    <div class="article-style">
+      <p>Same human brain. Completely different inner worlds.</p>
+    </div>
+    
+
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="card">
+  
+  
+  
+  <a href="/post/20251012-voicesofthemind-workshop2/"  class="card-image hover-overlay">
+    <img src="/post/20251012-voicesofthemind-workshop2/banner_hu_6cbb6d3a2ecd1b72.webp" height="309" width="550"
+         alt="The Surprising Ways We All Think Differently: What We Learned from &#39;Jamming Out&#39; Our Inner Voices" class="img-responsive" loading="lazy">
+  </a>
+  
+  <div class="card-text">
+    <h4><a href="/post/20251012-voicesofthemind-workshop2/" >The Surprising Ways We All Think Differently: What We Learned from &lsquo;Jamming Out&rsquo; Our Inner Voices</a></h4>
+
+    
+    <div class="article-style">
+      <p>I thought everyone thought like me – until I realised they don&rsquo;t.</p>
+    </div>
+    
+
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="card">
+  
+  
+  
+  <a href="/post/20250901-voicesofthemind-workshop1/"  class="card-image hover-overlay">
+    <img src="/post/20250901-voicesofthemind-workshop1/banner_hu_7458e5e95987f713.webp" height="382" width="550"
+         alt="When inner voices become art" class="img-responsive" loading="lazy">
+  </a>
+  
+  <div class="card-text">
+    <h4><a href="/post/20250901-voicesofthemind-workshop1/" >When inner voices become art</a></h4>
+
+    
+    <div class="article-style">
+      <p>The most beautiful experience we can have is the mysterious. It is the source of all true art and science.</p>
+    </div>
+    
+
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="card">
+  
+  
+  
+  <a href="/post/20250409-voicesofthemind-artist/"  class="card-image hover-overlay">
+    <img src="/post/20250409-voicesofthemind-artist/callingforartists_hu_87aa1f6b90b30e54.webp" height="367" width="550"
+         alt="Calling for Artists to Create Artworks of Inner Speech for Young People" class="img-responsive" loading="lazy">
+  </a>
+  
+  <div class="card-text">
+    <h4><a href="/post/20250409-voicesofthemind-artist/" >Calling for Artists to Create Artworks of Inner Speech for Young People</a></h4>
+
+    
+    <div class="article-style">
+      <p>Empowering young people to learn about their inner experiences through art and science.</p>
+    </div>
+    
+
+    
+  </div>
+</div>
+
+  
+
+  
+  
+  
+
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <p style="text-align: center; font-size: 14px; padding: 20px 0; margin: 0;">
+	&copy; LISN Lab 
+  
+    2022 - 
+  
+  2026
+</p>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.4088568392ae7ce05ca1e7ace2b565f7.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+    
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@9.1.3/dist/mermaid.min.js" integrity="sha256-TIYL00Rhw/8WaoUhYTLX9SKIEFdXxg+yMWSLVUbhiLg=" crossorigin="anonymous" title="mermaid"></script>
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
     <div class="search-hit" id="summary-{{key}}">
       <div class="search-hit-content">
         <div class="search-hit-name">
@@ -19,6 +1716,121 @@ Rolling interactive workshops :2025-10-01, 2026-09-30</div></div></div></div></s
         </div>
       </div>
     </div>
-  </script><script src=https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin=anonymous></script><script src=https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin=anonymous></script><script id=dsq-count-scr src=https://lisn-lab.disqus.com/count.js async></script><script id=page-data type=application/json>{"use_headroom":true}</script><script src=/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js type=module></script><script src=/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js></script><script src=/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js type=module></script><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
-<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i> Copy
-</a><a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i> Download</a><div id=modal-error></div></div></div></div></div><script src=/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js type=module></script></body></html>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+  <script id="dsq-count-scr" src="https://lisn-lab.disqus.com/count.js" async></script>
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

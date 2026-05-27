@@ -1,13 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linguistic Active Inference | LISN Lab</title><link>https://lisn-lab.org/tag/linguistic-active-inference/</link><atom:link href="https://lisn-lab.org/tag/linguistic-active-inference/index.xml" rel="self" type="application/rss+xml"/><description>Linguistic Active Inference</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url><title>Linguistic Active Inference</title><link>https://lisn-lab.org/tag/linguistic-active-inference/</link></image><item><title>Rethinking inner speech through linguistic active inference</title><link>https://lisn-lab.org/post/20251212-linguisticactiveinference/</link><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20251212-linguisticactiveinference/</guid><description>&lt;p&gt;Why do we talk to ourselves in the head? I&amp;rsquo;ve spent years puzzling over this seemingly simple question.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linguistic Active Inference | LISN Lab</title>
+    <link>https://lisn-lab.org/tag/linguistic-active-inference/</link>
+      <atom:link href="https://lisn-lab.org/tag/linguistic-active-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linguistic Active Inference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>Linguistic Active Inference</title>
+      <link>https://lisn-lab.org/tag/linguistic-active-inference/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking inner speech through linguistic active inference</title>
+      <link>https://lisn-lab.org/post/20251212-linguisticactiveinference/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20251212-linguisticactiveinference/</guid>
+      <description>&lt;p&gt;Why do we talk to ourselves in the head? I&amp;rsquo;ve spent years puzzling over this seemingly simple question.&lt;/p&gt;
 &lt;p&gt;Most of us talk to ourselves – that voice in your head narrating your thoughts, rehearsing conversations, working through problems. Vygotsky gave us a compelling story: social speech turns inward and becomes a tool for self-regulation and planning. But that tells us &lt;em&gt;where&lt;/em&gt; inner speech comes from and &lt;em&gt;what&lt;/em&gt; it does. It doesn&amp;rsquo;t quite answer &lt;em&gt;why language&lt;/em&gt; is the format the brain reaches for. What makes words so effective for thinking?&lt;/p&gt;
 &lt;p&gt;I kept running into contradictions: inner speech helps us with some tasks but not others. It feels effortless sometimes, deliberate other times. Some people report almost constant inner dialogue, others barely any. What&amp;rsquo;s really going on?&lt;/p&gt;
 &lt;p&gt;My new paper in &lt;em&gt;Psychological Review&lt;/em&gt; offers a potential answer – one that I&amp;rsquo;m rather excited about: inner speech helps our brains navigate uncertainty.&lt;/p&gt;
 &lt;p&gt;This is a hypothesis, a framework for thinking about the phenomenon, but it&amp;rsquo;s one that pulls together many disparate observations in a way that finally feels satisfying to me.&lt;/p&gt;
-&lt;img src="fig1.jpg" style="width: 100%; display: inline-block;"&gt;
+&lt;img src=&#34;fig1.jpg&#34; style=&#34;width: 100%; display: inline-block;&#34;&gt;
 &lt;p&gt;Here&amp;rsquo;s the idea: your brain is constantly trying to predict what&amp;rsquo;s happening and what to do next. But the world is complex and ambiguous. Inner speech acts like a translator – it converts messy, overwhelming sensory experiences into compact linguistic forms (e.g., &amp;ldquo;Mona Lisa&amp;rdquo;) that your brain can work with. And it works in reverse too: it unpacks your abstract goals (e.g., staying healthy) into concrete, actionable steps (e.g., &amp;ldquo;salad, not chips&amp;rdquo;).&lt;/p&gt;
 &lt;p&gt;Think of it like this: when you&amp;rsquo;re anxious about an upcoming presentation, talking yourself through it – &amp;ldquo;Okay, who am I speaking to? First I&amp;rsquo;ll introduce the problem like this, maybe through a metaphor, then show the data like this&amp;hellip; if they ask about X, I&amp;rsquo;ll show them Y&amp;hellip;&amp;rdquo; – this isn&amp;rsquo;t just rehearsal. You&amp;rsquo;re literally reducing uncertainty by transforming a fuzzy, anxiety-inducing future into a structured linguistic sequence your brain can predict and control.&lt;/p&gt;
 &lt;p&gt;This explains why inner speech is so dynamic – it adapts its form based on how uncertain you are and what kind of problem you&amp;rsquo;re trying to solve. When you&amp;rsquo;re confused, it becomes more explicit, deliberate, and likely dialogic. When things are clear, it shortens and fades into the background.&lt;/p&gt;
 &lt;p&gt;The framework generates concrete predictions about when inner speech should emerge, what forms it takes, and how it connects to everything from working memory to mental health challenges.&lt;/p&gt;
-&lt;img src="fig2.jpg" style="width: 100%; display: inline-block;"&gt;
-&lt;p&gt;Read the full paper here: &lt;a href="https://doi.org/10.1037/rev0000607" target="_blank" rel="noopener"&gt;https://doi.org/10.1037/rev0000607&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d love to hear your experiences – do you notice your inner voice changing depending on how uncertain or confused you feel?&lt;/p&gt;</description></item><item><title>Rethinking inner speech through linguistic active inference</title><link>https://lisn-lab.org/publication/2025-y-psychrev/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2025-y-psychrev/</guid><description/></item></channel></rss>
+&lt;img src=&#34;fig2.jpg&#34; style=&#34;width: 100%; display: inline-block;&#34;&gt;
+&lt;p&gt;Read the full paper here: &lt;a href=&#34;https://doi.org/10.1037/rev0000607&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/rev0000607&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d love to hear your experiences – do you notice your inner voice changing depending on how uncertain or confused you feel?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rethinking inner speech through linguistic active inference</title>
+      <link>https://lisn-lab.org/publication/2025-y-psychrev/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2025-y-psychrev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

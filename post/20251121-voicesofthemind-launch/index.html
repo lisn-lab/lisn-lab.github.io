@@ -3,7 +3,7 @@
 <!-- Last Published: May 27, 2026 --><html lang="en-gb" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,7 +65,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.e4b9d3e8ce28da563d74b4089f677743.css" media="print" onload="this.media='all'">
 
   
   
@@ -209,7 +209,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0ccf667c1832c4c570b9bfa00362de70.css" />
 
   
   
@@ -236,9 +236,64 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H3MHW4QRFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-H3MHW4QRFN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-H3MHW4QRFN');
+</script>
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'pyvldtfl14');
+</script>
 
 
 
@@ -278,8 +333,8 @@
 
 
 
-<link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/20251121-voicesofthemind-launch/" />
-<link rel="canonical" href="http://localhost:1313/post/20251121-voicesofthemind-launch/" />
+<link rel="alternate" hreflang="en-gb" href="https://lisn-lab.org/post/20251121-voicesofthemind-launch/" />
+<link rel="canonical" href="https://lisn-lab.org/post/20251121-voicesofthemind-launch/" />
 
 
 
@@ -309,7 +364,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/post/20251121-voicesofthemind-launch/banner.jpeg" />
+<meta property="twitter:image" content="https://lisn-lab.org/post/20251121-voicesofthemind-launch/banner.jpeg" />
 
 
 
@@ -317,9 +372,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="LISN Lab" />
-<meta property="og:url" content="http://localhost:1313/post/20251121-voicesofthemind-launch/" />
+<meta property="og:url" content="https://lisn-lab.org/post/20251121-voicesofthemind-launch/" />
 <meta property="og:title" content="Wait... you can actually *hear* your thoughts as words? | LISN Lab" />
-<meta property="og:description" content="Same human brain. Completely different inner worlds." /><meta property="og:image" content="http://localhost:1313/post/20251121-voicesofthemind-launch/banner.jpeg" /><meta property="og:locale" content="en-gb" />
+<meta property="og:description" content="Same human brain. Completely different inner worlds." /><meta property="og:image" content="https://lisn-lab.org/post/20251121-voicesofthemind-launch/banner.jpeg" /><meta property="og:locale" content="en-gb" />
 
   
     <meta
@@ -354,12 +409,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/20251121-voicesofthemind-launch/"
+    "@id": "https://lisn-lab.org/post/20251121-voicesofthemind-launch/"
   },
   "headline": "Wait... you can actually *hear* your thoughts as words?",
   
   "image": [
-    "http://localhost:1313/post/20251121-voicesofthemind-launch/banner.jpeg"
+    "https://lisn-lab.org/post/20251121-voicesofthemind-launch/banner.jpeg"
   ],
   
   "datePublished": "2025-11-24T00:00:00Z",
@@ -375,7 +430,7 @@
     "name": "Language, Inner Speech, and Neuroscience Lab",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu_7b2fe40026ff54f8.png"
+      "url": "https://lisn-lab.org/media/icon_hu_7b2fe40026ff54f8.png"
     }
   },
   "description": "Same human brain. Completely different inner worlds."
@@ -431,7 +486,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
 
   
 
@@ -939,7 +994,7 @@ More Info:
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;text=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;text=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -956,7 +1011,7 @@ More Info:
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;t=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flisn-lab.org%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;t=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -975,7 +1030,7 @@ More Info:
         
       
       <li>
-        <a href="mailto:?subject=Wait...%20you%20can%20actually%20%2Ahear%2A%20your%20thoughts%20as%20words%3F&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20251121-voicesofthemind-launch%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Wait...%20you%20can%20actually%20%2Ahear%2A%20your%20thoughts%20as%20words%3F&amp;body=https%3A%2F%2Flisn-lab.org%2Fpost%2F20251121-voicesofthemind-launch%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -992,7 +1047,7 @@ More Info:
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;title=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;title=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1009,7 +1064,7 @@ More Info:
       
       
       <li>
-        <a href="whatsapp://send?text=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20251121-voicesofthemind-launch%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F%20https%3A%2F%2Flisn-lab.org%2Fpost%2F20251121-voicesofthemind-launch%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1026,7 +1081,7 @@ More Info:
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;title=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flisn-lab.org%2Fpost%2F20251121-voicesofthemind-launch%2F&amp;title=Wait...&#43;you&#43;can&#43;actually&#43;%2Ahear%2A&#43;your&#43;thoughts&#43;as&#43;words%3F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1259,7 +1314,7 @@ More Info:
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.4088568392ae7ce05ca1e7ace2b565f7.js"></script>
 
 
 
@@ -1342,7 +1397,7 @@ More Info:
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
 
 
 
@@ -1356,11 +1411,11 @@ More Info:
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1393,7 +1448,7 @@ More Info:
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

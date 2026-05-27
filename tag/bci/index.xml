@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BCI | LISN Lab</title><link>https://lisn-lab.org/tag/bci/</link><atom:link href="https://lisn-lab.org/tag/bci/index.xml" rel="self" type="application/rss+xml"/><description>BCI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url><title>BCI</title><link>https://lisn-lab.org/tag/bci/</link></image><item><title>Recruiting: a fully funded PhD studentship in the LISN Lab</title><link>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</guid><description>&lt;p&gt;I am recruiting a fully funded PhD student to work on detecting ruminative inner speech from EEG, starting October 2026 at Lancaster University. The studentship is funded by an EPSRC Doctoral Landscape Award via the Data Science and AI Institute (DSAIL).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCI | LISN Lab</title>
+    <link>https://lisn-lab.org/tag/bci/</link>
+      <atom:link href="https://lisn-lab.org/tag/bci/index.xml" rel="self" type="application/rss+xml" />
+    <description>BCI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>BCI</title>
+      <link>https://lisn-lab.org/tag/bci/</link>
+    </image>
+    
+    <item>
+      <title>Recruiting: a fully funded PhD studentship in the LISN Lab</title>
+      <link>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</guid>
+      <description>&lt;p&gt;I am recruiting a fully funded PhD student to work on detecting ruminative inner speech from EEG, starting October 2026 at Lancaster University. The studentship is funded by an EPSRC Doctoral Landscape Award via the Data Science and AI Institute (DSAIL).&lt;/p&gt;
 &lt;p&gt;Existing silent-speech brain-computer interfaces overwhelmingly cue speech production on demand, leaving spontaneous inner speech – the kind that characterises ruminative and intrusive thought – methodologically unaddressed. This project closes that gap by developing a wearable BCI that detects and emotionally classifies spontaneous inner speech in naturalistic conditions, combining EEG with ultrasound imaging of the tongue.&lt;/p&gt;
 &lt;p&gt;The project sits at the intersection of cognitive neuroscience, machine learning, and articulatory phonetics. The supervisory team spans three departments: myself in Psychology, Professor Hossein Rahmani in Computing and Communications, and Dr Sam Kirkham in Linguistics and English Language. You will be based in the LISN Lab and embedded in the Imaging and Computer Vision Lancaster (iCVL) group and the Phonetics Lab. You will also be part of the DSAIL doctoral cohort, with access to our EEG lab facilities, Lancaster&amp;rsquo;s High-End Computing GPU cluster, training across all three disciplines, and partnership work with OpenBCI on wearable hardware.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Eligibility.&lt;/strong&gt; UK home applicants with a strong undergraduate degree, and ideally a Masters, in computer science or a closely related quantitative discipline with substantial machine-learning training. Strong Python and demonstrable ML experience are essential. Prior exposure to signal processing, deep learning, or EEG/neuroimaging analysis is highly desirable.&lt;/p&gt;
@@ -9,5 +28,10 @@
 &lt;li&gt;Provisional interview date: 4 August 2026&lt;/li&gt;
 &lt;li&gt;Studentship start date: 1 October 2026&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;How to apply.&lt;/strong&gt; Through the Lancaster University Admissions Portal: &lt;a href="https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2" target="_blank" rel="noopener"&gt;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Informal enquiries&lt;/strong&gt; are warmly encouraged before applying. Please email me at &lt;a href="mailto:b.yao1@lancaster.ac.uk"&gt;b.yao1@lancaster.ac.uk&lt;/a&gt; with any questions about the project, the supervisory team, or the application process.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;How to apply.&lt;/strong&gt; Through the Lancaster University Admissions Portal: &lt;a href=&#34;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Informal enquiries&lt;/strong&gt; are warmly encouraged before applying. Please email me at &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;b.yao1@lancaster.ac.uk&lt;/a&gt; with any questions about the project, the supervisory team, or the application process.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

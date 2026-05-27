@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GingerALE | LISN Lab</title><link>https://lisn-lab.org/tag/gingerale/</link><atom:link href="https://lisn-lab.org/tag/gingerale/index.xml" rel="self" type="application/rss+xml"/><description>GingerALE</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url><title>GingerALE</title><link>https://lisn-lab.org/tag/gingerale/</link></image><item><title>Bridging phenomenology and neural mechanisms of inner speech: ALE meta-analysis on egocentricity and spontaneity in a dual-mechanistic framework</title><link>https://lisn-lab.org/publication/2023-ppy-neuroimage/</link><pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate><guid>https://lisn-lab.org/publication/2023-ppy-neuroimage/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GingerALE | LISN Lab</title>
+    <link>https://lisn-lab.org/tag/gingerale/</link>
+      <atom:link href="https://lisn-lab.org/tag/gingerale/index.xml" rel="self" type="application/rss+xml" />
+    <description>GingerALE</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>GingerALE</title>
+      <link>https://lisn-lab.org/tag/gingerale/</link>
+    </image>
+    
+    <item>
+      <title>Bridging phenomenology and neural mechanisms of inner speech: ALE meta-analysis on egocentricity and spontaneity in a dual-mechanistic framework</title>
+      <link>https://lisn-lab.org/publication/2023-ppy-neuroimage/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2023-ppy-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
