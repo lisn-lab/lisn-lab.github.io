@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abigail Petrsoric | LISN Lab</title>
+    <link>https://lisn-lab.org/author/abigail-petrsoric/</link>
+      <atom:link href="https://lisn-lab.org/author/abigail-petrsoric/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abigail Petrsoric</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
+    <image>
+      <url>https://lisn-lab.org/author/abigail-petrsoric/avatar_hu_824b3bab78990d05.jpg</url>
+      <title>Abigail Petrsoric</title>
+      <link>https://lisn-lab.org/author/abigail-petrsoric/</link>
+    </image>
+    
+  </channel>
+</rss>

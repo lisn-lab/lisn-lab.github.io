@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. M. Bampouras | LISN Lab</title>
+    <link>https://lisn-lab.org/author/t.-m.-bampouras/</link>
+      <atom:link href="https://lisn-lab.org/author/t.-m.-bampouras/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. M. Bampouras</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>T. M. Bampouras</title>
+      <link>https://lisn-lab.org/author/t.-m.-bampouras/</link>
+    </image>
+    
+    <item>
+      <title>Age-related changes in the attentional modulation of multisensory integration in relation to balance maintenance</title>
+      <link>https://lisn-lab.org/publication/2026-pybbn-neuroimage/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-pybbn-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

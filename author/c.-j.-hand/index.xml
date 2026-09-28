@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. J. Hand | LISN Lab</title>
+    <link>https://lisn-lab.org/author/c.-j.-hand/</link>
+      <atom:link href="https://lisn-lab.org/author/c.-j.-hand/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. J. Hand</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <title>C. J. Hand</title>
+      <link>https://lisn-lab.org/author/c.-j.-hand/</link>
+    </image>
+    
+    <item>
+      <title>Parafoveal preview differentially modulates word frequency and contextual predictability effects during reading</title>
+      <link>https://lisn-lab.org/publication/2026-shsy-jov/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-shsy-jov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://lisn-lab.org/author/bo-yao/</link>
       <atom:link href="https://lisn-lab.org/author/bo-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Yao</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lisn-lab.org/author/bo-yao/avatar_hu_d6438ad4329ad00b.jpg</url>
       <title>Bo Yao</title>
@@ -13,24 +13,59 @@
     </image>
     
     <item>
-      <title>Recruiting: a fully funded PhD studentship in the LISN Lab</title>
-      <link>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://lisn-lab.org/post/20260527-dsail-phd-studentship/</guid>
-      <description>&lt;p&gt;I am recruiting a fully funded PhD student to work on detecting ruminative inner speech from EEG, starting October 2026 at Lancaster University. The studentship is funded by an EPSRC Doctoral Landscape Award via the Data Science and AI Institute (DSAIL).&lt;/p&gt;
-&lt;p&gt;Existing silent-speech brain-computer interfaces overwhelmingly cue speech production on demand, leaving spontaneous inner speech – the kind that characterises ruminative and intrusive thought – methodologically unaddressed. This project closes that gap by developing a wearable BCI that detects and emotionally classifies spontaneous inner speech in naturalistic conditions, combining EEG with ultrasound imaging of the tongue.&lt;/p&gt;
-&lt;p&gt;The project sits at the intersection of cognitive neuroscience, machine learning, and articulatory phonetics. The supervisory team spans three departments: myself in Psychology, Professor Hossein Rahmani in Computing and Communications, and Dr Sam Kirkham in Linguistics and English Language. You will be based in the LISN Lab and embedded in the Imaging and Computer Vision Lancaster (iCVL) group and the Phonetics Lab. You will also be part of the DSAIL doctoral cohort, with access to our EEG lab facilities, Lancaster&amp;rsquo;s High-End Computing GPU cluster, training across all three disciplines, and partnership work with OpenBCI on wearable hardware.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Eligibility.&lt;/strong&gt; UK home applicants with a strong undergraduate degree, and ideally a Masters, in computer science or a closely related quantitative discipline with substantial machine-learning training. Strong Python and demonstrable ML experience are essential. Prior exposure to signal processing, deep learning, or EEG/neuroimaging analysis is highly desirable.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Funding.&lt;/strong&gt; UK home fees, a tax-free stipend at the UKRI minimum rate for 2026/27, and a Research Training Support Grant of £1,000 per year. 3.5 years full-time.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key dates.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Application deadline: 17 July 2026&lt;/li&gt;
-&lt;li&gt;Provisional interview date: 4 August 2026&lt;/li&gt;
-&lt;li&gt;Studentship start date: 1 October 2026&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;How to apply.&lt;/strong&gt; Through the Lancaster University Admissions Portal: &lt;a href=&#34;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Informal enquiries&lt;/strong&gt; are warmly encouraged before applying. Please email me at &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;b.yao1@lancaster.ac.uk&lt;/a&gt; with any questions about the project, the supervisory team, or the application process.&lt;/p&gt;
-</description>
+      <title>Does native culture restore emotional intensity? Distinct effects of cultural context on L2 affective processing</title>
+      <link>https://lisn-lab.org/publication/2026-lycc-bilingualism/</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-lycc-bilingualism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of culture relatedness on affective neural responses to words in L1 and L2: ERP studies</title>
+      <link>https://lisn-lab.org/publication/2026-lycc-fronthumneuro/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-lycc-fronthumneuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incipient constituents: Phonesthemes facilitate word processing in English</title>
+      <link>https://lisn-lab.org/publication/2026-hydc-openmind/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-hydc-openmind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science</title>
+      <link>https://lisn-lab.org/publication/2026-brodeur-pnas/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-brodeur-pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parafoveal preview differentially modulates word frequency and contextual predictability effects during reading</title>
+      <link>https://lisn-lab.org/publication/2026-shsy-jov/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-shsy-jov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age-related changes in the attentional modulation of multisensory integration in relation to balance maintenance</title>
+      <link>https://lisn-lab.org/publication/2026-pybbn-neuroimage/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-pybbn-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaphor and multisensoriality drive appreciation in print advertising: An experimental study of visual and linguistic synaesthetic metaphors</title>
+      <link>https://lisn-lab.org/publication/2026-bsyc-langcog/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2026-bsyc-langcog/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -767,6 +802,14 @@ More Info:
     </item>
     
     <item>
+      <title>Emotion processing in concrete and abstract words: Evidence from eye fixations during reading</title>
+      <link>https://lisn-lab.org/publication/2024-ysbms-cognemo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2024-ysbms-cognemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Transcranial electrical stimulation modulates emotional experience and metabolites in the prefrontal cortex in a donation task</title>
       <link>https://lisn-lab.org/publication/2024-mbmcabmhmmp-scirep/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
@@ -775,10 +818,10 @@ More Info:
     </item>
     
     <item>
-      <title>Emotion processing in concrete and abstract words: Evidence from eye fixations during reading</title>
-      <link>https://lisn-lab.org/publication/2024-ysbms-cognemo/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://lisn-lab.org/publication/2024-ysbms-cognemo/</guid>
+      <title>Effects of culture relatedness on bilingual emotional responses to words: Insights from word norms and event-related potentials (ERPs)</title>
+      <link>https://lisn-lab.org/publication/2024-lcyc-cogsci/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lisn-lab.org/publication/2024-lcyc-cogsci/</guid>
       <description></description>
     </item>
     
