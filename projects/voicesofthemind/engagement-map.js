@@ -60,10 +60,10 @@
         var dd = districts[name];
         L.circleMarker([dd.latSum / dd.pts, dd.lonSum / dd.pts], {
           radius: 8 + dd.count * 4,
-          fillColor: '#2962ff',
+          fillColor: '#68496B',
           color: '#ffffff',
           weight: 2,
-          fillOpacity: 0.7
+          fillOpacity: 0.78
         })
         .bindPopup(name + ' (' + dd.count + ')')
         .addTo(map);

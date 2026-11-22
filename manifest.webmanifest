@@ -2,14 +2,14 @@
   "name": "LISN Lab",
   "short_name": "LISN Lab",
   "lang": "en-gb",
-  "theme_color": "#bbdefb",
-  "background_color": "#bbdefb",
+  "theme_color": "#68496B",
+  "background_color": "#68496B",
   "icons": [{
-    "src": "/media/icon_hu_7b2fe40026ff54f8.png",
+    "src": "/media/icon_hu_be1db36c07bc15fd.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu_efe3ed8cd119c4a9.png",
+    "src": "/media/icon_hu_44751418c47da32f.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

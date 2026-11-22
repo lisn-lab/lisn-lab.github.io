@@ -7,7 +7,7 @@
     <description>Inner Voices</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_44751418c47da32f.png</url>
       <title>Inner Voices</title>
       <link>https://lisn-lab.org/tag/inner-voices/</link>
     </image>
@@ -20,20 +20,47 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;ldquo;Wait&amp;hellip; you can actually &lt;em&gt;hear&lt;/em&gt; your thoughts as words?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;A visitor stared at our thought diversity map in disbelief, their finger hovering over the &amp;lsquo;abstract/non-verbal&amp;rsquo; quadrant where they&amp;rsquo;d just placed their marker. Across the room, someone else had confidently positioned themselves in &amp;lsquo;vivid/verbal&amp;rsquo; territory. Same human brain. Completely different inner worlds.&lt;/p&gt;
-&lt;p&gt;This moment of mutual discovery – repeated dozens of times throughout the day – is exactly why we built what we&amp;rsquo;re calling the &amp;ldquo;Voicescape Installation.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;from-prototype-to-performance-the-voicescape&#34;&gt;From Prototype to Performance: The Voicescape&lt;/h2&gt;
+&lt;p&gt;This moment of mutual discovery – repeated dozens of times throughout the day – is exactly why we built what we&amp;rsquo;re calling the &amp;ldquo;VoiceScape Installation.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;from-prototype-to-performance-voicescape&#34;&gt;From Prototype to Performance: VoiceScape&lt;/h2&gt;
 &lt;p&gt;After two workshops of testing, tweaking, and learning from feedback, we&amp;rsquo;ve created something rather special: an interactive installation where you don&amp;rsquo;t just &lt;em&gt;describe&lt;/em&gt; your inner experience – you &lt;em&gt;perform&lt;/em&gt; it.&lt;/p&gt;
 &lt;p&gt;The centrepiece is our refined launchpad player. Press the illuminated keys and you&amp;rsquo;ll trigger real voices – actual recordings from young people who shared their inner thoughts in our previous workshops. Layer them over ambient soundscapes. Create patterns. Build your personal voicescape from the mental experiences of others.&lt;/p&gt;
 &lt;p&gt;Here is a track made by our artist:&lt;/p&gt;
-&lt;audio controls style=&#34;width: 100%;&#34;&gt;
+&lt;audio controls class=&#34;votm-audio&#34; aria-label=&#34;VoiceScape audio track composed by Charlie Brown from workshop recordings&#34;&gt;
   &lt;source src=&#34;Voices of the mind final.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
-&lt;p&gt;It&amp;rsquo;s curious and oddly intimate. You&amp;rsquo;re literally composing with someone else&amp;rsquo;s &amp;lsquo;inner&amp;rsquo; voice, while simultaneously externalising your own thought patterns through the combinations you choose. Some visitors created chaotic symphonies of overlapping thoughts. Others carefully selected single voices, letting them breathe in the space. Each performance was a window into how that person experiences their own mind.&lt;/p&gt;
-&lt;img src=&#34;launchpad.jpeg&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;p&gt;It&amp;rsquo;s curious and oddly intimate. You&amp;rsquo;re literally composing with someone else&amp;rsquo;s &amp;lsquo;inner&amp;rsquo; voice, while simultaneously externalising your own thought patterns through the combinations you choose. Some visitors created chaotic symphonies of overlapping thoughts. Others carefully selected single voices, letting them breathe in the space. Each performance was a window into how that person experiences their own mind. You can also try the interactive &lt;a href=&#34;https://lisn-lab.org/voicescape&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VoiceScape web app&lt;/a&gt; from home.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Illuminated multicoloured launchpad controller resting beside a pair of wooden drumsticks on a table.&#34; srcset=&#34;
+               /post/20251121-voicesofthemind-launch/launchpad_hu_24d6046642a825e.webp 400w,
+               /post/20251121-voicesofthemind-launch/launchpad_hu_36ab541ee7a3e806.webp 760w,
+               /post/20251121-voicesofthemind-launch/launchpad_hu_947e4ba9d209ad78.webp 1200w&#34;
+               src=&#34;https://lisn-lab.org/post/20251121-voicesofthemind-launch/launchpad_hu_24d6046642a825e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;504&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;the-we-need-to-talk-experiment&#34;&gt;The &amp;ldquo;We Need to Talk&amp;rdquo; Experiment&lt;/h2&gt;
 &lt;p&gt;But the real revelation came from our simplest activity.&lt;/p&gt;
 &lt;p&gt;We asked visitors to write down/draw their chain of thoughts upon receiving a text message: &amp;ldquo;We need to talk.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;The reactions were instant, that shared recognition of dread. But what came next was the interesting part. The drawings looked completely different from one another. Some people sketched spiralling loops, others branching trees of possibility, others wrote out full internal conversations. No two thought chains were alike, yet they all started from the same five words.&lt;/p&gt;
+&lt;p&gt;The reactions were instant, that shared recognition of dread. But what came next was the interesting part. The drawings looked completely different from one another. Some people sketched spiralling loops, others branching trees of possibility, others wrote out full internal conversations. No two thought chains were alike, yet they all started from the same four words.&lt;/p&gt;
 &lt;h2 id=&#34;mapping-the-invisible-where-do-you-think&#34;&gt;Mapping the Invisible: Where Do &lt;em&gt;You&lt;/em&gt; Think?&lt;/h2&gt;
 &lt;p&gt;We also set up a thought diversity map, two axes (abstract to vivid, verbal to visual) creating four quadrants of mental experience. Visitors placed coloured markers where they felt their thinking style belonged. What struck us was the scatter: no single cluster, no dominant pattern.&lt;/p&gt;
 &lt;p&gt;Several visitors moved their marker after seeing where others placed theirs. &amp;ldquo;I genuinely thought the way I think was just&amp;hellip; thinking,&amp;rdquo; one explained. &amp;ldquo;I didn&amp;rsquo;t know it was a &lt;em&gt;type&lt;/em&gt; of thinking.&amp;rdquo;&lt;/p&gt;
@@ -43,16 +70,43 @@
 &lt;p&gt;&amp;ldquo;So you can &lt;em&gt;see&lt;/em&gt; when someone&amp;rsquo;s thinking in words?&amp;rdquo; a visitor asked, watching the screen as we demonstrated.&lt;/p&gt;
 &lt;p&gt;Not exactly – but we can detect patterns associated with language production, even when nothing is spoken aloud. That little voice in your head? It creates measurable electrical activity. Your silent reading of this sentence? Your brain is lighting up language centres right now.&lt;/p&gt;
 &lt;p&gt;For many visitors, this was the bridge between subjective experience and objective science. Your inner world isn&amp;rsquo;t just psychological – it&amp;rsquo;s neurological, electrical, physical. It&amp;rsquo;s &lt;em&gt;real&lt;/em&gt; in ways that can be measured, studied, understood.&lt;/p&gt;
-&lt;img src=&#34;eeg_demo.jpeg&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A young visitor wearing a wireless EEG headset smiling during a live brain-activity demonstration at a table with laptops and an OpenBCI headset.&#34; srcset=&#34;
+               /post/20251121-voicesofthemind-launch/eeg_demo_hu_e8ea03a6861d8570.webp 400w,
+               /post/20251121-voicesofthemind-launch/eeg_demo_hu_362c3607f2e56b9c.webp 760w,
+               /post/20251121-voicesofthemind-launch/eeg_demo_hu_8adfa716c1948053.webp 1200w&#34;
+               src=&#34;https://lisn-lab.org/post/20251121-voicesofthemind-launch/eeg_demo_hu_e8ea03a6861d8570.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;504&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;the-great-kahoot-showdown&#34;&gt;The Great Kahoot Showdown&lt;/h2&gt;
 &lt;p&gt;We closed with what can only be described as delightfully nerdy chaos: a Kahoot quiz on inner speech, consciousness, and mental health.&lt;/p&gt;
-&lt;p&gt;Questions ranged from &amp;ldquo;What percentage of people experience no inner voice at all?&amp;rdquo; (around 5–10%) to &amp;ldquo;Can your inner speech affect your confidence?&amp;rdquo; (yes, and here&amp;rsquo;s the research to prove it).&lt;/p&gt;
+&lt;p&gt;Questions ranged from &amp;ldquo;What percentage of people experience no inner voice at all?&amp;rdquo; (around 5-10%) to &amp;ldquo;Can your inner speech affect your confidence?&amp;rdquo; (yes, and here&amp;rsquo;s the research to prove it).&lt;/p&gt;
 &lt;p&gt;The competition was fierce. The learning was real. And most importantly, people were &lt;em&gt;excited&lt;/em&gt; about neuroscience and psychology – not because we lectured, but because we&amp;rsquo;d just given them tools to explore their own minds.&lt;/p&gt;
 &lt;p&gt;The winner received bragging rights and a small prize. Everyone left with something more valuable: language to describe their inner experience, and the awareness that their way of thinking is both unique and valid.&lt;/p&gt;
 &lt;h2 id=&#34;what-weve-learned-and-what-happens-next&#34;&gt;What We&amp;rsquo;ve Learned (And What Happens Next)&lt;/h2&gt;
 &lt;p&gt;Three workshops in, here&amp;rsquo;s what&amp;rsquo;s become clear:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;People are hungry to understand their own minds.&lt;/strong&gt; Not in abstract, academic terms – but through direct exploration and comparison with others.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Art makes science accessible.&lt;/strong&gt; The voicescape installation communicated more about inner experience in five minutes than any lecture could in an hour.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Art makes science accessible.&lt;/strong&gt; The VoiceScape installation communicated more about inner experience in five minutes than any lecture could in an hour.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Diversity is the norm.&lt;/strong&gt; There is no &amp;ldquo;standard&amp;rdquo; way to think. There&amp;rsquo;s only a spectrum of experiences, all equally real, all equally valid.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Community amplifies discovery.&lt;/strong&gt; Every workshop participant teaches us something new – about methodology, about communication, about the sheer variety of consciousness itself.&lt;/p&gt;
 &lt;hr&gt;
@@ -63,8 +117,8 @@
 &lt;li&gt;&lt;strong&gt;Expanding our thought diversity research&lt;/strong&gt; with new activities and measures&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Building an online community&lt;/strong&gt; for ongoing conversations about inner experience&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Want to stay connected?&lt;/strong&gt; 
-  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://lisn-lab.sender.site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;raquo;Join our mailing list&amp;laquo;&lt;/a&gt; for behind-the-scenes updates, upcoming events, and fascinating science about the mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to explore your own inner voice?&lt;/strong&gt; Try our 3-minute &lt;a href=&#34;https://lisn-lab.org/tests/inner-voice/&#34;&gt;inner-voice self-test&lt;/a&gt;, play with the &lt;a href=&#34;https://lisn-lab.org/voicescape&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VoiceScape web app&lt;/a&gt;, or 
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://lisn-lab.org/studies/#notify&#34;&gt;sign up to hear about new studies and events&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Because the most interesting conversation you can have isn&amp;rsquo;t with someone who thinks like you – it&amp;rsquo;s with someone who thinks completely differently, and helps you understand your own mind in the process.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;What does your voicescape sound like?&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
@@ -161,17 +215,21 @@ More Info:
 &lt;p&gt;This simple revelation echoed around the room at our recent workshop on voices of the mind, as participants discovered something both obvious and profound: we all think differently. Not just in &lt;em&gt;what&lt;/em&gt; we think, but in the fundamental &lt;em&gt;how&lt;/em&gt; of our mental experience.&lt;/p&gt;
 &lt;h2 id=&#34;when-thoughts-become-melody&#34;&gt;When Thoughts Become Melody&lt;/h2&gt;
 &lt;p&gt;Following our July workshop where participants visualised their inner experiences through art, this time we showcased an ambitious prototype: an interactive launchpad and drum pad that allows us to express thought patterns into sound. The idea was simple yet powerful – what if you could &amp;lsquo;perform&amp;rsquo; your inner thought, turning the cacophony or silence of your mind into something artistic others could hear?&lt;/p&gt;
-&lt;p&gt;The response? More than thirty young people eagerly queued to bash drums, trigger soundscapes, and layer voice recordings into compositions that reflected their mental worlds. The drum pads proved irresistibly popular (there&amp;rsquo;s something deeply satisfying about externalising your thoughts through rhythm), though we quickly learned that multiple overlapping voices can create the very mental clutter some participants were trying to escape – a feedback we&amp;rsquo;re now using to refine the prototype.&lt;/p&gt;
-&lt;img src=&#34;drumming.jpeg&#34; style=&#34;width: 30.5%; display: inline-block;&#34;&gt;
-&lt;img src=&#34;listening.jpeg&#34; style=&#34;width: 68.5%; display: inline-block;&#34;&gt;
+&lt;p&gt;The response? More than thirty young people eagerly queued to bash drums, trigger soundscapes, and layer voice recordings into compositions that reflected their mental worlds. The drum pads proved irresistibly popular (there&amp;rsquo;s something deeply satisfying about externalising your thoughts through rhythm), though we quickly learned that multiple overlapping voices can create the very mental clutter some participants were trying to escape – feedback we&amp;rsquo;re now using to refine the prototype.&lt;/p&gt;
+&lt;div class=&#34;lisn-photo-pair lisn-photo-pair-narrow-left&#34;&gt;
+  &lt;img src=&#34;drumming.jpeg&#34; alt=&#34;Workshop participants gathered around a table trying out an electronic drum pad with drumsticks.&#34;&gt;
+  &lt;img src=&#34;listening.jpeg&#34; alt=&#34;Two workshop participants wearing studio headphones listening closely to layered inner-voice recordings.&#34;&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;the-real-discovery-we-dont-all-have-an-inner-voice&#34;&gt;The Real Discovery: We Don&amp;rsquo;t All Have an &amp;lsquo;Inner Voice&amp;rsquo;&lt;/h2&gt;
 &lt;p&gt;But the technology was just the conversation starter. What emerged from the small group discussions that followed was far more fascinating.&lt;/p&gt;
 &lt;p&gt;One participant described their mind as the film &lt;em&gt;Inside Out&lt;/em&gt; – multiple voices constantly competing for attention, an exhausting internal committee meeting that never adjourns. For them, thinking isn&amp;rsquo;t a process; it&amp;rsquo;s managing chaos.&lt;/p&gt;
 &lt;p&gt;Others revealed they have no inner voice at all. Their thoughts arrive as abstract impulses, intuitions that resist translation into words. &amp;ldquo;How do I describe something that has no language?&amp;rdquo; one asked. It&amp;rsquo;s perhaps closest to a &amp;lsquo;higher-level knowing&amp;rsquo; – you simply understand without narrating it to yourself.&lt;/p&gt;
 &lt;p&gt;Then there were the visual thinkers – people whose thoughts manifest as schematic images, emotional shapes, and symbolic patterns rather than words or movies. &amp;ldquo;I see spiky patterns when I&amp;rsquo;m anxious&amp;rdquo; one participant explained, &amp;ldquo;and flowing curves when I&amp;rsquo;m calm.&amp;rdquo; Many of these visual thinkers gravitated toward visual arts, finding their medium matched their mental experience.&lt;/p&gt;
-&lt;p&gt;Participants on the ADHD spectrum described thoughts as &amp;ldquo;wild horses&amp;rdquo; – leaping between topics, resistant to corralling, exhausting to integrate into something coherent. This wasn&amp;rsquo;t just how they think during a workshop; it&amp;rsquo;s their daily reality.&lt;/p&gt;
-&lt;img src=&#34;groups2.jpeg&#34; style=&#34;width: 68.5%; display: inline-block;&#34;&gt;
-&lt;img src=&#34;groups1.jpeg&#34; style=&#34;width: 30.5%; display: inline-block;&#34;&gt;
+&lt;p&gt;Participants with ADHD described thoughts as &amp;ldquo;wild horses&amp;rdquo; – leaping between topics, resistant to corralling, exhausting to integrate into something coherent. This wasn&amp;rsquo;t just how they think during a workshop; it&amp;rsquo;s their daily reality.&lt;/p&gt;
+&lt;div class=&#34;lisn-photo-pair lisn-photo-pair-wide-left&#34;&gt;
+  &lt;img src=&#34;groups2.jpeg&#34; alt=&#34;Small groups of young workshop participants writing and discussing their inner experiences at tables.&#34;&gt;
+  &lt;img src=&#34;groups1.jpeg&#34; alt=&#34;Workshop participants seated around tables writing notes while a facilitator smiles in front of a projected artwork.&#34;&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;why-this-matters-beyond-academic-curiosity&#34;&gt;Why This Matters: Beyond Academic Curiosity&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s what struck us most: almost everyone said they&amp;rsquo;d learned something new – despite having lived with their own thoughts their entire lives. Inner experience is perhaps our most intimate, constant companion, yet we rarely discuss it. We assume everyone&amp;rsquo;s mental landscape looks like ours.&lt;/p&gt;
 &lt;p&gt;They don&amp;rsquo;t.&lt;/p&gt;
@@ -180,8 +238,8 @@ More Info:
 &lt;h2 id=&#34;the-journey-continues&#34;&gt;The Journey Continues&lt;/h2&gt;
 &lt;p&gt;This workshop is part of our larger &amp;ldquo;Voices of the Mind&amp;rdquo; project – an ongoing collaboration between scientists and artists to make the invisible visible, the private shareable, the assumed questionable. We&amp;rsquo;re refining our interactive instrument based on your feedback, with plans to showcase it more widely (watch this space).&lt;/p&gt;
 &lt;p&gt;But more importantly, we&amp;rsquo;re building a community of curious minds interested in the science of consciousness, inner experience, and how art can illuminate what brain scans alone cannot.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Want to join the conversation?&lt;/strong&gt; We&amp;rsquo;re building something new – a regular behind-the-scenes look at our research, upcoming workshops, and the fascinating science of how we think. 
-  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://lisn-lab.sender.site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;raquo;Sign up for our mailing list&amp;laquo;&lt;/a&gt; to explore the hidden diversity of human consciousness with us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to join the conversation?&lt;/strong&gt; Try our 3-minute &lt;a href=&#34;https://lisn-lab.org/tests/inner-voice/&#34;&gt;inner-voice self-test&lt;/a&gt; or 
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://lisn-lab.org/studies/#notify&#34;&gt;sign up to hear about new studies and events&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Because once you realise everyone thinks differently, you can never quite see the world – or yourself – the same way again.&lt;/p&gt;
 &lt;br&gt;
 More Info:
@@ -273,7 +331,8 @@ More Info:
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://lisn-lab.org/post/20250901-voicesofthemind-workshop1/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The most beautiful experience we can have is the mysterious. It is the source of all true art and science.&amp;rdquo; &lt;br&gt; &amp;ndash; Albert Einstein&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;The most beautiful experience we can have is the mysterious. It is the source of all true art and science.&amp;rdquo;
+– Albert Einstein&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The little voice in my head is one such mystery.&lt;/p&gt;
 &lt;p&gt;We all have different relationships with the voice in our head. Mine chatters as I read, write, and think. But here&amp;rsquo;s the fascinating part - your inner experience might be completely different from mine.&lt;/p&gt;
 &lt;p&gt;While science explains this phenomenon as our brain&amp;rsquo;s silent language production, the reality is far more diverse and intriguing. Some people experience abstract, non-verbal thoughts, others engage in rich inner monologues, and some hear multiple voices in conversation. This remarkable variety of inner experiences has long puzzled psychologists and fascinated artists alike.&lt;/p&gt;
@@ -384,10 +443,11 @@ More Info:
 
 &lt;p&gt;This workshop is part of a larger collaborative project with artists to develop an interactive instrument that allows people to &amp;lsquo;jam out&amp;rsquo; their thoughts and feelings in audiovisual patterns. The prototype will debut at our follow-up workshop on 16th September, and we&amp;rsquo;re excited to see how people will use it to express their own inner experiences.&lt;/p&gt;
 &lt;p&gt;Why does this matter? Because understanding the diversity of human consciousness isn&amp;rsquo;t just an academic pursuit - it&amp;rsquo;s a gateway to greater empathy and self-awareness. When we realise that everyone&amp;rsquo;s inner experience is unique, we become more accepting of our own mental processes and more understanding of others&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This workshop took place in September 2025. Read about what happened in &lt;a href=&#34;https://lisn-lab.org/post/20251012-voicesofthemind-workshop2/&#34;&gt;our follow-up post&lt;/a&gt;, or try the interactive &lt;a href=&#34;https://lisn-lab.org/projects/voicesofthemind/&#34;&gt;VoiceScape web app&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;So, are you curious about how your inner voice compares to others? Would you like to learn more about language, gender, and design in human-computer interactions? Join us on &lt;strong&gt;16th September 2025 @4-6pm at the &lt;a href=&#34;https://gregson.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gregson Centre&lt;/a&gt;&lt;/strong&gt;, to explore your own mental landscape through our new interactive art installation.&lt;/p&gt;
 &lt;p&gt;The session will be joined by Dr Bo Yao (Neuroscientist), Charlie Brown (Artist), Steven Hodges (Artist), and Dr Alice Ashcroft (Computer Scientist).&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-exclamation-triangle  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Please contact our lead artist Charlie Brown at &lt;a href=&#34;mailto:charlie_m_brown@icloud.com&#34;&gt;charlie_m_brown@icloud.com&lt;/a&gt; for more information and to sign up for this event.&lt;/p&gt;
+  &lt;i class=&#34;fas fa-exclamation-triangle  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Please contact our lead artist Charlie Brown at &lt;a href=&#34;mailto:charlie_m_brown@icloud.com&#34;&gt;charlie_m_brown@icloud.com&lt;/a&gt; for more information and to sign up for this event.&lt;/p&gt;
 &lt;br&gt;
 More Info:
 

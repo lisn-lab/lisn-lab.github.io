@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lisn-lab.org/research/language/</loc>
+    <loc>https://lisn-lab.org/research/innerspeech/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lisn-lab.org/research/innerspeech/</loc>
+    <loc>https://lisn-lab.org/research/language/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -14,15 +14,63 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lisn-lab.org/publication-type/2/</loc>
-    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <loc>https://lisn-lab.org/tag/ai/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/authors/</loc>
-    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/post/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/author/bo-yao/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/human-ai-thinking/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/inner-speech/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/llm/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/mental-health/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/phd/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/post/20261122-phd-opportunities-2027/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/recruitment/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tags/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/post/20261122-dsail-llm-thinking-workshop/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tag/workshop/</loc>
+    <lastmod>2026-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/publication-type/2/</loc>
     <lastmod>2026-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,10 +130,6 @@
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lisn-lab.org/post/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lisn-lab.org/author/a.-shahid/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,10 +186,6 @@
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lisn-lab.org/tag/inner-speech/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lisn-lab.org/tag/linguistic-active-inference/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -155,10 +195,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/post/20251212-linguisticactiveinference/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tags/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -248,14 +284,6 @@
   </url><url>
     <loc>https://lisn-lab.org/post/20250409-voicesofthemind-artist/</loc>
     <lastmod>2025-04-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tag/conference/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/post/20250407-epslancaster/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/tag/featured/</loc>
@@ -362,28 +390,12 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lisn-lab.org/tag/mental-health/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/projects/mhih/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lisn-lab.org/tag/news/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/tag/stars/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/post/20241030-stars-journalclub/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/post/20241001-apex-award/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/tag/funding/</loc>
@@ -642,31 +654,7 @@
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lisn-lab.org/tag/auditory-cortex/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tag/eye-movements/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tag/inner-speech-subtypes/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lisn-lab.org/research/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tag/self-processing/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tag/speech-quotation/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lisn-lab.org/tag/structural-processing/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -952,6 +940,12 @@
     <loc>https://lisn-lab.org/author/guyu-shen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lisn-lab.org/tests/inner-voice/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/tests/inner-voice-about/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lisn-lab.org/author/jess-west/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -967,7 +961,13 @@
     <loc>https://lisn-lab.org/author/maisie-dransfield/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lisn-lab.org/news/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lisn-lab.org/author/olivia-mak/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/author/rachel-armstrong/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/author/ryan-horsfall/</loc>
@@ -976,10 +976,16 @@
     <loc>https://lisn-lab.org/author/sa-lun-yuen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lisn-lab.org/author/sally-green/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lisn-lab.org/author/stephen-mander/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/author/summer-rickard/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lisn-lab.org/studies/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lisn-lab.org/author/yanxi-lu/</loc>

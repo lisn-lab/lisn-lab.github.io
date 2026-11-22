@@ -68,6 +68,19 @@
     var container = document.getElementById('phenom-cloud');
     if (!container) { setTimeout(init, 200); return; }
 
+    var listEl = document.getElementById('phenom-list');
+    if (listEl && listEl.children.length === 0) {
+      phrases.forEach(function(p) {
+        var li = document.createElement('li');
+        li.textContent = '“' + p + '”';
+        listEl.appendChild(li);
+      });
+    }
+
+    var toggleBtn = document.getElementById('phenom-toggle');
+    var reducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var paused = reducedMotion;
+
     var isNarrow = window.innerWidth < 700;
     var COLS = isNarrow ? 2 : 4;
     var ROWS = isNarrow ? 7 : 4;
@@ -77,8 +90,8 @@
     container.style.overflow = 'hidden';
     container.style.height = (isNarrow ? 520 : 380) + 'px';
 
-    var slotW = 100 / COLS; // percent of stage width
-    var slotH = 100 / ROWS; // percent of stage height
+    var slotW = 100 / COLS;
+    var slotH = 100 / ROWS;
 
     var pool = shuffle(phrases.slice());
     var poolIdx = 0;
@@ -91,19 +104,14 @@
     function setText(cell) {
       var phrase = nextPhrase();
       cell.textContent = '“' + phrase + '”';
-      // Short thoughts can shout; long ones stay quieter so they wrap less and
-      // don't crowd neighbours in the narrow columns.
-      var size = phrase.length > 22 ? (0.8 + Math.random() * 0.25)
-                                    : (0.95 + Math.random() * 0.45);
+      var size = phrase.length > 22 ? (0.82 + Math.random() * 0.22)
+                                    : (0.95 + Math.random() * 0.40);
       cell.style.fontSize = size.toFixed(2) + 'em';
     }
 
-    // Each cell lives in its own grid slot (no collisions) but sits at a
-    // jittered point inside that slot, so the overall field looks scattered.
     function place(cell, slot) {
-      var jx = (Math.random() - 0.5) * slotW * 0.30; // small horizontal wander
-      var jy = (Math.random() - 0.5) * slotH * 0.45; // freer vertical wander
-      // Map columns into an inset band so wide phrases never clip the edges.
+      var jx = (Math.random() - 0.5) * slotW * 0.30;
+      var jy = (Math.random() - 0.5) * slotH * 0.45;
       var padX = 5;
       var x = padX + (slot.c + 0.5) / COLS * (100 - 2 * padX) + jx;
       var y = (slot.r + 0.5) * slotH + jy;
@@ -112,22 +120,29 @@
       cell.style.transform = 'translate(-50%, -50%)';
     }
 
-    function revealCycle(cell, slot) {
-      var wipe = Math.random() < 0.45; // ~45% unfold left->right, rest fade in
-      var target = (0.55 + Math.random() * 0.4).toFixed(2);
+    var timers = [];
+    var items = [];
 
-      // Reset to the hidden state with no transition so it snaps instantly.
+    function clearTimers() {
+      timers.forEach(function(id) { clearTimeout(id); });
+      timers = [];
+    }
+
+    function revealCycle(cell, slot) {
+      if (paused) return;
+      var wipe = Math.random() < 0.45;
+      var target = (0.72 + Math.random() * 0.25).toFixed(2);
+
       cell.style.transition = 'none';
       if (wipe) {
-        cell.style.clipPath = 'inset(0 100% 0 0)'; // collapsed at the left edge
+        cell.style.clipPath = 'inset(0 100% 0 0)';
         cell.style.opacity = target;
       } else {
         cell.style.clipPath = 'inset(0 0 0 0)';
         cell.style.opacity = '0';
       }
-      void cell.offsetWidth; // commit the reset before animating
+      void cell.offsetWidth;
 
-      // Animate in: wipe cells unfold L->R, fade cells ease their opacity up.
       if (wipe) {
         cell.style.transition = 'clip-path 1.3s ease';
         cell.style.clipPath = 'inset(0 0 0 0)';
@@ -137,16 +152,40 @@
       }
 
       var hold = 4500 + Math.random() * 4500;
-      setTimeout(function() {
-        // Fleet away: fade out, then reappear elsewhere with a new phrase.
+      timers.push(setTimeout(function() {
+        if (paused) return;
         cell.style.transition = 'opacity 1.2s ease';
         cell.style.opacity = '0';
-        setTimeout(function() {
+        timers.push(setTimeout(function() {
+          if (paused) return;
           place(cell, slot);
           setText(cell);
           revealCycle(cell, slot);
-        }, 1300);
-      }, hold);
+        }, 1300));
+      }, hold));
+    }
+
+    function showStatic() {
+      clearTimers();
+      items.forEach(function(it) {
+        it.cell.style.transition = 'none';
+        it.cell.style.clipPath = 'inset(0 0 0 0)';
+        it.cell.style.opacity = '0.9';
+      });
+    }
+
+    function startMotion() {
+      clearTimers();
+      items.forEach(function(it) {
+        var startDelay = Math.random() * 2500;
+        timers.push(setTimeout(function() { revealCycle(it.cell, it.slot); }, startDelay));
+      });
+    }
+
+    function syncButton() {
+      if (!toggleBtn) return;
+      toggleBtn.textContent = paused ? 'Play animation' : 'Pause animation';
+      toggleBtn.setAttribute('aria-pressed', paused ? 'true' : 'false');
     }
 
     var slots = [];
@@ -161,16 +200,30 @@
       cell.style.fontStyle = 'italic';
       cell.style.color = 'inherit';
       cell.style.lineHeight = '1.25';
-      cell.style.maxWidth = (slotW * 0.85) + '%'; // keep long phrases inside their slot
-      cell.style.opacity = '0';
+      cell.style.maxWidth = (slotW * 0.85) + '%';
+      cell.style.opacity = paused ? '0.9' : '0';
       cell.style.willChange = 'opacity, clip-path';
       place(cell, slot);
       setText(cell);
       container.appendChild(cell);
-
-      var startDelay = Math.random() * 4000;
-      setTimeout(function() { revealCycle(cell, slot); }, startDelay);
+      items.push({ cell: cell, slot: slot });
     });
+
+    syncButton();
+    if (paused) {
+      showStatic();
+    } else {
+      startMotion();
+    }
+
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', function() {
+        paused = !paused;
+        syncButton();
+        if (paused) showStatic();
+        else startMotion();
+      });
+    }
   }
 
   if (document.readyState === 'loading') {

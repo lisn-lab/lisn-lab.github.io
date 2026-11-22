@@ -7,7 +7,7 @@
     <description>Paper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lisn-lab.org/media/icon_hu_efe3ed8cd119c4a9.png</url>
+      <url>https://lisn-lab.org/media/icon_hu_44751418c47da32f.png</url>
       <title>Paper</title>
       <link>https://lisn-lab.org/tag/paper/</link>
     </image>
@@ -17,19 +17,84 @@
       <link>https://lisn-lab.org/post/20251212-linguisticactiveinference/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://lisn-lab.org/post/20251212-linguisticactiveinference/</guid>
-      <description>&lt;p&gt;Why do we talk to ourselves in the head? I&amp;rsquo;ve spent years puzzling over this seemingly simple question.&lt;/p&gt;
-&lt;p&gt;Most of us talk to ourselves – that voice in your head narrating your thoughts, rehearsing conversations, working through problems. Vygotsky gave us a compelling story: social speech turns inward and becomes a tool for self-regulation and planning. But that tells us &lt;em&gt;where&lt;/em&gt; inner speech comes from and &lt;em&gt;what&lt;/em&gt; it does. It doesn&amp;rsquo;t quite answer &lt;em&gt;why language&lt;/em&gt; is the format the brain reaches for. What makes words so effective for thinking?&lt;/p&gt;
-&lt;p&gt;I kept running into contradictions: inner speech helps us with some tasks but not others. It feels effortless sometimes, deliberate other times. Some people report almost constant inner dialogue, others barely any. What&amp;rsquo;s really going on?&lt;/p&gt;
-&lt;p&gt;My new paper in &lt;em&gt;Psychological Review&lt;/em&gt; offers a potential answer – one that I&amp;rsquo;m rather excited about: inner speech helps our brains navigate uncertainty.&lt;/p&gt;
-&lt;p&gt;This is a hypothesis, a framework for thinking about the phenomenon, but it&amp;rsquo;s one that pulls together many disparate observations in a way that finally feels satisfying to me.&lt;/p&gt;
-&lt;img src=&#34;fig1.jpg&#34; style=&#34;width: 100%; display: inline-block;&#34;&gt;
-&lt;p&gt;Here&amp;rsquo;s the idea: your brain is constantly trying to predict what&amp;rsquo;s happening and what to do next. But the world is complex and ambiguous. Inner speech acts like a translator – it converts messy, overwhelming sensory experiences into compact linguistic forms (e.g., &amp;ldquo;Mona Lisa&amp;rdquo;) that your brain can work with. And it works in reverse too: it unpacks your abstract goals (e.g., staying healthy) into concrete, actionable steps (e.g., &amp;ldquo;salad, not chips&amp;rdquo;).&lt;/p&gt;
-&lt;p&gt;Think of it like this: when you&amp;rsquo;re anxious about an upcoming presentation, talking yourself through it – &amp;ldquo;Okay, who am I speaking to? First I&amp;rsquo;ll introduce the problem like this, maybe through a metaphor, then show the data like this&amp;hellip; if they ask about X, I&amp;rsquo;ll show them Y&amp;hellip;&amp;rdquo; – this isn&amp;rsquo;t just rehearsal. You&amp;rsquo;re literally reducing uncertainty by transforming a fuzzy, anxiety-inducing future into a structured linguistic sequence your brain can predict and control.&lt;/p&gt;
-&lt;p&gt;This explains why inner speech is so dynamic – it adapts its form based on how uncertain you are and what kind of problem you&amp;rsquo;re trying to solve. When you&amp;rsquo;re confused, it becomes more explicit, deliberate, and likely dialogic. When things are clear, it shortens and fades into the background.&lt;/p&gt;
-&lt;p&gt;The framework generates concrete predictions about when inner speech should emerge, what forms it takes, and how it connects to everything from working memory to mental health challenges.&lt;/p&gt;
-&lt;img src=&#34;fig2.jpg&#34; style=&#34;width: 100%; display: inline-block;&#34;&gt;
-&lt;p&gt;Read the full paper here: &lt;a href=&#34;https://doi.org/10.1037/rev0000607&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/rev0000607&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d love to hear your experiences – do you notice your inner voice changing depending on how uncertain or confused you feel?&lt;/p&gt;
+      <description>&lt;p&gt;Why do we talk to ourselves in our minds? I have spent years puzzling over this deceptively simple question.&lt;/p&gt;
+&lt;p&gt;Most of us experience a silent voice in our heads – narrating a tricky moment, rehearsing a difficult conversation, or quietly walking ourselves through a plan. Nearly a century ago, the developmental psychologist Lev Vygotsky offered a compelling origin story. As children grow, spoken dialogue with caregivers turns inward and becomes a tool for self-regulation and planning. That account tells us where inner speech comes from, yet a deeper puzzle remains. Why does the brain reach for &lt;em&gt;language&lt;/em&gt; – a system built for talking to other people – when thinking alone?&lt;/p&gt;
+&lt;p&gt;Look closely at the research and contradictions pile up quickly. Talking to yourself helps on some tasks and makes little difference on others. Sometimes inner speech arrives effortlessly as a single clipped word, while at other times it unfolds as a deliberate back-and-forth debate. Some people describe an almost constant inner conversation, while others report little or no inner voice at all.&lt;/p&gt;
+&lt;p&gt;In my paper in &lt;em&gt;Psychological Review&lt;/em&gt;, I propose a unifying framework called &lt;strong&gt;Linguistic Active Inference Theory&lt;/strong&gt; (LAIT). At its heart is a simple idea. Inner speech is an internal action that helps the mind and body navigate uncertainty.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Diagram of Linguistic Active Inference Theory over a brain silhouette, showing inner speech bridging abstract slow-timescale hidden mental states above with fast concrete sensory and active states interacting with the world below through hierarchical predictions and prediction errors.&#34; srcset=&#34;
+               /post/20251212-linguisticactiveinference/fig1_hu_5c25ab6e7e683a30.webp 400w,
+               /post/20251212-linguisticactiveinference/fig1_hu_420d6810a162b138.webp 760w,
+               /post/20251212-linguisticactiveinference/fig1_hu_f490ccda4e6a67f0.webp 1200w&#34;
+               src=&#34;https://lisn-lab.org/post/20251212-linguisticactiveinference/fig1_hu_5c25ab6e7e683a30.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;653&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;how-silent-words-guide-mind-and-body&#34;&gt;How silent words guide mind and body&lt;/h2&gt;
+&lt;p&gt;Every waking moment, your brain tries to make sense of what your senses are taking in and decide what your body should do next. Living organisms stay on track by predicting incoming sights, sounds, and physical outcomes, then updating those expectations whenever reality surprises them – a process known as &lt;em&gt;active inference&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When the world is familiar and predictable, perception and movement run smoothly on their own. When a situation becomes ambiguous or a decision is unclear, however, the mind needs a way to organise messy sensory detail and weigh possibilities beyond what is immediately in front of us. That is where inner speech comes in.&lt;/p&gt;
+&lt;p&gt;Language is compact, flexible, and generative. Putting an uncertain experience into words condenses sprawling sensory information into a sharp category your mind can work with, and putting an abstract goal into words unpacks it into concrete bodily steps. Crucially, what you say to yourself – and how you word it – alters both &lt;em&gt;what&lt;/em&gt; you expect to perceive or do next and &lt;em&gt;how firmly&lt;/em&gt; you hold onto that expectation.&lt;/p&gt;
+&lt;h2 id=&#34;why-your-inner-voice-changes-shape&#34;&gt;Why your inner voice changes shape&lt;/h2&gt;
+&lt;p&gt;Think about a moment just before leaving the house. You reach into your usual pocket and your keys are missing. One quiet word names what is absent – &lt;em&gt;&amp;ldquo;Keys.&amp;rdquo;&lt;/em&gt; A confident sentence narrows down where to look – &lt;em&gt;&amp;ldquo;If they aren&amp;rsquo;t here, they must be in my coat pocket&amp;rdquo;&lt;/em&gt; – and guides your hand straight to the coat. Even if your fingers touch a glove first, that confident wording keeps you searching that pocket a second time. When the pocket turns out empty, your inner speech shifts again into a brief internal exchange weighing options – &lt;em&gt;&amp;ldquo;Maybe on the table? Or by the door?&amp;rdquo;&lt;/em&gt; The moment you spot the keys, the voice stops.&lt;/p&gt;
+&lt;p&gt;Seen through linguistic active inference, the changing shape of inner speech follows the structure of the uncertainty you face. Single words help pin down what something is, full sentences map out &lt;em&gt;if-then&lt;/em&gt; steps for action, and internal dialogues weigh competing choices. When uncertainty is high and a problem can be captured in words, inner speech expands and coordinates with your eyes, posture, attention, and bodily arousal. When things become clear and routine, it condenses and fades into the background.&lt;/p&gt;
+&lt;h2 id=&#34;one-framework-across-everyday-thought-diversity-and-distress&#34;&gt;One framework across everyday thought, diversity, and distress&lt;/h2&gt;
+&lt;p&gt;Framing inner speech as uncertainty-driven linguistic inference connects observations that used to sit in separate silos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Why benefits are selective.&lt;/strong&gt; Inner speech helps most when a task involves resolvable uncertainty that words can capture, and adds little when sensory cues are already clear or hard to put into words. Confident wording sharpens perception and action when expectations are right, and can entrench mistakes when expectations are wrong.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why people differ so widely.&lt;/strong&gt; People differ in how readily they reach for words when uncertain and how heavily they weight verbal expectations alongside visual imagery, bodily cues, and direct sensory evidence. A mind with little inner speech can still navigate the world effectively through non-verbal inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When inner speech turns unhelpful.&lt;/strong&gt; The same mechanism also offers a fresh lens on mental health. When uncertainty feels impossible to resolve, inner speech can lock into repetitive negative loops (rumination). When internal verbal expectations are weighted too strongly relative to sensory input, internal speech may even be experienced as an external voice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Three-part diagram of Linguistic Active Inference Theory linking phenomenological forms of inner speech from condensed to expanded monologic and dialogic forms as uncertainty rises, cognitive functions across perceptually driven inference and goal-directed control, and the developmental trajectory from social dialogue through private speech to inner speech.&#34; srcset=&#34;
+               /post/20251212-linguisticactiveinference/fig2_hu_f2d9a432b2d66e92.webp 400w,
+               /post/20251212-linguisticactiveinference/fig2_hu_224ebbfb81b0c2f5.webp 760w,
+               /post/20251212-linguisticactiveinference/fig2_hu_3e3bf424db0eab1c.webp 1200w&#34;
+               src=&#34;https://lisn-lab.org/post/20251212-linguisticactiveinference/fig2_hu_f2d9a432b2d66e92.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;677&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;looking-ahead&#34;&gt;Looking ahead&lt;/h2&gt;
+&lt;p&gt;A theory is only as useful as the predictions it lets us test – and potentially disprove. In the LISN Lab, we are putting linguistic active inference to the test by combining behavioural experiments, eye tracking, brain recordings (EEG), ultrasound imaging of tongue movements, physiological signals, and self-talking computational models. Together, these methods let us watch how silent language, brain activity, and bodily action coordinate in real time as uncertainty rises and falls.&lt;/p&gt;
+&lt;p&gt;Read the full paper in &lt;a href=&#34;https://doi.org/10.1037/rev0000607&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Psychological Review&lt;/em&gt;&lt;/a&gt;, explore &lt;a href=&#34;https://lisn-lab.org/research/innerspeech/&#34;&gt;our inner speech research&lt;/a&gt;, or try our 3-minute &lt;a href=&#34;https://lisn-lab.org/tests/inner-voice/&#34;&gt;inner-voice self-test&lt;/a&gt; to see how your experience compares with more than a thousand adults.&lt;/p&gt;
+&lt;p&gt;Do you notice your inner voice shifting – or going quiet – as situations become clearer or more uncertain?&lt;/p&gt;
 </description>
     </item>
     

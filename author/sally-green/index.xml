@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sally Green | LISN Lab</title>
+    <link>https://lisn-lab.org/author/sally-green/</link>
+      <atom:link href="https://lisn-lab.org/author/sally-green/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sally Green</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
+    <image>
+      <url>https://lisn-lab.org/media/icon_hu_44751418c47da32f.png</url>
+      <title>Sally Green</title>
+      <link>https://lisn-lab.org/author/sally-green/</link>
+    </image>
+    
+  </channel>
+</rss>
